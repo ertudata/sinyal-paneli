@@ -1,5 +1,18 @@
 [
   {
+    "id": "MOVR/USDT:USDT_1780832035",
+    "symbol": "MOVR",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 1.353,
+    "exit_price": null,
+    "sl": 1.33947,
+    "tp": 1.38006,
+    "pnl": null,
+    "change_pct": -0.806,
+    "timestamp": "2026-06-07T11:33:55.285627Z"
+  },
+  {
     "id": "BTW/USDT:USDT_1780832013",
     "symbol": "BTW",
     "direction": "LONG",
