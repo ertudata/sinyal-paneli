@@ -1,5 +1,18 @@
 [
   {
+    "id": "APR/USDT:USDT_1780831384",
+    "symbol": "APR",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.24265,
+    "exit_price": null,
+    "sl": 0.2402235,
+    "tp": 0.247503,
+    "pnl": null,
+    "change_pct": -0.549,
+    "timestamp": "2026-06-07T11:23:04.817161Z"
+  },
+  {
     "id": "ESPORTS/USDT:USDT_1780831381",
     "symbol": "ESPORTS",
     "direction": "LONG",
