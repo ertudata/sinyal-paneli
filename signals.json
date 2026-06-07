@@ -1,5 +1,18 @@
 [
   {
+    "id": "HUMA/USDT:USDT_1780831392",
+    "symbol": "HUMA",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.025007,
+    "exit_price": null,
+    "sl": 0.025257070000000003,
+    "tp": 0.024506860000000002,
+    "pnl": null,
+    "change_pct": 0.766,
+    "timestamp": "2026-06-07T11:23:12.217933Z"
+  },
+  {
     "id": "GWEI/USDT:USDT_1780831388",
     "symbol": "GWEI",
     "direction": "SHORT",
