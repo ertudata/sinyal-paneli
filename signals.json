@@ -523,14 +523,14 @@
     "id": "DASH/USDT:USDT_1780832127",
     "symbol": "DASH",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 37.38,
-    "exit_price": null,
+    "exit_price": 37.753800000000005,
     "sl": 37.753800000000005,
     "tp": 36.632400000000004,
-    "pnl": null,
-    "change_pct": 0.511,
-    "timestamp": "2026-06-07T11:35:27.100470Z"
+    "pnl": -100.0,
+    "change_pct": -1.0,
+    "timestamp": "2026-06-07T11:45:28.904794Z"
   },
   {
     "id": "TAKE/USDT:USDT_1780832124",
