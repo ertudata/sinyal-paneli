@@ -1,5 +1,18 @@
 [
   {
+    "id": "SIREN/USDT:USDT_1780831109",
+    "symbol": "SIREN",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 1.1039,
+    "exit_price": null,
+    "sl": 1.1149390000000001,
+    "tp": 1.081822,
+    "pnl": null,
+    "change_pct": 2.928,
+    "timestamp": "2026-06-07T11:18:29.578481Z"
+  },
+  {
     "id": "VVV/USDT:USDT_1780831106",
     "symbol": "VVV",
     "direction": "SHORT",
