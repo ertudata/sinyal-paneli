@@ -1,5 +1,18 @@
 [
   {
+    "id": "ALLO/USDT:USDT_1780832848",
+    "symbol": "ALLO",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.30388,
+    "exit_price": null,
+    "sl": 0.3069188,
+    "tp": 0.29780239999999997,
+    "pnl": null,
+    "change_pct": 0.576,
+    "timestamp": "2026-06-07T11:47:28.291267Z"
+  },
+  {
     "id": "DASH/USDT:USDT_1780832815",
     "symbol": "DASH",
     "direction": "SHORT",
