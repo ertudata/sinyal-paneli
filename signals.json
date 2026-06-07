@@ -1,5 +1,18 @@
 [
   {
+    "id": "IN/USDT:USDT_1780831964",
+    "symbol": "IN",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.0843,
+    "exit_price": null,
+    "sl": 0.083457,
+    "tp": 0.085986,
+    "pnl": null,
+    "change_pct": -0.847,
+    "timestamp": "2026-06-07T11:32:44.483180Z"
+  },
+  {
     "id": "SIREN/USDT:USDT_1780831946",
     "symbol": "SIREN",
     "direction": "LONG",
