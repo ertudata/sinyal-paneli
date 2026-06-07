@@ -1,5 +1,18 @@
 [
   {
+    "id": "C/USDT:USDT_1780831538",
+    "symbol": "C",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.10115,
+    "exit_price": null,
+    "sl": 0.1021615,
+    "tp": 0.099127,
+    "pnl": null,
+    "change_pct": 0.928,
+    "timestamp": "2026-06-07T11:25:38.031197Z"
+  },
+  {
     "id": "AIGENSYN/USDT:USDT_1780831513",
     "symbol": "AIGENSYN",
     "direction": "SHORT",
