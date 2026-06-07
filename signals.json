@@ -1,5 +1,18 @@
 [
   {
+    "id": "IDOL/USDT:USDT_1780832276",
+    "symbol": "IDOL",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.03004,
+    "exit_price": null,
+    "sl": 0.0297396,
+    "tp": 0.030640800000000003,
+    "pnl": null,
+    "change_pct": -0.629,
+    "timestamp": "2026-06-07T11:37:56.888390Z"
+  },
+  {
     "id": "VELVET/USDT:USDT_1780832256",
     "symbol": "VELVET",
     "direction": "SHORT",
