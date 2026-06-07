@@ -1,5 +1,18 @@
 [
   {
+    "id": "SKHYNIX/USDT:USDT_1780831012",
+    "symbol": "SKHYNIX",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 1274.22,
+    "exit_price": null,
+    "sl": 1286.9622,
+    "tp": 1248.7356,
+    "pnl": null,
+    "change_pct": 0.755,
+    "timestamp": "2026-06-07T11:16:52.415799Z"
+  },
+  {
     "id": "SIREN/USDT:USDT_1780831009",
     "symbol": "SIREN",
     "direction": "SHORT",
