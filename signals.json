@@ -523,14 +523,14 @@
     "id": "FIDA/USDT:USDT_1780831889",
     "symbol": "FIDA",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.02808,
-    "exit_price": null,
+    "exit_price": 0.028360800000000002,
     "sl": 0.028360800000000002,
     "tp": 0.027518400000000002,
-    "pnl": null,
-    "change_pct": 0.573,
-    "timestamp": "2026-06-07T11:31:29.656421Z"
+    "pnl": -100.0,
+    "change_pct": -1.0,
+    "timestamp": "2026-06-07T11:41:27.082919Z"
   },
   {
     "id": "BANK/USDT:USDT_1780831887",
