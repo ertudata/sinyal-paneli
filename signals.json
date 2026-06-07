@@ -224,14 +224,14 @@
     "id": "AIN/USDT:USDT_1780831658",
     "symbol": "AIN",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.07059,
-    "exit_price": null,
+    "exit_price": 0.0712959,
     "sl": 0.0712959,
     "tp": 0.0691782,
-    "pnl": null,
-    "change_pct": 0.527,
-    "timestamp": "2026-06-07T11:27:38.778563Z"
+    "pnl": -100.0,
+    "change_pct": -1.0,
+    "timestamp": "2026-06-07T11:32:05.909273Z"
   },
   {
     "id": "SIREN/USDT:USDT_1780831640",
