@@ -1,5 +1,18 @@
 [
   {
+    "id": "LIGHT/USDT:USDT_1780832945",
+    "symbol": "LIGHT",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.1005,
+    "exit_price": null,
+    "sl": 0.10150500000000001,
+    "tp": 0.09849000000000001,
+    "pnl": null,
+    "change_pct": 0.601,
+    "timestamp": "2026-06-07T11:49:05.660073Z"
+  },
+  {
     "id": "AIN/USDT:USDT_1780832930",
     "symbol": "AIN",
     "direction": "SHORT",
