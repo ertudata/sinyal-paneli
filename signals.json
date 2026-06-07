@@ -1,5 +1,18 @@
 [
   {
+    "id": "BAT/USDT:USDT_1780831404",
+    "symbol": "BAT",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.0848,
+    "exit_price": null,
+    "sl": 0.085648,
+    "tp": 0.083104,
+    "pnl": null,
+    "change_pct": 0.593,
+    "timestamp": "2026-06-07T11:23:24.437971Z"
+  },
+  {
     "id": "SIREN/USDT:USDT_1780831399",
     "symbol": "SIREN",
     "direction": "SHORT",
