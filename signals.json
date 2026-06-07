@@ -1,5 +1,18 @@
 [
   {
+    "id": "SKYAI/USDT:USDT_1780832037",
+    "symbol": "SKYAI",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.27474,
+    "exit_price": null,
+    "sl": 0.2719926,
+    "tp": 0.2802348,
+    "pnl": null,
+    "change_pct": -0.651,
+    "timestamp": "2026-06-07T11:33:57.786998Z"
+  },
+  {
     "id": "MOVR/USDT:USDT_1780832035",
     "symbol": "MOVR",
     "direction": "LONG",
