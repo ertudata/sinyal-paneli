@@ -42,14 +42,14 @@
     "id": "CTSI/USDT:USDT_1780831070",
     "symbol": "CTSI",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.0259,
-    "exit_price": null,
+    "exit_price": 0.025641,
     "sl": 0.025641,
     "tp": 0.026418,
-    "pnl": null,
-    "change_pct": -0.728,
-    "timestamp": "2026-06-07T11:17:50.170503Z"
+    "pnl": -100.0,
+    "change_pct": -1.0,
+    "timestamp": "2026-06-07T11:18:22.445844Z"
   },
   {
     "id": "BEAT/USDT:USDT_1780831066",
