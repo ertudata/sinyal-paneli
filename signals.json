@@ -1,5 +1,18 @@
 [
   {
+    "id": "SIREN/USDT:USDT_1780831399",
+    "symbol": "SIREN",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 1.1605,
+    "exit_price": null,
+    "sl": 1.1721050000000002,
+    "tp": 1.1372900000000001,
+    "pnl": null,
+    "change_pct": 2.927,
+    "timestamp": "2026-06-07T11:23:19.696330Z"
+  },
+  {
     "id": "JTO/USDT:USDT_1780831395",
     "symbol": "JTO",
     "direction": "SHORT",
