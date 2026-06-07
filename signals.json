@@ -1,5 +1,18 @@
 [
   {
+    "id": "D/USDT:USDT_1780832549",
+    "symbol": "D",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.005775,
+    "exit_price": null,
+    "sl": 0.005832749999999999,
+    "tp": 0.0056595,
+    "pnl": null,
+    "change_pct": 1.156,
+    "timestamp": "2026-06-07T11:42:29.238599Z"
+  },
+  {
     "id": "BIO/USDT:USDT_1780832513",
     "symbol": "BIO",
     "direction": "SHORT",
