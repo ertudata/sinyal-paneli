@@ -1,5 +1,18 @@
 [
   {
+    "id": "SIREN/USDT:USDT_1780831237",
+    "symbol": "SIREN",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 1.146,
+    "exit_price": null,
+    "sl": 1.15746,
+    "tp": 1.1230799999999999,
+    "pnl": null,
+    "change_pct": 0.765,
+    "timestamp": "2026-06-07T11:20:37.695534Z"
+  },
+  {
     "id": "HEI/USDT:USDT_1780831234",
     "symbol": "HEI",
     "direction": "SHORT",
