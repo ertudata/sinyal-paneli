@@ -1,5 +1,18 @@
 [
   {
+    "id": "UAI/USDT:USDT_1780831434",
+    "symbol": "UAI",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.2727,
+    "exit_price": null,
+    "sl": 0.275427,
+    "tp": 0.267246,
+    "pnl": null,
+    "change_pct": 0.553,
+    "timestamp": "2026-06-07T11:23:54.504390Z"
+  },
+  {
     "id": "DRAM/USDT:USDT_1780831430",
     "symbol": "DRAM",
     "direction": "SHORT",
