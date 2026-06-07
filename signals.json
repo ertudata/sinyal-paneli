@@ -1,5 +1,18 @@
 [
   {
+    "id": "DASH/USDT:USDT_1780832815",
+    "symbol": "DASH",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 37.82,
+    "exit_price": null,
+    "sl": 38.1982,
+    "tp": 37.0636,
+    "pnl": null,
+    "change_pct": 1.096,
+    "timestamp": "2026-06-07T11:46:55.665152Z"
+  },
+  {
     "id": "AIOT/USDT:USDT_1780832797",
     "symbol": "AIOT",
     "direction": "LONG",
