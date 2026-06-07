@@ -1,5 +1,18 @@
 [
   {
+    "id": "H/USDT:USDT_1780831470",
+    "symbol": "H",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.72821,
+    "exit_price": null,
+    "sl": 0.7354921,
+    "tp": 0.7136458,
+    "pnl": null,
+    "change_pct": 1.752,
+    "timestamp": "2026-06-07T11:24:30.803351Z"
+  },
+  {
     "id": "PARTI/USDT:USDT_1780831452",
     "symbol": "PARTI",
     "direction": "LONG",
