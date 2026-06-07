@@ -874,14 +874,14 @@
     "id": "TAKE/USDT:USDT_1780831315",
     "symbol": "TAKE",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.01748,
-    "exit_price": null,
+    "exit_price": 0.0176548,
     "sl": 0.0176548,
     "tp": 0.017130399999999997,
-    "pnl": null,
-    "change_pct": 0.807,
-    "timestamp": "2026-06-07T11:21:55.976037Z"
+    "pnl": -100.0,
+    "change_pct": -1.0,
+    "timestamp": "2026-06-07T11:35:22.039920Z"
   },
   {
     "id": "OPN/USDT:USDT_1780831297",
