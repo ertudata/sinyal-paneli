@@ -1,5 +1,18 @@
 [
   {
+    "id": "ZEC/USDT:USDT_1780832230",
+    "symbol": "ZEC",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 412.06,
+    "exit_price": null,
+    "sl": 416.1806,
+    "tp": 403.8188,
+    "pnl": null,
+    "change_pct": 0.817,
+    "timestamp": "2026-06-07T11:37:10.458893Z"
+  },
+  {
     "id": "USELESS/USDT:USDT_1780832227",
     "symbol": "USELESS",
     "direction": "SHORT",
