@@ -1,5 +1,18 @@
 [
   {
+    "id": "LISTA/USDT:USDT_1780832625",
+    "symbol": "LISTA",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.05353,
+    "exit_price": null,
+    "sl": 0.054065300000000004,
+    "tp": 0.0524594,
+    "pnl": null,
+    "change_pct": 0.715,
+    "timestamp": "2026-06-07T11:43:45.249523Z"
+  },
+  {
     "id": "BILL/USDT:USDT_1780832579",
     "symbol": "BILL",
     "direction": "SHORT",
