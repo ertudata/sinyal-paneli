@@ -1,5 +1,18 @@
 [
   {
+    "id": "POL/USDT:USDT_1780831038",
+    "symbol": "POL",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.07922,
+    "exit_price": null,
+    "sl": 0.07842779999999999,
+    "tp": 0.0808044,
+    "pnl": null,
+    "change_pct": -0.627,
+    "timestamp": "2026-06-07T11:17:18.361518Z"
+  },
+  {
     "id": "FIDA/USDT:USDT_1780831019",
     "symbol": "FIDA",
     "direction": "LONG",
