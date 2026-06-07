@@ -679,14 +679,14 @@
     "id": "BROCCOLIF3B/USDT:USDT_1780831442",
     "symbol": "BROCCOLIF3B",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.004727,
-    "exit_price": null,
+    "exit_price": 0.004774270000000001,
     "sl": 0.004774270000000001,
     "tp": 0.004632460000000001,
-    "pnl": null,
-    "change_pct": 2.739,
-    "timestamp": "2026-06-07T11:24:02.326447Z"
+    "pnl": -100.0,
+    "change_pct": -1.0,
+    "timestamp": "2026-06-07T11:35:44.984471Z"
   },
   {
     "id": "SIREN/USDT:USDT_1780831437",
