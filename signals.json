@@ -1,5 +1,18 @@
 [
   {
+    "id": "SQD/USDT:USDT_1780831276",
+    "symbol": "SQD",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.03204,
+    "exit_price": null,
+    "sl": 0.0323604,
+    "tp": 0.031399199999999995,
+    "pnl": null,
+    "change_pct": 0.502,
+    "timestamp": "2026-06-07T11:21:16.758319Z"
+  },
+  {
     "id": "SKYAI/USDT:USDT_1780831274",
     "symbol": "SKYAI",
     "direction": "LONG",
