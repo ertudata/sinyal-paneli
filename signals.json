@@ -432,14 +432,14 @@
     "id": "DRAM/USDT:USDT_1780831982",
     "symbol": "DRAM",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 59.48,
-    "exit_price": null,
+    "exit_price": 58.2904,
     "sl": 60.074799999999996,
     "tp": 58.2904,
-    "pnl": null,
-    "change_pct": 1.071,
-    "timestamp": "2026-06-07T11:33:02.380494Z"
+    "pnl": 200.0,
+    "change_pct": 2.0,
+    "timestamp": "2026-06-07T11:40:39.751422Z"
   },
   {
     "id": "IN/USDT:USDT_1780831964",
