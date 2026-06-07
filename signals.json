@@ -1,5 +1,18 @@
 [
   {
+    "id": "SAMSUNG/USDT:USDT_1780831080",
+    "symbol": "SAMSUNG",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 198.56,
+    "exit_price": null,
+    "sl": 200.5456,
+    "tp": 194.5888,
+    "pnl": null,
+    "change_pct": 0.537,
+    "timestamp": "2026-06-07T11:18:00.713536Z"
+  },
+  {
     "id": "H/USDT:USDT_1780831077",
     "symbol": "H",
     "direction": "LONG",
