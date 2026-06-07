@@ -1,5 +1,18 @@
 [
   {
+    "id": "SKHYNIX/USDT:USDT_1780831553",
+    "symbol": "SKHYNIX",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 1279.61,
+    "exit_price": null,
+    "sl": 1266.8138999999999,
+    "tp": 1305.2022,
+    "pnl": null,
+    "change_pct": -0.639,
+    "timestamp": "2026-06-07T11:25:53.003560Z"
+  },
+  {
     "id": "UB/USDT:USDT_1780831550",
     "symbol": "UB",
     "direction": "SHORT",
