@@ -549,14 +549,14 @@
     "id": "AIN/USDT:USDT_1780832103",
     "symbol": "AIN",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.07189,
-    "exit_price": null,
+    "exit_price": 0.07260889999999999,
     "sl": 0.07260889999999999,
     "tp": 0.07045219999999999,
-    "pnl": null,
-    "change_pct": 0.545,
-    "timestamp": "2026-06-07T11:35:03.939391Z"
+    "pnl": -100.0,
+    "change_pct": -1.0,
+    "timestamp": "2026-06-07T11:45:16.215956Z"
   },
   {
     "id": "EDEN/USDT:USDT_1780832085",
