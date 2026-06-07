@@ -1,5 +1,18 @@
 [
   {
+    "id": "JTO/USDT:USDT_1780832673",
+    "symbol": "JTO",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.6421,
+    "exit_price": null,
+    "sl": 0.648521,
+    "tp": 0.629258,
+    "pnl": null,
+    "change_pct": 0.564,
+    "timestamp": "2026-06-07T11:44:33.084160Z"
+  },
+  {
     "id": "CBRS/USDT:USDT_1780832660",
     "symbol": "CBRS",
     "direction": "SHORT",
