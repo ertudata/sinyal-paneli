@@ -1,5 +1,18 @@
 [
   {
+    "id": "ACX/USDT:USDT_1780832011",
+    "symbol": "ACX",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.04232,
+    "exit_price": null,
+    "sl": 0.041896800000000005,
+    "tp": 0.04316640000000001,
+    "pnl": null,
+    "change_pct": -0.634,
+    "timestamp": "2026-06-07T11:33:31.370487Z"
+  },
+  {
     "id": "VELVET/USDT:USDT_1780832008",
     "symbol": "VELVET",
     "direction": "SHORT",
