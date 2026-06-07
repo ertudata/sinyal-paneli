@@ -627,14 +627,14 @@
     "id": "JTO/USDT:USDT_1780831395",
     "symbol": "JTO",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.6355,
-    "exit_price": null,
+    "exit_price": 0.641855,
     "sl": 0.641855,
     "tp": 0.62279,
-    "pnl": null,
-    "change_pct": 0.761,
-    "timestamp": "2026-06-07T11:23:15.851926Z"
+    "pnl": -100.0,
+    "change_pct": -1.0,
+    "timestamp": "2026-06-07T11:33:22.811857Z"
   },
   {
     "id": "HUMA/USDT:USDT_1780831392",
