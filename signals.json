@@ -1,5 +1,18 @@
 [
   {
+    "id": "ID/USDT:USDT_1780831041",
+    "symbol": "ID",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.02659,
+    "exit_price": null,
+    "sl": 0.0263241,
+    "tp": 0.027121799999999998,
+    "pnl": null,
+    "change_pct": -0.561,
+    "timestamp": "2026-06-07T11:17:21.184158Z"
+  },
+  {
     "id": "POL/USDT:USDT_1780831038",
     "symbol": "POL",
     "direction": "LONG",
