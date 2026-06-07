@@ -1,5 +1,18 @@
 [
   {
+    "id": "OPN/USDT:USDT_1780831297",
+    "symbol": "OPN",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.1362,
+    "exit_price": null,
+    "sl": 0.13483799999999999,
+    "tp": 0.138924,
+    "pnl": null,
+    "change_pct": -0.511,
+    "timestamp": "2026-06-07T11:21:37.500587Z"
+  },
+  {
     "id": "CTSI/USDT:USDT_1780831294",
     "symbol": "CTSI",
     "direction": "SHORT",
