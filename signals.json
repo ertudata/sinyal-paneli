@@ -731,14 +731,14 @@
     "id": "BSB/USDT:USDT_1780831360",
     "symbol": "BSB",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.25899,
-    "exit_price": null,
+    "exit_price": 0.2641698,
     "sl": 0.2564001,
     "tp": 0.2641698,
-    "pnl": null,
-    "change_pct": -0.511,
-    "timestamp": "2026-06-07T11:22:40.827781Z"
+    "pnl": 200.0,
+    "change_pct": 2.0,
+    "timestamp": "2026-06-07T11:33:52.542151Z"
   },
   {
     "id": "ZEST/USDT:USDT_1780831358",
