@@ -1,5 +1,18 @@
 [
   {
+    "id": "VVV/USDT:USDT_1780831106",
+    "symbol": "VVV",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 16.52,
+    "exit_price": null,
+    "sl": 16.6852,
+    "tp": 16.1896,
+    "pnl": null,
+    "change_pct": 0.732,
+    "timestamp": "2026-06-07T11:18:26.025127Z"
+  },
+  {
     "id": "SAMSUNG/USDT:USDT_1780831080",
     "symbol": "SAMSUNG",
     "direction": "SHORT",
