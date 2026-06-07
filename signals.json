@@ -549,14 +549,14 @@
     "id": "AIO/USDT:USDT_1780831884",
     "symbol": "AIO",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.12288,
-    "exit_price": null,
+    "exit_price": 0.1241088,
     "sl": 0.1241088,
     "tp": 0.1204224,
-    "pnl": null,
-    "change_pct": 0.614,
-    "timestamp": "2026-06-07T11:31:24.432583Z"
+    "pnl": -100.0,
+    "change_pct": -1.0,
+    "timestamp": "2026-06-07T11:41:16.626403Z"
   },
   {
     "id": "SIREN/USDT:USDT_1780831863",
