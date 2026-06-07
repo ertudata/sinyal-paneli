@@ -1,5 +1,18 @@
 [
   {
+    "id": "BTW/USDT:USDT_1780831256",
+    "symbol": "BTW",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.056227,
+    "exit_price": null,
+    "sl": 0.055664729999999996,
+    "tp": 0.05735154,
+    "pnl": null,
+    "change_pct": -0.691,
+    "timestamp": "2026-06-07T11:20:56.035029Z"
+  },
+  {
     "id": "SIREN/USDT:USDT_1780831237",
     "symbol": "SIREN",
     "direction": "SHORT",
