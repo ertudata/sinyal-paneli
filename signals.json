@@ -1,5 +1,18 @@
 [
   {
+    "id": "MBOX/USDT:USDT_1780831861",
+    "symbol": "MBOX",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.00706,
+    "exit_price": null,
+    "sl": 0.0071306,
+    "tp": 0.0069188,
+    "pnl": null,
+    "change_pct": 0.57,
+    "timestamp": "2026-06-07T11:31:01.535265Z"
+  },
+  {
     "id": "OPN/USDT:USDT_1780831858",
     "symbol": "OPN",
     "direction": "SHORT",
