@@ -1,5 +1,18 @@
 [
   {
+    "id": "AIO/USDT:USDT_1780832504",
+    "symbol": "AIO",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.12479,
+    "exit_price": null,
+    "sl": 0.1260379,
+    "tp": 0.12229419999999999,
+    "pnl": null,
+    "change_pct": 0.8,
+    "timestamp": "2026-06-07T11:41:44.648436Z"
+  },
+  {
     "id": "FIDA/USDT:USDT_1780832495",
     "symbol": "FIDA",
     "direction": "SHORT",
