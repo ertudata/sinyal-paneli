@@ -185,14 +185,14 @@
     "id": "BTW/USDT:USDT_1780832150",
     "symbol": "BTW",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.055278,
-    "exit_price": null,
+    "exit_price": 0.05583078,
     "sl": 0.05583078,
     "tp": 0.05417244,
-    "pnl": null,
-    "change_pct": 0.502,
-    "timestamp": "2026-06-07T11:35:50.151006Z"
+    "pnl": -100.0,
+    "change_pct": -1.0,
+    "timestamp": "2026-06-07T11:38:17.978732Z"
   },
   {
     "id": "DASH/USDT:USDT_1780832127",
