@@ -159,14 +159,14 @@
     "id": "AR/USDT:USDT_1780831543",
     "symbol": "AR",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 1.994,
-    "exit_price": null,
+    "exit_price": 2.01394,
     "sl": 2.01394,
     "tp": 1.9541199999999999,
-    "pnl": null,
-    "change_pct": 0.911,
-    "timestamp": "2026-06-07T11:25:43.084043Z"
+    "pnl": -100.0,
+    "change_pct": -1.0,
+    "timestamp": "2026-06-07T11:28:32.739553Z"
   },
   {
     "id": "VELVET/USDT:USDT_1780831540",
