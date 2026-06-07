@@ -1,5 +1,18 @@
 [
   {
+    "id": "ICNT/USDT:USDT_1780832178",
+    "symbol": "ICNT",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.2436,
+    "exit_price": null,
+    "sl": 0.24116400000000002,
+    "tp": 0.24847200000000003,
+    "pnl": null,
+    "change_pct": -0.895,
+    "timestamp": "2026-06-07T11:36:18.541094Z"
+  },
+  {
     "id": "BROCCOLIF3B/USDT:USDT_1780832157",
     "symbol": "BROCCOLIF3B",
     "direction": "SHORT",
