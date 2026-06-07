@@ -42,14 +42,14 @@
     "id": "SIREN/USDT:USDT_1780831640",
     "symbol": "SIREN",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 1.1238,
-    "exit_price": null,
+    "exit_price": 1.1462759999999999,
     "sl": 1.1125619999999998,
     "tp": 1.1462759999999999,
-    "pnl": null,
-    "change_pct": -1.178,
-    "timestamp": "2026-06-07T11:27:20.925622Z"
+    "pnl": 200.0,
+    "change_pct": 2.0,
+    "timestamp": "2026-06-07T11:28:35.415391Z"
   },
   {
     "id": "VELVET/USDT:USDT_1780831638",
