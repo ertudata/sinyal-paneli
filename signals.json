@@ -1,5 +1,18 @@
 [
   {
+    "id": "EDEN/USDT:USDT_1780832085",
+    "symbol": "EDEN",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.05448,
+    "exit_price": null,
+    "sl": 0.0539352,
+    "tp": 0.055569600000000004,
+    "pnl": null,
+    "change_pct": -1.197,
+    "timestamp": "2026-06-07T11:34:45.464754Z"
+  },
+  {
     "id": "EDEN/USDT:USDT_1780832064",
     "symbol": "EDEN",
     "direction": "LONG",
