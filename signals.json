@@ -1,5 +1,18 @@
 [
   {
+    "id": "WLD/USDT:USDT_1780832253",
+    "symbol": "WLD",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.4333,
+    "exit_price": null,
+    "sl": 0.43763300000000005,
+    "tp": 0.424634,
+    "pnl": null,
+    "change_pct": 0.534,
+    "timestamp": "2026-06-07T11:37:33.556623Z"
+  },
+  {
     "id": "BEAT/USDT:USDT_1780832251",
     "symbol": "BEAT",
     "direction": "SHORT",
