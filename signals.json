@@ -224,14 +224,14 @@
     "id": "VELVET/USDT:USDT_1780832008",
     "symbol": "VELVET",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.21833,
-    "exit_price": null,
+    "exit_price": 0.2205133,
     "sl": 0.2205133,
     "tp": 0.2139634,
-    "pnl": null,
-    "change_pct": 0.738,
-    "timestamp": "2026-06-07T11:33:28.961765Z"
+    "pnl": -100.0,
+    "change_pct": -1.0,
+    "timestamp": "2026-06-07T11:36:44.856749Z"
   },
   {
     "id": "DRAM/USDT:USDT_1780831982",
