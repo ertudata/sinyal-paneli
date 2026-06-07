@@ -783,14 +783,14 @@
     "id": "ZEREBRO/USDT:USDT_1780831738",
     "symbol": "ZEREBRO",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.024245,
-    "exit_price": null,
+    "exit_price": 0.024002549999999997,
     "sl": 0.024002549999999997,
     "tp": 0.0247299,
-    "pnl": null,
-    "change_pct": -0.566,
-    "timestamp": "2026-06-07T11:28:58.671575Z"
+    "pnl": -100.0,
+    "change_pct": -1.0,
+    "timestamp": "2026-06-07T11:43:24.204322Z"
   },
   {
     "id": "SIREN/USDT:USDT_1780831735",
