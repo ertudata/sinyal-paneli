@@ -1,5 +1,18 @@
 [
   {
+    "id": "AR/USDT:USDT_1780832279",
+    "symbol": "AR",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 2.035,
+    "exit_price": null,
+    "sl": 2.0553500000000002,
+    "tp": 1.9943000000000002,
+    "pnl": null,
+    "change_pct": 0.693,
+    "timestamp": "2026-06-07T11:37:59.420923Z"
+  },
+  {
     "id": "IDOL/USDT:USDT_1780832276",
     "symbol": "IDOL",
     "direction": "LONG",
