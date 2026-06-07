@@ -1,5 +1,18 @@
 [
   {
+    "id": "LAB/USDT:USDT_1780831570",
+    "symbol": "LAB",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 13.305,
+    "exit_price": null,
+    "sl": 13.171949999999999,
+    "tp": 13.5711,
+    "pnl": null,
+    "change_pct": -0.531,
+    "timestamp": "2026-06-07T11:26:10.841367Z"
+  },
+  {
     "id": "SKHYNIX/USDT:USDT_1780831553",
     "symbol": "SKHYNIX",
     "direction": "LONG",
