@@ -1,5 +1,18 @@
 [
   {
+    "id": "BANK/USDT:USDT_1780831887",
+    "symbol": "BANK",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.03603,
+    "exit_price": null,
+    "sl": 0.0363903,
+    "tp": 0.0353094,
+    "pnl": null,
+    "change_pct": 1.924,
+    "timestamp": "2026-06-07T11:31:27.017105Z"
+  },
+  {
     "id": "AIO/USDT:USDT_1780831884",
     "symbol": "AIO",
     "direction": "SHORT",
