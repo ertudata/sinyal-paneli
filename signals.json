@@ -120,14 +120,14 @@
     "id": "SIREN/USDT:USDT_1780832061",
     "symbol": "SIREN",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 1.1063,
-    "exit_price": null,
+    "exit_price": 1.095237,
     "sl": 1.095237,
     "tp": 1.1284260000000002,
-    "pnl": null,
-    "change_pct": -2.132,
-    "timestamp": "2026-06-07T11:34:21.250724Z"
+    "pnl": -100.0,
+    "change_pct": -1.0,
+    "timestamp": "2026-06-07T11:36:15.719282Z"
   },
   {
     "id": "SKYAI/USDT:USDT_1780832037",
