@@ -1,5 +1,18 @@
 [
   {
+    "id": "CBRS/USDT:USDT_1780832660",
+    "symbol": "CBRS",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 204.73,
+    "exit_price": null,
+    "sl": 206.7773,
+    "tp": 200.63539999999998,
+    "pnl": null,
+    "change_pct": 0.575,
+    "timestamp": "2026-06-07T11:44:20.018023Z"
+  },
+  {
     "id": "SIREN/USDT:USDT_1780832650",
     "symbol": "SIREN",
     "direction": "SHORT",
