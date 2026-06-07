@@ -1,5 +1,18 @@
 [
   {
+    "id": "BIO/USDT:USDT_1780832513",
+    "symbol": "BIO",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.02874,
+    "exit_price": null,
+    "sl": 0.029027400000000002,
+    "tp": 0.0281652,
+    "pnl": null,
+    "change_pct": 0.56,
+    "timestamp": "2026-06-07T11:41:53.396201Z"
+  },
+  {
     "id": "AIO/USDT:USDT_1780832504",
     "symbol": "AIO",
     "direction": "SHORT",
