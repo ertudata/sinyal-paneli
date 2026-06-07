@@ -1,5 +1,18 @@
 [
   {
+    "id": "MBOX/USDT:USDT_1780832453",
+    "symbol": "MBOX",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.00725,
+    "exit_price": null,
+    "sl": 0.0073225,
+    "tp": 0.007105,
+    "pnl": null,
+    "change_pct": 1.257,
+    "timestamp": "2026-06-07T11:40:53.422383Z"
+  },
+  {
     "id": "DRAM/USDT:USDT_1780832450",
     "symbol": "DRAM",
     "direction": "LONG",
