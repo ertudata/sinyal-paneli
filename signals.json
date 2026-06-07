@@ -1,5 +1,18 @@
 [
   {
+    "id": "BEAT/USDT:USDT_1780832251",
+    "symbol": "BEAT",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 2.5488,
+    "exit_price": null,
+    "sl": 2.574288,
+    "tp": 2.497824,
+    "pnl": null,
+    "change_pct": 0.513,
+    "timestamp": "2026-06-07T11:37:31.120909Z"
+  },
+  {
     "id": "ZEC/USDT:USDT_1780832230",
     "symbol": "ZEC",
     "direction": "SHORT",
