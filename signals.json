@@ -484,14 +484,14 @@
     "id": "H/USDT:USDT_1780831832",
     "symbol": "H",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.73429,
-    "exit_price": null,
+    "exit_price": 0.7489758,
     "sl": 0.7269471,
     "tp": 0.7489758,
-    "pnl": null,
-    "change_pct": -0.604,
-    "timestamp": "2026-06-07T11:30:32.655350Z"
+    "pnl": 200.0,
+    "change_pct": 2.0,
+    "timestamp": "2026-06-07T11:39:27.086215Z"
   },
   {
     "id": "GUA/USDT:USDT_1780831829",
