@@ -497,14 +497,14 @@
     "id": "MBOX/USDT:USDT_1780831861",
     "symbol": "MBOX",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.00706,
-    "exit_price": null,
+    "exit_price": 0.0071306,
     "sl": 0.0071306,
     "tp": 0.0069188,
-    "pnl": null,
-    "change_pct": 0.57,
-    "timestamp": "2026-06-07T11:31:01.535265Z"
+    "pnl": -100.0,
+    "change_pct": -1.0,
+    "timestamp": "2026-06-07T11:40:11.219595Z"
   },
   {
     "id": "OPN/USDT:USDT_1780831858",
