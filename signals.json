@@ -1,5 +1,18 @@
 [
   {
+    "id": "JCT/USDT:USDT_1780831446",
+    "symbol": "JCT",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.005015,
+    "exit_price": null,
+    "sl": 0.00506515,
+    "tp": 0.0049147,
+    "pnl": null,
+    "change_pct": 0.602,
+    "timestamp": "2026-06-07T11:24:06.249979Z"
+  },
+  {
     "id": "BROCCOLIF3B/USDT:USDT_1780831442",
     "symbol": "BROCCOLIF3B",
     "direction": "SHORT",
