@@ -1,5 +1,18 @@
 [
   {
+    "id": "BR/USDT:USDT_1780832567",
+    "symbol": "BR",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.1143,
+    "exit_price": null,
+    "sl": 0.115443,
+    "tp": 0.112014,
+    "pnl": null,
+    "change_pct": 0.758,
+    "timestamp": "2026-06-07T11:42:47.075526Z"
+  },
+  {
     "id": "SIREN/USDT:USDT_1780832559",
     "symbol": "SIREN",
     "direction": "SHORT",
