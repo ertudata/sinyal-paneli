@@ -1,5 +1,18 @@
 [
   {
+    "id": "SIREN/USDT:USDT_1780831594",
+    "symbol": "SIREN",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 1.1571,
+    "exit_price": null,
+    "sl": 1.145529,
+    "tp": 1.180242,
+    "pnl": null,
+    "change_pct": -1.254,
+    "timestamp": "2026-06-07T11:26:34.571343Z"
+  },
+  {
     "id": "LAB/USDT:USDT_1780831570",
     "symbol": "LAB",
     "direction": "LONG",
