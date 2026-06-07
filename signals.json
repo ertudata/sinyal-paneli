@@ -1,5 +1,18 @@
 [
   {
+    "id": "APT/USDT:USDT_1780832445",
+    "symbol": "APT",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.6713,
+    "exit_price": null,
+    "sl": 0.664587,
+    "tp": 0.6847260000000001,
+    "pnl": null,
+    "change_pct": -0.533,
+    "timestamp": "2026-06-07T11:40:45.226949Z"
+  },
+  {
     "id": "RIF/USDT:USDT_1780832416",
     "symbol": "RIF",
     "direction": "SHORT",
