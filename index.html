@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Signal Desk — Binance Futures</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=DM+Sans:wght@300;400;500;600&display=swap');
+
+*{margin:0;padding:0;box-sizing:border-box}
+
+:root{
+  --bg:#07090f;
+  --bg2:#0d1117;
+  --bg3:#111720;
+  --border:#1e2a3a;
+  --border2:#243040;
+  --text:#e8edf5;
+  --text2:#8899aa;
+  --text3:#4a5a6a;
+  --green:#00d67a;
+  --green2:#00ff94;
+  --red:#ff4d6d;
+  --accent:#00b8ff;
+  --accent2:#0077aa;
+  --mono:'Space Mono',monospace;
+  --sans:'DM Sans',sans-serif;
+}
+
+body{
+  background:var(--bg);
+  color:var(--text);
+  font-family:var(--sans);
+  font-size:14px;
+  min-height:100vh;
+  padding:20px 16px 40px;
+}
+
+body::before{
+  content:'';
+  position:fixed;
+  inset:0;
+  background-image:
+    linear-gradient(rgba(0,184,255,.025) 1px,transparent 1px),
+    linear-gradient(90deg,rgba(0,184,255,.025) 1px,transparent 1px);
+  background-size:40px 40px;
+  pointer-events:none;
+  z-index:0;
+}
+
+.wrap{position:relative;z-index:1;max-width:980px;margin:0 auto}
+
+/* HEADER */
+.header{
+  display:flex;align-items:flex-start;justify-content:space-between;
+  margin-bottom:28px;flex-wrap:wrap;gap:12px;
+}
+.logo{display:flex;align-items:center;gap:10px}
+.logo-dot{
+  width:10px;height:10px;border-radius:50%;
+  background:var(--green2);box-shadow:0 0 10px var(--green2);
+  animation:pulse 2s ease-in-out infinite;
+}
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.6;transform:scale(.85)}}
+.logo-name{font-family:var(--mono);font-size:15px;font-weight:700;letter-spacing:2px}
+.logo-sub{font-size:11px;color:var(--text3);letter-spacing:1px;margin-top:2px}
+.header-right{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.live-badge{
+  display:flex;align-items:center;gap:6px;
+  background:rgba(0,214,122,.07);border:1px solid rgba(0,214,122,.2);
+  border-radius:6px;padding:5px 10px;
+  font-family:var(--mono);font-size:10px;color:var(--green);letter-spacing:1px;
+}
+.live-badge span{width:6px;height:6px;border-radius:50%;background:var(--green);animation:pulse 1.5s infinite}
+.refresh-info{font-family:var(--mono);font-size:10px;color:var(--text3);letter-spacing:.5px}
+
+/* STATS */
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-bottom:20px}
+@media(max-width:580px){.stats{grid-template-columns:repeat(2,1fr)}}
+
+.stat-card{
+  background:var(--bg2);border:1px solid var(--border);border-radius:10px;
+  padding:16px;position:relative;overflow:hidden;transition:border-color .2s;
+}
+.stat-card::before{
+  content:'';position:absolute;top:0;left:0;right:0;height:2px;
+  background:var(--accent2);opacity:.5;
+}
+.stat-card.green::before{background:var(--green)}
+.stat-card.red::before{background:var(--red)}
+.stat-card:hover{border-color:var(--border2)}
+.stat-label{font-size:10px;letter-spacing:1.5px;color:var(--text3);text-transform:uppercase;margin-bottom:8px;font-family:var(--mono)}
+.stat-val{font-family:var(--mono);font-size:22px;font-weight:700;color:var(--text);line-height:1}
+.stat-val.green{color:var(--green)}
+.stat-val.red{color:var(--red)}
+.stat-sub{font-size:11px;color:var(--text3);margin-top:5px}
+
+/* CHART */
+.chart-card{background:var(--bg2);border:1px solid var(--border);border-radius:10px;padding:18px 20px;margin-bottom:20px}
+.chart-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:14px}
+.chart-title{font-family:var(--mono);font-size:11px;letter-spacing:1.5px;color:var(--text2);text-transform:uppercase}
+.chart-pnl{font-family:var(--mono);font-size:18px;font-weight:700}
+canvas{width:100%!important;height:130px!important}
+
+/* TABLE */
+.table-card{background:var(--bg2);border:1px solid var(--border);border-radius:10px;overflow:hidden}
+.table-header{display:flex;align-items:center;justify-content:space-between;padding:14px 18px;border-bottom:1px solid var(--border)}
+.table-title{font-family:var(--mono);font-size:11px;letter-spacing:1.5px;color:var(--text2);text-transform:uppercase}
+.table-count{font-size:11px;color:var(--text3);font-family:var(--mono)}
+.table-scroll{overflow-x:auto}
+.tbl{width:100%;border-collapse:collapse}
+.tbl th{
+  padding:10px 14px;text-align:left;
+  font-family:var(--mono);font-size:9px;letter-spacing:1.5px;color:var(--text3);
+  text-transform:uppercase;border-bottom:1px solid var(--border);background:var(--bg3);white-space:nowrap;
+}
+.tbl td{padding:11px 14px;border-bottom:1px solid rgba(30,42,58,.5);font-size:13px;white-space:nowrap}
+.tbl tr:last-child td{border-bottom:none}
+.tbl tr{transition:background .15s}
+.tbl tr:hover td{background:rgba(255,255,255,.02)}
+.badge{
+  display:inline-flex;align-items:center;gap:5px;padding:3px 9px;
+  border-radius:4px;font-family:var(--mono);font-size:10px;font-weight:700;letter-spacing:.5px;
+}
+.badge.long{background:rgba(0,214,122,.12);color:var(--green);border:1px solid rgba(0,214,122,.2)}
+.badge.short{background:rgba(255,77,109,.1);color:var(--red);border:1px solid rgba(255,77,109,.2)}
+.badge.open{background:rgba(0,184,255,.08);color:var(--accent);border:1px solid rgba(0,184,255,.15)}
+.badge.tp{background:rgba(0,214,122,.08);color:var(--green);border:1px solid rgba(0,214,122,.15)}
+.badge.sl{background:rgba(255,77,109,.08);color:var(--red);border:1px solid rgba(255,77,109,.15)}
+
+.sym{font-family:var(--mono);font-weight:700;font-size:13px;color:var(--text)}
+.price{font-family:var(--mono);font-size:12px;color:var(--text2)}
+.pnl-pos{font-family:var(--mono);font-size:13px;font-weight:700;color:var(--green)}
+.pnl-neg{font-family:var(--mono);font-size:13px;font-weight:700;color:var(--red)}
+.pnl-zero{font-family:var(--mono);font-size:13px;color:var(--text3)}
+.time-col{font-size:11px;color:var(--text3);font-family:var(--mono)}
+
+/* empty / error state */
+.empty-state{padding:48px;text-align:center;color:var(--text3);font-family:var(--mono);font-size:12px;letter-spacing:1px}
+
+.footer{margin-top:20px;text-align:center;font-size:10px;color:var(--text3);font-family:var(--mono);letter-spacing:1px}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<div class="header">
+  <div class="logo">
+    <div class="logo-dot"></div>
+    <div>
+      <div class="logo-name">SIGNAL DESK</div>
+      <div class="logo-sub">BINANCE FUTURES · MEAN REVERSION</div>
+    </div>
+  </div>
+  <div class="header-right">
+    <div class="refresh-info" id="last-update">yükleniyor...</div>
+    <div class="live-badge"><span></span>LIVE</div>
+  </div>
+</div>
+
+<div class="stats">
+  <div class="stat-card green">
+    <div class="stat-label">Toplam Kar</div>
+    <div class="stat-val green" id="s-pnl">—</div>
+    <div class="stat-sub" id="s-pnl-pct">hesaplanıyor</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-label">Portföy</div>
+    <div class="stat-val" id="s-portfolio">$100,000</div>
+    <div class="stat-sub">başlangıç kasası</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-label">Toplam Sinyal</div>
+    <div class="stat-val" id="s-total">—</div>
+    <div class="stat-sub" id="s-open">— açık · — kapalı</div>
+  </div>
+</div>
+
+<div class="chart-card">
+  <div class="chart-header">
+    <div class="chart-title">Kümülatif Kar / Zarar</div>
+    <div class="chart-pnl" id="chart-pnl-label" style="color:var(--green)">—</div>
+  </div>
+  <canvas id="pnlChart"></canvas>
+</div>
+
+<div class="table-card">
+  <div class="table-header">
+    <div class="table-title">Son Sinyaller</div>
+    <div class="table-count" id="tbl-count">—</div>
+  </div>
+  <div class="table-scroll">
+    <table class="tbl">
+      <thead>
+        <tr>
+          <th>Sembol</th>
+          <th>Yön</th>
+          <th>Giriş</th>
+          <th>Çıkış / SL / TP</th>
+          <th>Pozisyon</th>
+          <th>Kar / Zarar</th>
+          <th>Durum</th>
+          <th>Zaman</th>
+        </tr>
+      </thead>
+      <tbody id="sigBody">
+        <tr><td colspan="8" class="empty-state">VERİ BEKLENİYOR — BOT BAŞLATILMADI</td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="footer">SIGNAL DESK · PAPER TRADING SİMÜLATÖR · gerçek işlem değildir</div>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+<script>
+const CAPITAL    = 100000;
+const POS_SIZE   = 10000;
+const DATA_URL   = 'signals.json';       // GitHub Pages'te aynı klasörde
+const REFRESH_MS = 30000;               // 30 saniyede bir yenile
+
+let chartInstance = null;
+
+// ── FORMAT YARDIMCILARI ──────────────────────────────────────────────────────
+function fmtUSD(n, forceSign=false){
+  if(n===null||n===undefined) return '—';
+  const abs = Math.abs(n).toLocaleString('en',{minimumFractionDigits:2,maximumFractionDigits:2});
+  const sign = n>=0 ? (forceSign?'+':'') : '-';
+  return sign+'$'+abs;
+}
+function fmtPrice(n){
+  if(!n&&n!==0) return '—';
+  if(n>=1000)  return '$'+n.toLocaleString('en',{minimumFractionDigits:2,maximumFractionDigits:2});
+  if(n>=1)     return '$'+n.toFixed(4);
+  return '$'+n.toFixed(6);
+}
+function timeAgo(iso){
+  try{
+    const d=Math.floor((Date.now()-new Date(iso).getTime())/1000);
+    if(d<60)   return d+'s önce';
+    if(d<3600) return Math.floor(d/60)+'d önce';
+    if(d<86400)return Math.floor(d/3600)+'sa önce';
+    return Math.floor(d/86400)+'g önce';
+  }catch{return '—'}
+}
+
+// ── STATS ────────────────────────────────────────────────────────────────────
+function renderStats(signals){
+  let pnl=0, openC=0, closedC=0;
+  signals.forEach(s=>{
+    if(s.status==='OPEN') openC++;
+    else{ closedC++; pnl+=(s.pnl||0); }
+  });
+  const pct=((pnl/CAPITAL)*100);
+  const portfolio = CAPITAL+pnl;
+
+  const elPnl = document.getElementById('s-pnl');
+  elPnl.textContent = fmtUSD(pnl, true);
+  elPnl.className   = 'stat-val '+(pnl>=0?'green':'red');
+  document.getElementById('s-pnl-pct').textContent =
+    (pct>=0?'+':'')+pct.toFixed(2)+'% portföy büyümesi';
+
+  document.getElementById('s-portfolio').textContent =
+    '$'+portfolio.toLocaleString('en',{maximumFractionDigits:0});
+
+  document.getElementById('s-total').textContent = signals.length;
+  document.getElementById('s-open').textContent  = openC+' açık · '+closedC+' kapalı';
+
+  const cpLabel = document.getElementById('chart-pnl-label');
+  cpLabel.textContent = fmtUSD(pnl, true);
+  cpLabel.style.color = pnl>=0?'var(--green)':'var(--red)';
+}
+
+// ── CHART ────────────────────────────────────────────────────────────────────
+function renderChart(signals){
+  const closed = [...signals].filter(s=>s.status!=='OPEN').reverse();
+  let running=0;
+  const labels=[], vals=[];
+  closed.forEach((s,i)=>{ running+=(s.pnl||0); labels.push('#'+(i+1)); vals.push(+running.toFixed(2)); });
+
+  const lastVal = vals[vals.length-1]||0;
+  const lineColor = lastVal>=0?'#00d67a':'#ff4d6d';
+  const fillRgb   = lastVal>=0?'0,214,122':'255,77,109';
+
+  if(chartInstance){ chartInstance.destroy(); }
+
+  const ctx = document.getElementById('pnlChart').getContext('2d');
+  chartInstance = new Chart(ctx,{
+    type:'line',
+    data:{
+      labels,
+      datasets:[{
+        data:vals,
+        borderColor:lineColor,
+        borderWidth:2,
+        pointRadius:0,
+        pointHoverRadius:4,
+        pointHoverBackgroundColor:lineColor,
+        fill:true,
+        backgroundColor:(c)=>{
+          const g=c.chart.ctx.createLinearGradient(0,0,0,130);
+          g.addColorStop(0,`rgba(${fillRgb},.18)`);
+          g.addColorStop(1,`rgba(${fillRgb},.01)`);
+          return g;
+        },
+        tension:.35,
+      }]
+    },
+    options:{
+      responsive:true,
+      maintainAspectRatio:false,
+      plugins:{
+        legend:{display:false},
+        tooltip:{
+          callbacks:{label:c=>fmtUSD(c.raw,true)},
+          backgroundColor:'#0d1117',borderColor:'#1e2a3a',borderWidth:1,
+          titleColor:'#8899aa',bodyColor:'#e8edf5',
+          bodyFont:{family:'Space Mono',size:12},
+        }
+      },
+      scales:{
+        x:{display:false},
+        y:{
+          grid:{color:'rgba(30,42,58,.6)',drawBorder:false},
+          ticks:{color:'#4a5a6a',font:{family:'Space Mono',size:10},callback:v=>(v>=0?'+':'')+v.toLocaleString('en')},
+          border:{display:false}
+        }
+      },
+      animation:{duration:600,easing:'easeOutQuart'},
+    }
+  });
+}
+
+// ── TABLE ────────────────────────────────────────────────────────────────────
+function renderTable(signals){
+  document.getElementById('tbl-count').textContent = signals.length+' kayıt';
+  const tbody = document.getElementById('sigBody');
+  if(!signals.length){
+    tbody.innerHTML='<tr><td colspan="8" class="empty-state">HENÜZ SİNYAL YOK — BOT BAŞLATILMADI</td></tr>';
+    return;
+  }
+  tbody.innerHTML = signals.map(s=>{
+    const dirBadge   = `<span class="badge ${s.direction.toLowerCase()}">${s.direction==='LONG'?'▲':'▼'} ${s.direction}</span>`;
+    const statusBadge= s.status==='OPEN'
+      ?`<span class="badge open">AÇIK</span>`
+      :`<span class="badge ${s.status.toLowerCase()}">${s.status}</span>`;
+    const pnlCell = s.pnl===null||s.pnl===undefined
+      ?`<span class="pnl-zero">—</span>`
+      :s.pnl>=0
+        ?`<span class="pnl-pos">${fmtUSD(s.pnl,true)}</span>`
+        :`<span class="pnl-neg">${fmtUSD(s.pnl,true)}</span>`;
+    const exitCell = s.exit_price
+      ?`<span class="price">${fmtPrice(s.exit_price)}</span>`
+      :`<span class="price" style="color:var(--text3)">sl ${fmtPrice(s.sl)} / tp ${fmtPrice(s.tp)}</span>`;
+
+    return `<tr>
+      <td><span class="sym">${s.symbol}/USDT</span></td>
+      <td>${dirBadge}</td>
+      <td><span class="price">${fmtPrice(s.entry_price)}</span></td>
+      <td>${exitCell}</td>
+      <td><span class="price">$${POS_SIZE.toLocaleString()}</span></td>
+      <td>${pnlCell}</td>
+      <td>${statusBadge}</td>
+      <td class="time-col">${timeAgo(s.timestamp)}</td>
+    </tr>`;
+  }).join('');
+}
+
+// ── VERİ YÜKLEYİCİ ──────────────────────────────────────────────────────────
+async function loadData(){
+  try{
+    const r = await fetch(DATA_URL+'?t='+Date.now());
+    if(!r.ok) throw new Error('HTTP '+r.status);
+    const signals = await r.json();
+    renderStats(signals);
+    renderChart(signals);
+    renderTable(signals);
+    document.getElementById('last-update').textContent =
+      'güncellendi: '+new Date().toLocaleTimeString('tr-TR');
+  }catch(e){
+    document.getElementById('last-update').textContent = 'bağlantı hatası';
+    console.warn('signals.json yüklenemedi:',e);
+  }
+}
+
+// ── INIT ─────────────────────────────────────────────────────────────────────
+loadData();
+setInterval(loadData, REFRESH_MS);
+</script>
+</body>
+</html>
