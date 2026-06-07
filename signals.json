@@ -1,5 +1,18 @@
 [
   {
+    "id": "OPG/USDT:USDT_1780832913",
+    "symbol": "OPG",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.1709,
+    "exit_price": null,
+    "sl": 0.17260899999999998,
+    "tp": 0.167482,
+    "pnl": null,
+    "change_pct": 0.767,
+    "timestamp": "2026-06-07T11:48:33.426759Z"
+  },
+  {
     "id": "FIDA/USDT:USDT_1780832899",
     "symbol": "FIDA",
     "direction": "SHORT",
