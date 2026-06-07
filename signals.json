@@ -185,14 +185,14 @@
     "id": "VELVET/USDT:USDT_1780831759",
     "symbol": "VELVET",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.21468,
-    "exit_price": null,
+    "exit_price": 0.21682680000000001,
     "sl": 0.21682680000000001,
     "tp": 0.2103864,
-    "pnl": null,
-    "change_pct": 0.647,
-    "timestamp": "2026-06-07T11:29:19.365869Z"
+    "pnl": -100.0,
+    "change_pct": -1.0,
+    "timestamp": "2026-06-07T11:33:25.692373Z"
   },
   {
     "id": "ZEREBRO/USDT:USDT_1780831738",
