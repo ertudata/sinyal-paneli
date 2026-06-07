@@ -848,14 +848,14 @@
     "id": "C/USDT:USDT_1780831538",
     "symbol": "C",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.10115,
-    "exit_price": null,
+    "exit_price": 0.1021615,
     "sl": 0.1021615,
     "tp": 0.099127,
-    "pnl": null,
-    "change_pct": 0.928,
-    "timestamp": "2026-06-07T11:25:38.031197Z"
+    "pnl": -100.0,
+    "change_pct": -1.0,
+    "timestamp": "2026-06-07T11:40:34.293222Z"
   },
   {
     "id": "AIGENSYN/USDT:USDT_1780831513",
