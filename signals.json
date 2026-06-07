@@ -1,5 +1,18 @@
 [
   {
+    "id": "ZEST/USDT:USDT_1780831358",
+    "symbol": "ZEST",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.29264,
+    "exit_price": null,
+    "sl": 0.2897136,
+    "tp": 0.2984928,
+    "pnl": null,
+    "change_pct": -0.874,
+    "timestamp": "2026-06-07T11:22:38.102180Z"
+  },
+  {
     "id": "BLUAI/USDT:USDT_1780831355",
     "symbol": "BLUAI",
     "direction": "SHORT",
