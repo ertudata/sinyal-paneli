@@ -1,5 +1,18 @@
 [
   {
+    "id": "PARTI/USDT:USDT_1780831452",
+    "symbol": "PARTI",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.05615,
+    "exit_price": null,
+    "sl": 0.0555885,
+    "tp": 0.057273,
+    "pnl": null,
+    "change_pct": -1.162,
+    "timestamp": "2026-06-07T11:24:12.363590Z"
+  },
+  {
     "id": "EDEN/USDT:USDT_1780831449",
     "symbol": "EDEN",
     "direction": "LONG",
