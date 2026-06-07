@@ -1,5 +1,18 @@
 [
   {
+    "id": "SWARMS/USDT:USDT_1780831661",
+    "symbol": "SWARMS",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.006613,
+    "exit_price": null,
+    "sl": 0.00654687,
+    "tp": 0.00674526,
+    "pnl": null,
+    "change_pct": -0.691,
+    "timestamp": "2026-06-07T11:27:41.381543Z"
+  },
+  {
     "id": "AIN/USDT:USDT_1780831658",
     "symbol": "AIN",
     "direction": "SHORT",
