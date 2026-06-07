@@ -1,5 +1,18 @@
 [
   {
+    "id": "USELESS/USDT:USDT_1780832227",
+    "symbol": "USELESS",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.06827,
+    "exit_price": null,
+    "sl": 0.06895269999999999,
+    "tp": 0.0669046,
+    "pnl": null,
+    "change_pct": 0.634,
+    "timestamp": "2026-06-07T11:37:07.787726Z"
+  },
+  {
     "id": "VELVET/USDT:USDT_1780832207",
     "symbol": "VELVET",
     "direction": "SHORT",
