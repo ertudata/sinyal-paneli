@@ -484,14 +484,14 @@
     "id": "USELESS/USDT:USDT_1780831694",
     "symbol": "USELESS",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.06742,
-    "exit_price": null,
+    "exit_price": 0.0680942,
     "sl": 0.0680942,
     "tp": 0.0660716,
-    "pnl": null,
-    "change_pct": 0.883,
-    "timestamp": "2026-06-07T11:28:14.760353Z"
+    "pnl": -100.0,
+    "change_pct": -1.0,
+    "timestamp": "2026-06-07T11:37:05.378507Z"
   },
   {
     "id": "SWARMS/USDT:USDT_1780831661",
