@@ -1,5 +1,18 @@
 [
   {
+    "id": "BRKB/USDT:USDT_1780831718",
+    "symbol": "BRKB",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 492.87,
+    "exit_price": null,
+    "sl": 487.9413,
+    "tp": 502.7274,
+    "pnl": null,
+    "change_pct": -0.515,
+    "timestamp": "2026-06-07T11:28:38.042150Z"
+  },
+  {
     "id": "USELESS/USDT:USDT_1780831694",
     "symbol": "USELESS",
     "direction": "SHORT",
