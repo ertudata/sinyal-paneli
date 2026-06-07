@@ -1,5 +1,18 @@
 [
   {
+    "id": "NBIS/USDT:USDT_1780832154",
+    "symbol": "NBIS",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 229.08,
+    "exit_price": null,
+    "sl": 231.3708,
+    "tp": 224.4984,
+    "pnl": null,
+    "change_pct": 0.624,
+    "timestamp": "2026-06-07T11:35:54.953924Z"
+  },
+  {
     "id": "UB/USDT:USDT_1780832152",
     "symbol": "UB",
     "direction": "SHORT",
