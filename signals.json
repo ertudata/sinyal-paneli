@@ -1,5 +1,18 @@
 [
   {
+    "id": "AIN/USDT:USDT_1780832930",
+    "symbol": "AIN",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.07346,
+    "exit_price": null,
+    "sl": 0.0741946,
+    "tp": 0.0719908,
+    "pnl": null,
+    "change_pct": 1.352,
+    "timestamp": "2026-06-07T11:48:50.850659Z"
+  },
+  {
     "id": "OPG/USDT:USDT_1780832913",
     "symbol": "OPG",
     "direction": "SHORT",
