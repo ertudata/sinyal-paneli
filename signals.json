@@ -1,5 +1,18 @@
 [
   {
+    "id": "COLLECT/USDT:USDT_1780831801",
+    "symbol": "COLLECT",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.04444,
+    "exit_price": null,
+    "sl": 0.0448844,
+    "tp": 0.0435512,
+    "pnl": null,
+    "change_pct": 0.543,
+    "timestamp": "2026-06-07T11:30:01.943357Z"
+  },
+  {
     "id": "HOME/USDT:USDT_1780831780",
     "symbol": "HOME",
     "direction": "LONG",
