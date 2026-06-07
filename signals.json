@@ -497,14 +497,14 @@
     "id": "UB/USDT:USDT_1780831550",
     "symbol": "UB",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.12384,
-    "exit_price": null,
+    "exit_price": 0.1250784,
     "sl": 0.1250784,
     "tp": 0.1213632,
-    "pnl": null,
-    "change_pct": 2.593,
-    "timestamp": "2026-06-07T11:25:50.513038Z"
+    "pnl": -100.0,
+    "change_pct": -1.0,
+    "timestamp": "2026-06-07T11:35:47.617374Z"
   },
   {
     "id": "WLD/USDT:USDT_1780831548",
