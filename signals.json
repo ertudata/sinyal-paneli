@@ -1,5 +1,18 @@
 [
   {
+    "id": "SKYAI/USDT:USDT_1780831274",
+    "symbol": "SKYAI",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.27916,
+    "exit_price": null,
+    "sl": 0.2763684,
+    "tp": 0.28474320000000003,
+    "pnl": null,
+    "change_pct": -0.715,
+    "timestamp": "2026-06-07T11:21:14.078196Z"
+  },
+  {
     "id": "BTW/USDT:USDT_1780831256",
     "symbol": "BTW",
     "direction": "LONG",
