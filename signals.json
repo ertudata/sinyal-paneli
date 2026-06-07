@@ -1,5 +1,18 @@
 [
   {
+    "id": "TAKE/USDT:USDT_1780832124",
+    "symbol": "TAKE",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.01772,
+    "exit_price": null,
+    "sl": 0.0178972,
+    "tp": 0.0173656,
+    "pnl": null,
+    "change_pct": 0.568,
+    "timestamp": "2026-06-07T11:35:24.629121Z"
+  },
+  {
     "id": "AIN/USDT:USDT_1780832103",
     "symbol": "AIN",
     "direction": "SHORT",
