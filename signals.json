@@ -1,5 +1,18 @@
 [
   {
+    "id": "HEI/USDT:USDT_1780831234",
+    "symbol": "HEI",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.10187,
+    "exit_price": null,
+    "sl": 0.1028887,
+    "tp": 0.0998326,
+    "pnl": null,
+    "change_pct": 0.931,
+    "timestamp": "2026-06-07T11:20:34.164487Z"
+  },
+  {
     "id": "EDEN/USDT:USDT_1780831137",
     "symbol": "EDEN",
     "direction": "LONG",
