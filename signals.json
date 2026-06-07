@@ -1,5 +1,18 @@
 [
   {
+    "id": "H/USDT:USDT_1780831077",
+    "symbol": "H",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.71713,
+    "exit_price": null,
+    "sl": 0.7099587,
+    "tp": 0.7314726,
+    "pnl": null,
+    "change_pct": -0.573,
+    "timestamp": "2026-06-07T11:17:57.466717Z"
+  },
+  {
     "id": "SKYAI/USDT:USDT_1780831073",
     "symbol": "SKYAI",
     "direction": "LONG",
