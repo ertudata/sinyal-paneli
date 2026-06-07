@@ -1,5 +1,18 @@
 [
   {
+    "id": "RIF/USDT:USDT_1780832416",
+    "symbol": "RIF",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.06546,
+    "exit_price": null,
+    "sl": 0.06611460000000001,
+    "tp": 0.06415080000000001,
+    "pnl": null,
+    "change_pct": 0.507,
+    "timestamp": "2026-06-07T11:40:16.257849Z"
+  },
+  {
     "id": "MBOX/USDT:USDT_1780832413",
     "symbol": "MBOX",
     "direction": "SHORT",
