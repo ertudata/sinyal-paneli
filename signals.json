@@ -1,5 +1,18 @@
 [
   {
+    "id": "AIOT/USDT:USDT_1780832797",
+    "symbol": "AIOT",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.05573,
+    "exit_price": null,
+    "sl": 0.0551727,
+    "tp": 0.0568446,
+    "pnl": null,
+    "change_pct": -0.571,
+    "timestamp": "2026-06-07T11:46:37.662805Z"
+  },
+  {
     "id": "ESPORTS/USDT:USDT_1780832784",
     "symbol": "ESPORTS",
     "direction": "SHORT",
