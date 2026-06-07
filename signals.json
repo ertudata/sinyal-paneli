@@ -1,5 +1,18 @@
 [
   {
+    "id": "SIREN/USDT:USDT_1780831946",
+    "symbol": "SIREN",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 1.135,
+    "exit_price": null,
+    "sl": 1.12365,
+    "tp": 1.1577,
+    "pnl": null,
+    "change_pct": -0.517,
+    "timestamp": "2026-06-07T11:32:26.345083Z"
+  },
+  {
     "id": "FIDA/USDT:USDT_1780831889",
     "symbol": "FIDA",
     "direction": "SHORT",
