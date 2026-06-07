@@ -1,5 +1,18 @@
 [
   {
+    "id": "TUT/USDT:USDT_1780831408",
+    "symbol": "TUT",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.01096,
+    "exit_price": null,
+    "sl": 0.011069599999999999,
+    "tp": 0.010740799999999998,
+    "pnl": null,
+    "change_pct": 0.735,
+    "timestamp": "2026-06-07T11:23:28.339983Z"
+  },
+  {
     "id": "BAT/USDT:USDT_1780831404",
     "symbol": "BAT",
     "direction": "SHORT",
