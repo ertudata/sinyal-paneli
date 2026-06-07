@@ -1,5 +1,18 @@
 [
   {
+    "id": "BTW/USDT:USDT_1780832013",
+    "symbol": "BTW",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.055373,
+    "exit_price": null,
+    "sl": 0.054819269999999996,
+    "tp": 0.056480459999999996,
+    "pnl": null,
+    "change_pct": -0.532,
+    "timestamp": "2026-06-07T11:33:33.892256Z"
+  },
+  {
     "id": "ACX/USDT:USDT_1780832011",
     "symbol": "ACX",
     "direction": "LONG",
