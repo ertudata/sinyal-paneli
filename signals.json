@@ -1,5 +1,18 @@
 [
   {
+    "id": "BROCCOLIF3B/USDT:USDT_1780832157",
+    "symbol": "BROCCOLIF3B",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.004814,
+    "exit_price": null,
+    "sl": 0.00486214,
+    "tp": 0.00471772,
+    "pnl": null,
+    "change_pct": 0.965,
+    "timestamp": "2026-06-07T11:35:57.502452Z"
+  },
+  {
     "id": "NBIS/USDT:USDT_1780832154",
     "symbol": "NBIS",
     "direction": "SHORT",
