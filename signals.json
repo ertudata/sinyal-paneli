@@ -1,5 +1,18 @@
 [
   {
+    "id": "CTSI/USDT:USDT_1780831294",
+    "symbol": "CTSI",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.02571,
+    "exit_price": null,
+    "sl": 0.0259671,
+    "tp": 0.0251958,
+    "pnl": null,
+    "change_pct": 1.101,
+    "timestamp": "2026-06-07T11:21:34.758819Z"
+  },
+  {
     "id": "SQD/USDT:USDT_1780831276",
     "symbol": "SQD",
     "direction": "SHORT",
