@@ -3,14 +3,14 @@
     "id": "VELVET/USDT:USDT_1780921103",
     "symbol": "VELVET",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.32208,
-    "exit_price": null,
+    "exit_price": 0.32111375999999997,
     "sl": 0.32111375999999997,
     "tp": 0.32691119999999996,
-    "pnl": null,
-    "change_pct": -3.534,
-    "timestamp": "2026-06-08T12:18:23.645409Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T12:18:44.956476Z"
   },
   {
     "id": "MBOX/USDT:USDT_1780921100",
