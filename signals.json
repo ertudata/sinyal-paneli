@@ -29,14 +29,14 @@
     "id": "BANK/USDT:USDT_1780920822",
     "symbol": "BANK",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.04087,
-    "exit_price": null,
+    "exit_price": 0.040747389999999994,
     "sl": 0.040747389999999994,
     "tp": 0.041483049999999994,
-    "pnl": null,
-    "change_pct": -1.494,
-    "timestamp": "2026-06-08T12:13:42.779529Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T12:14:59.176079Z"
   },
   {
     "id": "ALLO/USDT:USDT_1780920802",
