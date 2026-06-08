@@ -1,5 +1,18 @@
 [
   {
+    "id": "KAIA/USDT:USDT_1780950732",
+    "symbol": "KAIA",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.0374,
+    "exit_price": null,
+    "sl": 0.0372878,
+    "tp": 0.037961,
+    "pnl": null,
+    "change_pct": -1.189,
+    "timestamp": "2026-06-08T20:32:12.305110Z"
+  },
+  {
     "id": "TRADOOR/USDT:USDT_1780950729",
     "symbol": "TRADOOR",
     "direction": "SHORT",
