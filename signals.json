@@ -3,14 +3,14 @@
     "id": "ALLO/USDT:USDT_1780926377",
     "symbol": "ALLO",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.46501,
-    "exit_price": null,
+    "exit_price": 0.46640502999999994,
     "sl": 0.46640502999999994,
     "tp": 0.45803485,
-    "pnl": null,
-    "change_pct": 2.715,
-    "timestamp": "2026-06-08T13:46:17.243719Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T13:46:56.867755Z"
   },
   {
     "id": "CBRS/USDT:USDT_1780926327",
