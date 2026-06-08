@@ -3,14 +3,14 @@
     "id": "COS/USDT:USDT_1780920012",
     "symbol": "COS",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.000676,
-    "exit_price": null,
+    "exit_price": 0.0006739719999999999,
     "sl": 0.0006739719999999999,
     "tp": 0.0006861399999999999,
-    "pnl": null,
-    "change_pct": -1.17,
-    "timestamp": "2026-06-08T12:00:12.671739Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T12:00:31.316816Z"
   },
   {
     "id": "SKYAI/USDT:USDT_1780919994",
