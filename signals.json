@@ -1,5 +1,18 @@
 [
   {
+    "id": "FLNC/USDT:USDT_1780926110",
+    "symbol": "FLNC",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 23.49,
+    "exit_price": null,
+    "sl": 23.560469999999995,
+    "tp": 23.137649999999997,
+    "pnl": null,
+    "change_pct": 1.076,
+    "timestamp": "2026-06-08T13:41:50.316685Z"
+  },
+  {
     "id": "币安人生/USDT:USDT_1780926089",
     "symbol": "币安人生",
     "direction": "SHORT",
