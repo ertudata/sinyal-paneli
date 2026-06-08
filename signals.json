@@ -16,14 +16,14 @@
     "id": "H/USDT:USDT_1780951046",
     "symbol": "H",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.19349,
-    "exit_price": null,
+    "exit_price": 0.19290953,
     "sl": 0.19290953,
     "tp": 0.19639234999999997,
-    "pnl": null,
-    "change_pct": -2.925,
-    "timestamp": "2026-06-08T20:37:26.702277Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T20:38:06.395588Z"
   },
   {
     "id": "QNTX/USDT:USDT_1780950977",
