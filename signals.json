@@ -133,14 +133,14 @@
     "id": "COHR/USDT:USDT_1780925622",
     "symbol": "COHR",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 384.23,
-    "exit_price": null,
+    "exit_price": 383.07731,
     "sl": 383.07731,
     "tp": 389.99345,
-    "pnl": null,
-    "change_pct": -2.06,
-    "timestamp": "2026-06-08T13:33:42.636902Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T13:34:59.719776Z"
   },
   {
     "id": "AAOI/USDT:USDT_1780925619",
