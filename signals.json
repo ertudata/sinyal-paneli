@@ -1,5 +1,18 @@
 [
   {
+    "id": "JCT/USDT:USDT_1780937275",
+    "symbol": "JCT",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.004565,
+    "exit_price": null,
+    "sl": 0.004551304999999999,
+    "tp": 0.004633474999999999,
+    "pnl": null,
+    "change_pct": -1.148,
+    "timestamp": "2026-06-08T16:47:55.732354Z"
+  },
+  {
     "id": "EPIC/USDT:USDT_1780937272",
     "symbol": "EPIC",
     "direction": "SHORT",
