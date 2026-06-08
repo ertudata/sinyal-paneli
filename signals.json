@@ -1,5 +1,18 @@
 [
   {
+    "id": "SKYAI/USDT:USDT_1780950827",
+    "symbol": "SKYAI",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.23946,
+    "exit_price": null,
+    "sl": 0.24017837999999997,
+    "tp": 0.2358681,
+    "pnl": null,
+    "change_pct": 7.918,
+    "timestamp": "2026-06-08T20:33:47.162373Z"
+  },
+  {
     "id": "EPIC/USDT:USDT_1780950823",
     "symbol": "EPIC",
     "direction": "SHORT",
