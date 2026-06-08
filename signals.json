@@ -1,5 +1,18 @@
 [
   {
+    "id": "RIF/USDT:USDT_1780909300",
+    "symbol": "RIF",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.06328,
+    "exit_price": null,
+    "sl": 0.06346984,
+    "tp": 0.0623308,
+    "pnl": null,
+    "change_pct": 1.086,
+    "timestamp": "2026-06-08T09:01:40.703496Z"
+  },
+  {
     "id": "ALLO/USDT:USDT_1780909297",
     "symbol": "ALLO",
     "direction": "SHORT",
