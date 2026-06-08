@@ -29,14 +29,14 @@
     "id": "SIREN/USDT:USDT_1780922534",
     "symbol": "SIREN",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 1.2073,
-    "exit_price": null,
+    "exit_price": 1.2109219,
     "sl": 1.2109219,
     "tp": 1.1891905,
-    "pnl": null,
-    "change_pct": 2.444,
-    "timestamp": "2026-06-08T12:42:14.581441Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T12:43:40.223347Z"
   },
   {
     "id": "ALLO/USDT:USDT_1780922497",
