@@ -1,5 +1,18 @@
 [
   {
+    "id": "ALLO/USDT:USDT_1780928138",
+    "symbol": "ALLO",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.4607,
+    "exit_price": null,
+    "sl": 0.4593179,
+    "tp": 0.46761049999999993,
+    "pnl": null,
+    "change_pct": -2.197,
+    "timestamp": "2026-06-08T14:15:38.593464Z"
+  },
+  {
     "id": "EPIC/USDT:USDT_1780928135",
     "symbol": "EPIC",
     "direction": "LONG",
