@@ -107,14 +107,14 @@
     "id": "ZEREBRO/USDT:USDT_1780918903",
     "symbol": "ZEREBRO",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.023216,
-    "exit_price": null,
+    "exit_price": 0.023285648,
     "sl": 0.023285648,
     "tp": 0.02286776,
-    "pnl": null,
-    "change_pct": 1.95,
-    "timestamp": "2026-06-08T11:41:43.383064Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T11:44:57.072093Z"
   },
   {
     "id": "SYN/USDT:USDT_1780918854",
