@@ -861,14 +861,14 @@
     "id": "SENT/USDT:USDT_1780950714",
     "symbol": "SENT",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.01388,
-    "exit_price": null,
+    "exit_price": 0.013921639999999999,
     "sl": 0.013921639999999999,
     "tp": 0.0136718,
-    "pnl": null,
-    "change_pct": 1.536,
-    "timestamp": "2026-06-08T20:31:54.050552Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T20:38:36.191211Z"
   },
   {
     "id": "IOTX/USDT:USDT_1780950711",
