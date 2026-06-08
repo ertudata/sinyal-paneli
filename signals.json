@@ -1,5 +1,18 @@
 [
   {
+    "id": "AIOT/USDT:USDT_1780931900",
+    "symbol": "AIOT",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.06536,
+    "exit_price": null,
+    "sl": 0.06516392,
+    "tp": 0.0663404,
+    "pnl": null,
+    "change_pct": -1.611,
+    "timestamp": "2026-06-08T15:18:20.861506Z"
+  },
+  {
     "id": "VELVET/USDT:USDT_1780931812",
     "symbol": "VELVET",
     "direction": "LONG",
