@@ -302,14 +302,14 @@
     "id": "CRM/USDT:USDT_1780925753",
     "symbol": "CRM",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 182.66,
-    "exit_price": null,
+    "exit_price": 182.11202,
     "sl": 182.11202,
     "tp": 185.39989999999997,
-    "pnl": null,
-    "change_pct": -1.056,
-    "timestamp": "2026-06-08T13:35:53.530449Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T13:42:53.592106Z"
   },
   {
     "id": "VVV/USDT:USDT_1780925750",
