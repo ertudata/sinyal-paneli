@@ -1,5 +1,18 @@
 [
   {
+    "id": "CBRS/USDT:USDT_1780926327",
+    "symbol": "CBRS",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 213.19,
+    "exit_price": null,
+    "sl": 213.82956999999996,
+    "tp": 209.99214999999998,
+    "pnl": null,
+    "change_pct": 1.519,
+    "timestamp": "2026-06-08T13:45:27.455564Z"
+  },
+  {
     "id": "SAHARA/USDT:USDT_1780926305",
     "symbol": "SAHARA",
     "direction": "SHORT",
