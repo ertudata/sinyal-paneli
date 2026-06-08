@@ -1,5 +1,18 @@
 [
   {
+    "id": "PTB/USDT:USDT_1780922667",
+    "symbol": "PTB",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.0006051,
+    "exit_price": null,
+    "sl": 0.0006032847000000001,
+    "tp": 0.0006141765,
+    "pnl": null,
+    "change_pct": -1.369,
+    "timestamp": "2026-06-08T12:44:27.560587Z"
+  },
+  {
     "id": "PTB/USDT:USDT_1780922643",
     "symbol": "PTB",
     "direction": "LONG",
