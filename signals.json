@@ -341,14 +341,14 @@
     "id": "GWEI/USDT:USDT_1780925731",
     "symbol": "GWEI",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.14565,
-    "exit_price": null,
+    "exit_price": 0.14521305,
     "sl": 0.14521305,
     "tp": 0.14783475,
-    "pnl": null,
-    "change_pct": -1.421,
-    "timestamp": "2026-06-08T13:35:31.493350Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T13:39:42.671943Z"
   },
   {
     "id": "USAR/USDT:USDT_1780925728",
