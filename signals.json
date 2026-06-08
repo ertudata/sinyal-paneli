@@ -1,5 +1,18 @@
 [
   {
+    "id": "ZAMA/USDT:USDT_1780925395",
+    "symbol": "ZAMA",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.03237,
+    "exit_price": null,
+    "sl": 0.03246711,
+    "tp": 0.03188445,
+    "pnl": null,
+    "change_pct": 1.728,
+    "timestamp": "2026-06-08T13:29:55.322136Z"
+  },
+  {
     "id": "HIGH/USDT:USDT_1780925391",
     "symbol": "HIGH",
     "direction": "LONG",
