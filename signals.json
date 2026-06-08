@@ -1,5 +1,18 @@
 [
   {
+    "id": "ZORA/USDT:USDT_1780936977",
+    "symbol": "ZORA",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.00877,
+    "exit_price": null,
+    "sl": 0.00879631,
+    "tp": 0.00863845,
+    "pnl": null,
+    "change_pct": 1.387,
+    "timestamp": "2026-06-08T16:42:57.568168Z"
+  },
+  {
     "id": "POWER/USDT:USDT_1780936970",
     "symbol": "POWER",
     "direction": "SHORT",
