@@ -1,5 +1,18 @@
 [
   {
+    "id": "SIREN/USDT:USDT_1780925769",
+    "symbol": "SIREN",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 1.1601,
+    "exit_price": null,
+    "sl": 1.1566196999999998,
+    "tp": 1.1775014999999998,
+    "pnl": null,
+    "change_pct": -1.36,
+    "timestamp": "2026-06-08T13:36:09.906667Z"
+  },
+  {
     "id": "ORCL/USDT:USDT_1780925767",
     "symbol": "ORCL",
     "direction": "LONG",
