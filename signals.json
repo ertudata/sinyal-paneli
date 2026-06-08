@@ -471,14 +471,14 @@
     "id": "BBX/USDT:USDT_1780925628",
     "symbol": "BBX",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 9.43,
-    "exit_price": null,
+    "exit_price": 9.40171,
     "sl": 9.40171,
     "tp": 9.571449999999999,
-    "pnl": null,
-    "change_pct": -2.178,
-    "timestamp": "2026-06-08T13:33:48.900298Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T13:37:53.710741Z"
   },
   {
     "id": "HOOD/USDT:USDT_1780925625",
