@@ -3227,14 +3227,14 @@
     "id": "SWARMS/USDT:USDT_1780927001",
     "symbol": "SWARMS",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.006671,
-    "exit_price": null,
+    "exit_price": 0.006691012999999999,
     "sl": 0.006691012999999999,
     "tp": 0.006570935,
-    "pnl": null,
-    "change_pct": 2.081,
-    "timestamp": "2026-06-08T13:56:41.443271Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:18:04.937744Z"
   },
   {
     "id": "YB/USDT:USDT_1780926964",
