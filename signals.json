@@ -16,14 +16,14 @@
     "id": "ARIA/USDT:USDT_1780929855",
     "symbol": "ARIA",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.03399,
-    "exit_price": null,
+    "exit_price": 0.03388803,
     "sl": 0.03388803,
     "tp": 0.03449985,
-    "pnl": null,
-    "change_pct": -1.307,
-    "timestamp": "2026-06-08T14:44:15.790214Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T14:44:40.340860Z"
   },
   {
     "id": "HEI/USDT:USDT_1780929828",
