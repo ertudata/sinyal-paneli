@@ -1,5 +1,18 @@
 [
   {
+    "id": "NBIS/USDT:USDT_1780925725",
+    "symbol": "NBIS",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 229.06,
+    "exit_price": null,
+    "sl": 228.37282,
+    "tp": 232.49589999999998,
+    "pnl": null,
+    "change_pct": -1.539,
+    "timestamp": "2026-06-08T13:35:25.664562Z"
+  },
+  {
     "id": "SNDK/USDT:USDT_1780925722",
     "symbol": "SNDK",
     "direction": "LONG",
