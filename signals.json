@@ -1,5 +1,18 @@
 [
   {
+    "id": "ALLO/USDT:USDT_1780931183",
+    "symbol": "ALLO",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.44262,
+    "exit_price": null,
+    "sl": 0.44129214,
+    "tp": 0.4492593,
+    "pnl": null,
+    "change_pct": -1.113,
+    "timestamp": "2026-06-08T15:06:23.767043Z"
+  },
+  {
     "id": "POWER/USDT:USDT_1780931110",
     "symbol": "POWER",
     "direction": "SHORT",
