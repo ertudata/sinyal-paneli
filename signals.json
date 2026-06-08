@@ -1,5 +1,18 @@
 [
   {
+    "id": "4/USDT:USDT_1780934638",
+    "symbol": "4",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.009785,
+    "exit_price": null,
+    "sl": 0.009814354999999999,
+    "tp": 0.009638225,
+    "pnl": null,
+    "change_pct": 1.927,
+    "timestamp": "2026-06-08T16:03:58.248576Z"
+  },
+  {
     "id": "ONDO/USDT:USDT_1780934635",
     "symbol": "ONDO",
     "direction": "SHORT",
