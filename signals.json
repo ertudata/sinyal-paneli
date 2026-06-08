@@ -367,14 +367,14 @@
     "id": "ZBT/USDT:USDT_1780919076",
     "symbol": "ZBT",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.13518,
-    "exit_price": null,
+    "exit_price": 0.13477445999999998,
     "sl": 0.13477445999999998,
     "tp": 0.1372077,
-    "pnl": null,
-    "change_pct": -1.68,
-    "timestamp": "2026-06-08T11:44:36.570948Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T11:52:13.445876Z"
   },
   {
     "id": "ESPORTS/USDT:USDT_1780919073",
