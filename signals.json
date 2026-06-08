@@ -783,14 +783,14 @@
     "id": "META/USDT:USDT_1780925643",
     "symbol": "META",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 581.57,
-    "exit_price": null,
+    "exit_price": 590.29355,
     "sl": 579.82529,
     "tp": 590.29355,
-    "pnl": null,
-    "change_pct": -1.442,
-    "timestamp": "2026-06-08T13:34:03.443551Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T14:02:02.631153Z"
   },
   {
     "id": "NBIS/USDT:USDT_1780925640",
