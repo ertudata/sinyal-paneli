@@ -1,5 +1,18 @@
 [
   {
+    "id": "TOWNS/USDT:USDT_1780934608",
+    "symbol": "TOWNS",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.002348,
+    "exit_price": null,
+    "sl": 0.002340956,
+    "tp": 0.0023832199999999997,
+    "pnl": null,
+    "change_pct": -1.054,
+    "timestamp": "2026-06-08T16:03:28.599062Z"
+  },
+  {
     "id": "STAR/USDT:USDT_1780934605",
     "symbol": "STAR",
     "direction": "SHORT",
