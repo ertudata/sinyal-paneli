@@ -42,14 +42,14 @@
     "id": "MOVE/USDT:USDT_1780920307",
     "symbol": "MOVE",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.01508,
-    "exit_price": null,
+    "exit_price": 0.014853799999999999,
     "sl": 0.015125239999999998,
     "tp": 0.014853799999999999,
-    "pnl": null,
-    "change_pct": 1.14,
-    "timestamp": "2026-06-08T12:05:07.153309Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T12:06:59.643038Z"
   },
   {
     "id": "ZBT/USDT:USDT_1780920270",
