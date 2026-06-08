@@ -1,5 +1,18 @@
 [
   {
+    "id": "POWER/USDT:USDT_1780909479",
+    "symbol": "POWER",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.06868,
+    "exit_price": null,
+    "sl": 0.06888604,
+    "tp": 0.06764980000000001,
+    "pnl": null,
+    "change_pct": 1.478,
+    "timestamp": "2026-06-08T09:04:39.583259Z"
+  },
+  {
     "id": "COS/USDT:USDT_1780909436",
     "symbol": "COS",
     "direction": "LONG",
