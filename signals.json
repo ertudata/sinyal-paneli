@@ -315,14 +315,14 @@
     "id": "AKT/USDT:USDT_1780929304",
     "symbol": "AKT",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.6575,
-    "exit_price": null,
+    "exit_price": 0.6594724999999999,
     "sl": 0.6594724999999999,
     "tp": 0.6476375,
-    "pnl": null,
-    "change_pct": 1.67,
-    "timestamp": "2026-06-08T14:35:04.555359Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T15:01:25.589389Z"
   },
   {
     "id": "VELVET/USDT:USDT_1780929180",
