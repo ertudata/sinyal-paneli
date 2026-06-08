@@ -1,5 +1,18 @@
 [
   {
+    "id": "NOW/USDT:USDT_1780925493",
+    "symbol": "NOW",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 113.81,
+    "exit_price": null,
+    "sl": 114.15142999999999,
+    "tp": 112.10285,
+    "pnl": null,
+    "change_pct": 1.093,
+    "timestamp": "2026-06-08T13:31:33.037537Z"
+  },
+  {
     "id": "ARM/USDT:USDT_1780925488",
     "symbol": "ARM",
     "direction": "LONG",
