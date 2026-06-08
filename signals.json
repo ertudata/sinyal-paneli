@@ -1,5 +1,18 @@
 [
   {
+    "id": "COS/USDT:USDT_1780910137",
+    "symbol": "COS",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.000774,
+    "exit_price": null,
+    "sl": 0.0007763219999999999,
+    "tp": 0.0007623899999999999,
+    "pnl": null,
+    "change_pct": 1.309,
+    "timestamp": "2026-06-08T09:15:37.157946Z"
+  },
+  {
     "id": "BLUAI/USDT:USDT_1780910134",
     "symbol": "BLUAI",
     "direction": "LONG",
