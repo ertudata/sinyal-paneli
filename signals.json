@@ -55,14 +55,14 @@
     "id": "NBIS/USDT:USDT_1780925640",
     "symbol": "NBIS",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 232.64,
-    "exit_price": null,
+    "exit_price": 231.94207999999998,
     "sl": 231.94207999999998,
     "tp": 236.12959999999995,
-    "pnl": null,
-    "change_pct": -1.256,
-    "timestamp": "2026-06-08T13:34:00.064465Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T13:35:08.237389Z"
   },
   {
     "id": "LITE/USDT:USDT_1780925637",
