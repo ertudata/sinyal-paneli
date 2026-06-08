@@ -1,5 +1,18 @@
 [
   {
+    "id": "YB/USDT:USDT_1780918480",
+    "symbol": "YB",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.0923,
+    "exit_price": null,
+    "sl": 0.09257689999999999,
+    "tp": 0.0909155,
+    "pnl": null,
+    "change_pct": 2.215,
+    "timestamp": "2026-06-08T11:34:40.329805Z"
+  },
+  {
     "id": "QNTX/USDT:USDT_1780918475",
     "symbol": "QNTX",
     "direction": "SHORT",
