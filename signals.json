@@ -1,5 +1,18 @@
 [
   {
+    "id": "TUT/USDT:USDT_1780936995",
+    "symbol": "TUT",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.01035,
+    "exit_price": null,
+    "sl": 0.01038105,
+    "tp": 0.010194749999999999,
+    "pnl": null,
+    "change_pct": 1.272,
+    "timestamp": "2026-06-08T16:43:15.229575Z"
+  },
+  {
     "id": "ESPORTS/USDT:USDT_1780936991",
     "symbol": "ESPORTS",
     "direction": "SHORT",
