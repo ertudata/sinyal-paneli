@@ -458,14 +458,14 @@
     "id": "ONDO/USDT:USDT_1780934635",
     "symbol": "ONDO",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.3706,
-    "exit_price": null,
+    "exit_price": 0.3717117999999999,
     "sl": 0.3717117999999999,
     "tp": 0.365041,
-    "pnl": null,
-    "change_pct": 1.34,
-    "timestamp": "2026-06-08T16:03:55.224767Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:06:30.043704Z"
   },
   {
     "id": "SQD/USDT:USDT_1780934632",
