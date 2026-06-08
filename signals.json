@@ -1,5 +1,18 @@
 [
   {
+    "id": "ARIA/USDT:USDT_1780925817",
+    "symbol": "ARIA",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.03321,
+    "exit_price": null,
+    "sl": 0.03330963,
+    "tp": 0.03271185,
+    "pnl": null,
+    "change_pct": 1.188,
+    "timestamp": "2026-06-08T13:36:57.113604Z"
+  },
+  {
     "id": "LITE/USDT:USDT_1780925814",
     "symbol": "LITE",
     "direction": "SHORT",
