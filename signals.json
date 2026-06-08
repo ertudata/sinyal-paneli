@@ -211,14 +211,14 @@
     "id": "VVV/USDT:USDT_1780925750",
     "symbol": "VVV",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 17.825,
-    "exit_price": null,
+    "exit_price": 17.771525,
     "sl": 17.771525,
     "tp": 18.092374999999997,
-    "pnl": null,
-    "change_pct": -1.487,
-    "timestamp": "2026-06-08T13:35:50.802140Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T13:37:56.499775Z"
   },
   {
     "id": "IREN/USDT:USDT_1780925747",
