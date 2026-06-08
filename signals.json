@@ -1,5 +1,18 @@
 [
   {
+    "id": "BIO/USDT:USDT_1780924938",
+    "symbol": "BIO",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.03295,
+    "exit_price": null,
+    "sl": 0.03304885,
+    "tp": 0.03245575,
+    "pnl": null,
+    "change_pct": 1.26,
+    "timestamp": "2026-06-08T13:22:18.002752Z"
+  },
+  {
     "id": "ICNT/USDT:USDT_1780924919",
     "symbol": "ICNT",
     "direction": "SHORT",
