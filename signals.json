@@ -1,5 +1,18 @@
 [
   {
+    "id": "CTR/USDT:USDT_1780930766",
+    "symbol": "CTR",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.0141,
+    "exit_price": null,
+    "sl": 0.0140577,
+    "tp": 0.014311499999999998,
+    "pnl": null,
+    "change_pct": -1.053,
+    "timestamp": "2026-06-08T14:59:26.120058Z"
+  },
+  {
     "id": "GENIUS/USDT:USDT_1780930470",
     "symbol": "GENIUS",
     "direction": "SHORT",
