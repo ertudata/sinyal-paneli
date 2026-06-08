@@ -16,14 +16,14 @@
     "id": "AKE/USDT:USDT_1780935819",
     "symbol": "AKE",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.0003037,
-    "exit_price": null,
+    "exit_price": 0.0003027889,
     "sl": 0.0003027889,
     "tp": 0.00030825549999999996,
-    "pnl": null,
-    "change_pct": -1.139,
-    "timestamp": "2026-06-08T16:23:39.581640Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:24:56.519090Z"
   },
   {
     "id": "BTW/USDT:USDT_1780935814",
