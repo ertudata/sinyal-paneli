@@ -1,5 +1,18 @@
 [
   {
+    "id": "CLO/USDT:USDT_1780909594",
+    "symbol": "CLO",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.17804,
+    "exit_price": null,
+    "sl": 0.17857411999999998,
+    "tp": 0.1753694,
+    "pnl": null,
+    "change_pct": 2.198,
+    "timestamp": "2026-06-08T09:06:34.406063Z"
+  },
+  {
     "id": "SKYAI/USDT:USDT_1780909576",
     "symbol": "SKYAI",
     "direction": "SHORT",
