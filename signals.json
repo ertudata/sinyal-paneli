@@ -1667,14 +1667,14 @@
     "id": "ROBO/USDT:USDT_1780934620",
     "symbol": "ROBO",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.0197,
-    "exit_price": null,
+    "exit_price": 0.019995499999999996,
     "sl": 0.0196409,
     "tp": 0.019995499999999996,
-    "pnl": null,
-    "change_pct": -1.648,
-    "timestamp": "2026-06-08T16:03:40.004858Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T16:41:45.865301Z"
   },
   {
     "id": "TAKE/USDT:USDT_1780934616",
