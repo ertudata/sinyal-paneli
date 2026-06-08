@@ -1,5 +1,18 @@
 [
   {
+    "id": "BANK/USDT:USDT_1780918921",
+    "symbol": "BANK",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.0435,
+    "exit_price": null,
+    "sl": 0.043630499999999996,
+    "tp": 0.0428475,
+    "pnl": null,
+    "change_pct": 1.707,
+    "timestamp": "2026-06-08T11:42:01.489591Z"
+  },
+  {
     "id": "ZEREBRO/USDT:USDT_1780918903",
     "symbol": "ZEREBRO",
     "direction": "SHORT",
