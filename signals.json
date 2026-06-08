@@ -367,14 +367,14 @@
     "id": "COHR/USDT:USDT_1780925719",
     "symbol": "COHR",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 377.46,
-    "exit_price": null,
+    "exit_price": 383.1218999999999,
     "sl": 376.32761999999997,
     "tp": 383.1218999999999,
-    "pnl": null,
-    "change_pct": -1.762,
-    "timestamp": "2026-06-08T13:35:19.857226Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T13:38:29.711563Z"
   },
   {
     "id": "MU/USDT:USDT_1780925716",
