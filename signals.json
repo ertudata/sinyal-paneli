@@ -1,5 +1,18 @@
 [
   {
+    "id": "QNT/USDT:USDT_1780950955",
+    "symbol": "QNT",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 68.59,
+    "exit_price": null,
+    "sl": 68.79576999999999,
+    "tp": 67.56115,
+    "pnl": null,
+    "change_pct": 1.345,
+    "timestamp": "2026-06-08T20:35:55.795762Z"
+  },
+  {
     "id": "4/USDT:USDT_1780950951",
     "symbol": "4",
     "direction": "SHORT",
