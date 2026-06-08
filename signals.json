@@ -1,5 +1,18 @@
 [
   {
+    "id": "ERA/USDT:USDT_1780950776",
+    "symbol": "ERA",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.1013,
+    "exit_price": null,
+    "sl": 0.1009961,
+    "tp": 0.1028195,
+    "pnl": null,
+    "change_pct": -1.171,
+    "timestamp": "2026-06-08T20:32:56.307447Z"
+  },
+  {
     "id": "USELESS/USDT:USDT_1780950773",
     "symbol": "USELESS",
     "direction": "LONG",
