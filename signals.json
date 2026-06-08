@@ -1,5 +1,18 @@
 [
   {
+    "id": "SPCX/USDT:USDT_1780934714",
+    "symbol": "SPCX",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 170.69,
+    "exit_price": null,
+    "sl": 171.20207,
+    "tp": 168.12965,
+    "pnl": null,
+    "change_pct": 2.277,
+    "timestamp": "2026-06-08T16:05:14.997174Z"
+  },
+  {
     "id": "AGT/USDT:USDT_1780934711",
     "symbol": "AGT",
     "direction": "LONG",
