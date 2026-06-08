@@ -42,14 +42,14 @@
     "id": "SKYAI/USDT:USDT_1780921899",
     "symbol": "SKYAI",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.27079,
-    "exit_price": null,
+    "exit_price": 0.26997762999999997,
     "sl": 0.26997762999999997,
     "tp": 0.27485184999999995,
-    "pnl": null,
-    "change_pct": -1.413,
-    "timestamp": "2026-06-08T12:31:39.068646Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T12:32:46.510314Z"
   },
   {
     "id": "GWEI/USDT:USDT_1780921870",
