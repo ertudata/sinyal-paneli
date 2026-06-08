@@ -16,14 +16,14 @@
     "id": "MYX/USDT:USDT_1780923837",
     "symbol": "MYX",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.2838,
-    "exit_price": null,
+    "exit_price": 0.2829486,
     "sl": 0.2829486,
     "tp": 0.28805699999999995,
-    "pnl": null,
-    "change_pct": -1.424,
-    "timestamp": "2026-06-08T13:03:57.843782Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T13:04:22.183120Z"
   },
   {
     "id": "ESPORTS/USDT:USDT_1780923816",
