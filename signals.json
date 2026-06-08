@@ -1,5 +1,18 @@
 [
   {
+    "id": "币安人生/USDT:USDT_1780934736",
+    "symbol": "币安人生",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.70093,
+    "exit_price": null,
+    "sl": 0.69882721,
+    "tp": 0.7114439499999999,
+    "pnl": null,
+    "change_pct": -2.267,
+    "timestamp": "2026-06-08T16:05:36.096304Z"
+  },
+  {
     "id": "MERL/USDT:USDT_1780934732",
     "symbol": "MERL",
     "direction": "LONG",
