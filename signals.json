@@ -16,14 +16,14 @@
     "id": "BERA/USDT:USDT_1780932234",
     "symbol": "BERA",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.2771,
-    "exit_price": null,
+    "exit_price": 0.2779313,
     "sl": 0.2779313,
     "tp": 0.2729435,
-    "pnl": null,
-    "change_pct": 1.058,
-    "timestamp": "2026-06-08T15:23:54.704432Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T15:24:15.600528Z"
   },
   {
     "id": "VELVET/USDT:USDT_1780932216",
