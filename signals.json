@@ -94,14 +94,14 @@
     "id": "ZBT/USDT:USDT_1780920270",
     "symbol": "ZBT",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.13313,
-    "exit_price": null,
+    "exit_price": 0.13512695,
     "sl": 0.13273061,
     "tp": 0.13512695,
-    "pnl": null,
-    "change_pct": -1.122,
-    "timestamp": "2026-06-08T12:04:30.428981Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T12:07:47.980796Z"
   },
   {
     "id": "ALLO/USDT:USDT_1780920267",
