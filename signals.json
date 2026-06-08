@@ -1,5 +1,18 @@
 [
   {
+    "id": "PIPPIN/USDT:USDT_1780937009",
+    "symbol": "PIPPIN",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.02499,
+    "exit_price": null,
+    "sl": 0.025064969999999995,
+    "tp": 0.02461515,
+    "pnl": null,
+    "change_pct": 3.264,
+    "timestamp": "2026-06-08T16:43:29.669741Z"
+  },
+  {
     "id": "MYX/USDT:USDT_1780937004",
     "symbol": "MYX",
     "direction": "SHORT",
