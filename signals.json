@@ -198,14 +198,14 @@
     "id": "BROCCOLIF3B/USDT:USDT_1780935788",
     "symbol": "BROCCOLIF3B",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.005956,
-    "exit_price": null,
+    "exit_price": 0.0059381320000000005,
     "sl": 0.0059381320000000005,
     "tp": 0.00604534,
-    "pnl": null,
-    "change_pct": -2.361,
-    "timestamp": "2026-06-08T16:23:08.600947Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:27:33.825302Z"
   },
   {
     "id": "ALLO/USDT:USDT_1780935780",
