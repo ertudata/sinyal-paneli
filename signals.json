@@ -16,14 +16,14 @@
     "id": "龙虾/USDT:USDT_1780920901",
     "symbol": "龙虾",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.009661,
-    "exit_price": null,
+    "exit_price": 0.009632017,
     "sl": 0.009632017,
     "tp": 0.009805914999999998,
-    "pnl": null,
-    "change_pct": -1.799,
-    "timestamp": "2026-06-08T12:15:01.904790Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T12:17:04.369581Z"
   },
   {
     "id": "ALLO/USDT:USDT_1780920862",
