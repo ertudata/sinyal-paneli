@@ -3,14 +3,14 @@
     "id": "BTW/USDT:USDT_1780932147",
     "symbol": "BTW",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.057816,
-    "exit_price": null,
+    "exit_price": 0.057642552,
     "sl": 0.057642552,
     "tp": 0.05868323999999999,
-    "pnl": null,
-    "change_pct": -2.851,
-    "timestamp": "2026-06-08T15:22:27.393156Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T15:23:02.092499Z"
   },
   {
     "id": "EPIC/USDT:USDT_1780932063",
