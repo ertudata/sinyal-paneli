@@ -42,14 +42,14 @@
     "id": "MRVL/USDT:USDT_1780925885",
     "symbol": "MRVL",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 282.76,
-    "exit_price": null,
+    "exit_price": 287.0014,
     "sl": 281.91172,
     "tp": 287.0014,
-    "pnl": null,
-    "change_pct": -1.299,
-    "timestamp": "2026-06-08T13:38:05.210542Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T13:39:48.205443Z"
   },
   {
     "id": "AKE/USDT:USDT_1780925852",
