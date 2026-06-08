@@ -1,5 +1,18 @@
 [
   {
+    "id": "BEAT/USDT:USDT_1780921920",
+    "symbol": "BEAT",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 4.3272,
+    "exit_price": null,
+    "sl": 4.3401816,
+    "tp": 4.262292,
+    "pnl": null,
+    "change_pct": 1.06,
+    "timestamp": "2026-06-08T12:32:00.074986Z"
+  },
+  {
     "id": "SKYAI/USDT:USDT_1780921899",
     "symbol": "SKYAI",
     "direction": "LONG",
