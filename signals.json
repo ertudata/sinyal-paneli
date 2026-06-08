@@ -1,5 +1,18 @@
 [
   {
+    "id": "AGLD/USDT:USDT_1780950744",
+    "symbol": "AGLD",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.192,
+    "exit_price": null,
+    "sl": 0.191424,
+    "tp": 0.19488,
+    "pnl": null,
+    "change_pct": -1.941,
+    "timestamp": "2026-06-08T20:32:24.563679Z"
+  },
+  {
     "id": "LAYER/USDT:USDT_1780950741",
     "symbol": "LAYER",
     "direction": "LONG",
