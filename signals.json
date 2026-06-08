@@ -276,14 +276,14 @@
     "id": "COS/USDT:USDT_1780909551",
     "symbol": "COS",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.000755,
-    "exit_price": null,
+    "exit_price": 0.0007572649999999999,
     "sl": 0.0007572649999999999,
     "tp": 0.0007436750000000001,
-    "pnl": null,
-    "change_pct": 1.615,
-    "timestamp": "2026-06-08T09:05:51.482942Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T09:14:02.170750Z"
   },
   {
     "id": "PIPPIN/USDT:USDT_1780909527",
