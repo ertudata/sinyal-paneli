@@ -1,5 +1,18 @@
 [
   {
+    "id": "BLESS/USDT:USDT_1780936861",
+    "symbol": "BLESS",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.009145,
+    "exit_price": null,
+    "sl": 0.009117565000000001,
+    "tp": 0.009282175,
+    "pnl": null,
+    "change_pct": -2.713,
+    "timestamp": "2026-06-08T16:41:01.439967Z"
+  },
+  {
     "id": "BROCCOLI714/USDT:USDT_1780936837",
     "symbol": "BROCCOLI714",
     "direction": "LONG",
