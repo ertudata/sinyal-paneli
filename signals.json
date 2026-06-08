@@ -159,14 +159,14 @@
     "id": "BEAT/USDT:USDT_1780927870",
     "symbol": "BEAT",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 4.1419,
-    "exit_price": null,
+    "exit_price": 4.0797715,
     "sl": 4.154325699999999,
     "tp": 4.0797715,
-    "pnl": null,
-    "change_pct": 2.779,
-    "timestamp": "2026-06-08T14:11:10.394070Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T14:16:25.173391Z"
   },
   {
     "id": "LUNA2/USDT:USDT_1780927867",
