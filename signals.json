@@ -1,5 +1,18 @@
 [
   {
+    "id": "LIT/USDT:USDT_1780934704",
+    "symbol": "LIT",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 1.5724,
+    "exit_price": null,
+    "sl": 1.5771171999999998,
+    "tp": 1.548814,
+    "pnl": null,
+    "change_pct": 1.727,
+    "timestamp": "2026-06-08T16:05:04.962367Z"
+  },
+  {
     "id": "GWEI/USDT:USDT_1780934701",
     "symbol": "GWEI",
     "direction": "SHORT",
