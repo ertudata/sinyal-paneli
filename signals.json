@@ -965,14 +965,14 @@
     "id": "C/USDT:USDT_1780934611",
     "symbol": "C",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.09907,
-    "exit_price": null,
+    "exit_price": 0.09877279,
     "sl": 0.09877279,
     "tp": 0.10055605,
-    "pnl": null,
-    "change_pct": -1.197,
-    "timestamp": "2026-06-08T16:03:31.374047Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:20:28.829885Z"
   },
   {
     "id": "TOWNS/USDT:USDT_1780934608",
