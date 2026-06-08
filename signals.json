@@ -1,5 +1,18 @@
 [
   {
+    "id": "SAHARA/USDT:USDT_1780926305",
+    "symbol": "SAHARA",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.03769,
+    "exit_price": null,
+    "sl": 0.037803069999999994,
+    "tp": 0.03712465,
+    "pnl": null,
+    "change_pct": 1.181,
+    "timestamp": "2026-06-08T13:45:05.092735Z"
+  },
+  {
     "id": "SOXL/USDT:USDT_1780926194",
     "symbol": "SOXL",
     "direction": "SHORT",
