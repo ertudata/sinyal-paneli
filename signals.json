@@ -1,5 +1,18 @@
 [
   {
+    "id": "USTC/USDT:USDT_1780950779",
+    "symbol": "USTC",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.00611,
+    "exit_price": null,
+    "sl": 0.0060916699999999996,
+    "tp": 0.0062016499999999995,
+    "pnl": null,
+    "change_pct": -1.261,
+    "timestamp": "2026-06-08T20:32:59.890858Z"
+  },
+  {
     "id": "ERA/USDT:USDT_1780950776",
     "symbol": "ERA",
     "direction": "LONG",
