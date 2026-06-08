@@ -1,5 +1,18 @@
 [
   {
+    "id": "C/USDT:USDT_1780950760",
+    "symbol": "C",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.10146,
+    "exit_price": null,
+    "sl": 0.10176437999999999,
+    "tp": 0.09993809999999999,
+    "pnl": null,
+    "change_pct": 3.626,
+    "timestamp": "2026-06-08T20:32:40.134732Z"
+  },
+  {
     "id": "CBRS/USDT:USDT_1780950756",
     "symbol": "CBRS",
     "direction": "LONG",
