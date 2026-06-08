@@ -29,14 +29,14 @@
     "id": "BROCCOLIF3B/USDT:USDT_1780938660",
     "symbol": "BROCCOLIF3B",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.005483,
-    "exit_price": null,
+    "exit_price": 0.005466551,
     "sl": 0.005466551,
     "tp": 0.005565245,
-    "pnl": null,
-    "change_pct": -1.349,
-    "timestamp": "2026-06-08T17:11:00.743819Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T17:12:26.412185Z"
   },
   {
     "id": "VELVET/USDT:USDT_1780938624",
