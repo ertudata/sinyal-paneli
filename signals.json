@@ -1,5 +1,18 @@
 [
   {
+    "id": "STG/USDT:USDT_1780909731",
+    "symbol": "STG",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.2543,
+    "exit_price": null,
+    "sl": 0.2535371,
+    "tp": 0.2581145,
+    "pnl": null,
+    "change_pct": -1.281,
+    "timestamp": "2026-06-08T09:08:51.433324Z"
+  },
+  {
     "id": "BTW/USDT:USDT_1780909709",
     "symbol": "BTW",
     "direction": "LONG",
