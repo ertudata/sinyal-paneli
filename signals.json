@@ -81,14 +81,14 @@
     "id": "ESPORTS/USDT:USDT_1780936186",
     "symbol": "ESPORTS",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.052,
-    "exit_price": null,
+    "exit_price": 0.052779999999999994,
     "sl": 0.051843999999999994,
     "tp": 0.052779999999999994,
-    "pnl": null,
-    "change_pct": -1.422,
-    "timestamp": "2026-06-08T16:29:46.144489Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T16:32:20.968117Z"
   },
   {
     "id": "POWER/USDT:USDT_1780936159",
