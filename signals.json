@@ -1914,14 +1914,14 @@
     "id": "FORM/USDT:USDT_1780934660",
     "symbol": "FORM",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.2677,
-    "exit_price": null,
+    "exit_price": 0.2668969,
     "sl": 0.2668969,
     "tp": 0.27171549999999994,
-    "pnl": null,
-    "change_pct": -1.072,
-    "timestamp": "2026-06-08T16:04:20.417416Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:51:56.913074Z"
   },
   {
     "id": "WLFI/USDT:USDT_1780934657",
