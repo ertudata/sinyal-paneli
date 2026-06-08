@@ -1,5 +1,18 @@
 [
   {
+    "id": "TRUTH/USDT:USDT_1780934833",
+    "symbol": "TRUTH",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.012612,
+    "exit_price": null,
+    "sl": 0.012649836,
+    "tp": 0.01242282,
+    "pnl": null,
+    "change_pct": 1.464,
+    "timestamp": "2026-06-08T16:07:13.399860Z"
+  },
+  {
     "id": "GIGGLE/USDT:USDT_1780934830",
     "symbol": "GIGGLE",
     "direction": "SHORT",
