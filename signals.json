@@ -1,5 +1,18 @@
 [
   {
+    "id": "BSB/USDT:USDT_1780931657",
+    "symbol": "BSB",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.33445,
+    "exit_price": null,
+    "sl": 0.33344665,
+    "tp": 0.33946675,
+    "pnl": null,
+    "change_pct": -1.574,
+    "timestamp": "2026-06-08T15:14:17.540732Z"
+  },
+  {
     "id": "ARIA/USDT:USDT_1780931565",
     "symbol": "ARIA",
     "direction": "SHORT",
