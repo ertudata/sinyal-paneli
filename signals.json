@@ -1,5 +1,18 @@
 [
   {
+    "id": "MYX/USDT:USDT_1780937004",
+    "symbol": "MYX",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.2799,
+    "exit_price": null,
+    "sl": 0.2807396999999999,
+    "tp": 0.2757015,
+    "pnl": null,
+    "change_pct": 1.34,
+    "timestamp": "2026-06-08T16:43:24.630864Z"
+  },
+  {
     "id": "WLD/USDT:USDT_1780937000",
     "symbol": "WLD",
     "direction": "SHORT",
