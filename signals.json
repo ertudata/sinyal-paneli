@@ -1,5 +1,18 @@
 [
   {
+    "id": "FHE/USDT:USDT_1780950936",
+    "symbol": "FHE",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.02113,
+    "exit_price": null,
+    "sl": 0.02106661,
+    "tp": 0.021446949999999996,
+    "pnl": null,
+    "change_pct": -2.357,
+    "timestamp": "2026-06-08T20:35:36.986953Z"
+  },
+  {
     "id": "ON/USDT:USDT_1780950933",
     "symbol": "ON",
     "direction": "SHORT",
