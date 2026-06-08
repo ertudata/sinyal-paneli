@@ -198,14 +198,14 @@
     "id": "BIO/USDT:USDT_1780926453",
     "symbol": "BIO",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.03179,
-    "exit_price": null,
+    "exit_price": 0.03226684999999999,
     "sl": 0.03169463,
     "tp": 0.03226684999999999,
-    "pnl": null,
-    "change_pct": -1.335,
-    "timestamp": "2026-06-08T13:47:33.422681Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T14:02:21.155898Z"
   },
   {
     "id": "ALLO/USDT:USDT_1780926377",
