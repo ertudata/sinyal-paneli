@@ -107,14 +107,14 @@
     "id": "NAORIS/USDT:USDT_1780934809",
     "symbol": "NAORIS",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.03194,
-    "exit_price": null,
+    "exit_price": 0.03203582,
     "sl": 0.03203582,
     "tp": 0.0314609,
-    "pnl": null,
-    "change_pct": 1.172,
-    "timestamp": "2026-06-08T16:06:49.945228Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:07:48.904585Z"
   },
   {
     "id": "HOME/USDT:USDT_1780934806",
