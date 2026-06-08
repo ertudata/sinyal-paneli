@@ -1,5 +1,18 @@
 [
   {
+    "id": "CLO/USDT:USDT_1780928852",
+    "symbol": "CLO",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.1502,
+    "exit_price": null,
+    "sl": 0.1497494,
+    "tp": 0.15245299999999998,
+    "pnl": null,
+    "change_pct": -2.6,
+    "timestamp": "2026-06-08T14:27:32.069426Z"
+  },
+  {
     "id": "GUA/USDT:USDT_1780928808",
     "symbol": "GUA",
     "direction": "LONG",
