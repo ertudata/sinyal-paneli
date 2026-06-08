@@ -1,5 +1,18 @@
 [
   {
+    "id": "WLFI/USDT:USDT_1780934657",
+    "symbol": "WLFI",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.05616,
+    "exit_price": null,
+    "sl": 0.05599152,
+    "tp": 0.057002399999999995,
+    "pnl": null,
+    "change_pct": -1.318,
+    "timestamp": "2026-06-08T16:04:17.038266Z"
+  },
+  {
     "id": "BR/USDT:USDT_1780934653",
     "symbol": "BR",
     "direction": "LONG",
