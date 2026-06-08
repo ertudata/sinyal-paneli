@@ -1,5 +1,18 @@
 [
   {
+    "id": "SAHARA/USDT:USDT_1780950875",
+    "symbol": "SAHARA",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.03516,
+    "exit_price": null,
+    "sl": 0.03505452,
+    "tp": 0.035687399999999994,
+    "pnl": null,
+    "change_pct": -4.741,
+    "timestamp": "2026-06-08T20:34:35.196132Z"
+  },
+  {
     "id": "LAB/USDT:USDT_1780950871",
     "symbol": "LAB",
     "direction": "LONG",
