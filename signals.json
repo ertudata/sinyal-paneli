@@ -3,14 +3,14 @@
     "id": "CLO/USDT:USDT_1780909779",
     "symbol": "CLO",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.18741,
-    "exit_price": null,
+    "exit_price": 0.18459884999999998,
     "sl": 0.18797222999999996,
     "tp": 0.18459884999999998,
-    "pnl": null,
-    "change_pct": 2.298,
-    "timestamp": "2026-06-08T09:09:39.311874Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T09:10:21.603276Z"
   },
   {
     "id": "ZAMA/USDT:USDT_1780909752",
