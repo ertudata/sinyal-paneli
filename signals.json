@@ -1,5 +1,18 @@
 [
   {
+    "id": "SSV/USDT:USDT_1780950726",
+    "symbol": "SSV",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 2.085,
+    "exit_price": null,
+    "sl": 2.078745,
+    "tp": 2.116275,
+    "pnl": null,
+    "change_pct": -1.418,
+    "timestamp": "2026-06-08T20:32:06.238154Z"
+  },
+  {
     "id": "IN/USDT:USDT_1780950723",
     "symbol": "IN",
     "direction": "LONG",
