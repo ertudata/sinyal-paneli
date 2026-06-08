@@ -1,5 +1,18 @@
 [
   {
+    "id": "CLO/USDT:USDT_1780909640",
+    "symbol": "CLO",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.18081,
+    "exit_price": null,
+    "sl": 0.18135242999999998,
+    "tp": 0.17809785,
+    "pnl": null,
+    "change_pct": 2.442,
+    "timestamp": "2026-06-08T09:07:20.549922Z"
+  },
+  {
     "id": "PIPPIN/USDT:USDT_1780909637",
     "symbol": "PIPPIN",
     "direction": "SHORT",
