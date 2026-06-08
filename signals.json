@@ -1,5 +1,18 @@
 [
   {
+    "id": "龙虾/USDT:USDT_1780924957",
+    "symbol": "龙虾",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.009885,
+    "exit_price": null,
+    "sl": 0.009914654999999998,
+    "tp": 0.009736725,
+    "pnl": null,
+    "change_pct": 1.991,
+    "timestamp": "2026-06-08T13:22:37.555345Z"
+  },
+  {
     "id": "BIO/USDT:USDT_1780924938",
     "symbol": "BIO",
     "direction": "SHORT",
