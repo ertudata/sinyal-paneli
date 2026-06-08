@@ -1,5 +1,18 @@
 [
   {
+    "id": "AAOI/USDT:USDT_1780936361",
+    "symbol": "AAOI",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 196.69,
+    "exit_price": null,
+    "sl": 197.28006999999997,
+    "tp": 193.73964999999998,
+    "pnl": null,
+    "change_pct": 1.095,
+    "timestamp": "2026-06-08T16:32:41.940147Z"
+  },
+  {
     "id": "LAYER/USDT:USDT_1780936300",
     "symbol": "LAYER",
     "direction": "LONG",
