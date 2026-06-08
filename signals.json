@@ -1,5 +1,18 @@
 [
   {
+    "id": "ARIA/USDT:USDT_1780936000",
+    "symbol": "ARIA",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.0368,
+    "exit_price": null,
+    "sl": 0.036910399999999996,
+    "tp": 0.036247999999999996,
+    "pnl": null,
+    "change_pct": 1.377,
+    "timestamp": "2026-06-08T16:26:40.365092Z"
+  },
+  {
     "id": "PIPPIN/USDT:USDT_1780935994",
     "symbol": "PIPPIN",
     "direction": "SHORT",
