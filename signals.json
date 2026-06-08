@@ -1,5 +1,18 @@
 [
   {
+    "id": "DEXE/USDT:USDT_1780925068",
+    "symbol": "DEXE",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 22.77,
+    "exit_price": null,
+    "sl": 22.70169,
+    "tp": 23.111549999999998,
+    "pnl": null,
+    "change_pct": -1.441,
+    "timestamp": "2026-06-08T13:24:28.138499Z"
+  },
+  {
     "id": "龙虾/USDT:USDT_1780925049",
     "symbol": "龙虾",
     "direction": "SHORT",
