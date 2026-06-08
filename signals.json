@@ -1,5 +1,18 @@
 [
   {
+    "id": "POWER/USDT:USDT_1780936096",
+    "symbol": "POWER",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.07902,
+    "exit_price": null,
+    "sl": 0.07878294000000001,
+    "tp": 0.0802053,
+    "pnl": null,
+    "change_pct": -1.594,
+    "timestamp": "2026-06-08T16:28:16.274215Z"
+  },
+  {
     "id": "SKYAI/USDT:USDT_1780936015",
     "symbol": "SKYAI",
     "direction": "SHORT",
