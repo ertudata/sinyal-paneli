@@ -68,14 +68,14 @@
     "id": "VVV/USDT:USDT_1780925219",
     "symbol": "VVV",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 17.873,
-    "exit_price": null,
+    "exit_price": 17.926619,
     "sl": 17.926619,
     "tp": 17.604905000000002,
-    "pnl": null,
-    "change_pct": 1.218,
-    "timestamp": "2026-06-08T13:26:59.083331Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T13:28:59.043744Z"
   },
   {
     "id": "VELVET/USDT:USDT_1780925216",
