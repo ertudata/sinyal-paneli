@@ -1,5 +1,18 @@
 [
   {
+    "id": "SFP/USDT:USDT_1780932385",
+    "symbol": "SFP",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.2441,
+    "exit_price": null,
+    "sl": 0.24483229999999997,
+    "tp": 0.2404385,
+    "pnl": null,
+    "change_pct": 1.202,
+    "timestamp": "2026-06-08T15:26:25.085903Z"
+  },
+  {
     "id": "FIDA/USDT:USDT_1780932363",
     "symbol": "FIDA",
     "direction": "SHORT",
