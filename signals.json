@@ -1,5 +1,18 @@
 [
   {
+    "id": "HEI/USDT:USDT_1780929455",
+    "symbol": "HEI",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.09632,
+    "exit_price": null,
+    "sl": 0.09660896,
+    "tp": 0.0948752,
+    "pnl": null,
+    "change_pct": 1.325,
+    "timestamp": "2026-06-08T14:37:35.792152Z"
+  },
+  {
     "id": "PIPPIN/USDT:USDT_1780929385",
     "symbol": "PIPPIN",
     "direction": "LONG",
