@@ -1,5 +1,18 @@
 [
   {
+    "id": "我踏马来了/USDT:USDT_1780934687",
+    "symbol": "我踏马来了",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.009797,
+    "exit_price": null,
+    "sl": 0.009826390999999999,
+    "tp": 0.009650045,
+    "pnl": null,
+    "change_pct": 1.618,
+    "timestamp": "2026-06-08T16:04:47.234660Z"
+  },
+  {
     "id": "ETHW/USDT:USDT_1780934683",
     "symbol": "ETHW",
     "direction": "SHORT",
