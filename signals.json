@@ -1,5 +1,18 @@
 [
   {
+    "id": "SOXL/USDT:USDT_1780925920",
+    "symbol": "SOXL",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 209.01,
+    "exit_price": null,
+    "sl": 209.63702999999998,
+    "tp": 205.87484999999998,
+    "pnl": null,
+    "change_pct": 1.545,
+    "timestamp": "2026-06-08T13:38:40.681844Z"
+  },
+  {
     "id": "ESPORTS/USDT:USDT_1780925916",
     "symbol": "ESPORTS",
     "direction": "LONG",
