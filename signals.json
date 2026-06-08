@@ -302,14 +302,14 @@
     "id": "BEAT/USDT:USDT_1780918642",
     "symbol": "BEAT",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 4.5234,
-    "exit_price": null,
+    "exit_price": 4.4555489999999995,
     "sl": 4.536970199999999,
     "tp": 4.4555489999999995,
-    "pnl": null,
-    "change_pct": 1.111,
-    "timestamp": "2026-06-08T11:37:22.699405Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T11:46:38.645764Z"
   },
   {
     "id": "MYX/USDT:USDT_1780918621",
