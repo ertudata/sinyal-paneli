@@ -1,5 +1,18 @@
 [
   {
+    "id": "BTW/USDT:USDT_1780909709",
+    "symbol": "BTW",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.046829,
+    "exit_price": null,
+    "sl": 0.046688513,
+    "tp": 0.047531435,
+    "pnl": null,
+    "change_pct": -1.419,
+    "timestamp": "2026-06-08T09:08:29.767491Z"
+  },
+  {
     "id": "MBOX/USDT:USDT_1780909688",
     "symbol": "MBOX",
     "direction": "SHORT",
