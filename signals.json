@@ -198,14 +198,14 @@
     "id": "BSB/USDT:USDT_1780938152",
     "symbol": "BSB",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.31124,
-    "exit_price": null,
+    "exit_price": 0.31217372,
     "sl": 0.31217372,
     "tp": 0.3065714,
-    "pnl": null,
-    "change_pct": 1.052,
-    "timestamp": "2026-06-08T17:02:32.769489Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T17:13:00.988013Z"
   },
   {
     "id": "ESPORTS/USDT:USDT_1780938140",
