@@ -29,14 +29,14 @@
     "id": "ALLO/USDT:USDT_1780919364",
     "symbol": "ALLO",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.44617,
-    "exit_price": null,
+    "exit_price": 0.44750850999999997,
     "sl": 0.44750850999999997,
     "tp": 0.43947745,
-    "pnl": null,
-    "change_pct": 2.199,
-    "timestamp": "2026-06-08T11:49:24.281827Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T11:49:50.926751Z"
   },
   {
     "id": "SAPIEN/USDT:USDT_1780919321",
