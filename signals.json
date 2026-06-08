@@ -1,5 +1,18 @@
 [
   {
+    "id": "ACU/USDT:USDT_1780922109",
+    "symbol": "ACU",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.07931,
+    "exit_price": null,
+    "sl": 0.07907207000000001,
+    "tp": 0.08049964999999999,
+    "pnl": null,
+    "change_pct": -1.38,
+    "timestamp": "2026-06-08T12:35:09.429612Z"
+  },
+  {
     "id": "OPN/USDT:USDT_1780922106",
     "symbol": "OPN",
     "direction": "SHORT",
