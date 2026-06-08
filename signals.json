@@ -1,5 +1,18 @@
 [
   {
+    "id": "PHA/USDT:USDT_1780950799",
+    "symbol": "PHA",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.0322,
+    "exit_price": null,
+    "sl": 0.0321034,
+    "tp": 0.032683,
+    "pnl": null,
+    "change_pct": -1.136,
+    "timestamp": "2026-06-08T20:33:19.413457Z"
+  },
+  {
     "id": "STX/USDT:USDT_1780950795",
     "symbol": "STX",
     "direction": "LONG",
