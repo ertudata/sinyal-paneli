@@ -237,14 +237,14 @@
     "id": "AXL/USDT:USDT_1780950819",
     "symbol": "AXL",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.04414,
-    "exit_price": null,
+    "exit_price": 0.04427241999999999,
     "sl": 0.04427241999999999,
     "tp": 0.0434779,
-    "pnl": null,
-    "change_pct": 1.588,
-    "timestamp": "2026-06-08T20:33:39.816715Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T20:35:17.725527Z"
   },
   {
     "id": "ALT/USDT:USDT_1780950816",
