@@ -16,14 +16,14 @@
     "id": "SIREN/USDT:USDT_1780928803",
     "symbol": "SIREN",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 1.2205,
-    "exit_price": null,
+    "exit_price": 1.2168385,
     "sl": 1.2168385,
     "tp": 1.2388074999999998,
-    "pnl": null,
-    "change_pct": -1.11,
-    "timestamp": "2026-06-08T14:26:43.373820Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T14:27:27.115501Z"
   },
   {
     "id": "USTC/USDT:USDT_1780928798",
