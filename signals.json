@@ -263,14 +263,14 @@
     "id": "MERL/USDT:USDT_1780934732",
     "symbol": "MERL",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.02053,
-    "exit_price": null,
+    "exit_price": 0.020837949999999997,
     "sl": 0.02046841,
     "tp": 0.020837949999999997,
-    "pnl": null,
-    "change_pct": -1.156,
-    "timestamp": "2026-06-08T16:05:32.619968Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T16:08:20.553521Z"
   },
   {
     "id": "SKYAI/USDT:USDT_1780934729",
