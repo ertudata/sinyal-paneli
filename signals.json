@@ -1,5 +1,18 @@
 [
   {
+    "id": "BEAT/USDT:USDT_1780927834",
+    "symbol": "BEAT",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 4.0299,
+    "exit_price": null,
+    "sl": 4.0178103,
+    "tp": 4.090348499999999,
+    "pnl": null,
+    "change_pct": -2.469,
+    "timestamp": "2026-06-08T14:10:34.477762Z"
+  },
+  {
     "id": "VELVET/USDT:USDT_1780927831",
     "symbol": "VELVET",
     "direction": "LONG",
