@@ -250,14 +250,14 @@
     "id": "BIO/USDT:USDT_1780925651",
     "symbol": "BIO",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.03243,
-    "exit_price": null,
+    "exit_price": 0.03252729,
     "sl": 0.03252729,
     "tp": 0.03194355,
-    "pnl": null,
-    "change_pct": 1.06,
-    "timestamp": "2026-06-08T13:34:11.751650Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T13:36:34.480896Z"
   },
   {
     "id": "FLNC/USDT:USDT_1780925648",
