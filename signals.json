@@ -1,5 +1,18 @@
 [
   {
+    "id": "币安人生/USDT:USDT_1780938107",
+    "symbol": "币安人生",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.70166,
+    "exit_price": null,
+    "sl": 0.7037649799999999,
+    "tp": 0.6911350999999999,
+    "pnl": null,
+    "change_pct": 1.108,
+    "timestamp": "2026-06-08T17:01:47.427958Z"
+  },
+  {
     "id": "ICNT/USDT:USDT_1780938099",
     "symbol": "ICNT",
     "direction": "SHORT",
