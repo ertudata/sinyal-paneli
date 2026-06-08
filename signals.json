@@ -3,14 +3,14 @@
     "id": "BERA/USDT:USDT_1780932519",
     "symbol": "BERA",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.2729,
-    "exit_price": null,
+    "exit_price": 0.27208129999999997,
     "sl": 0.27208129999999997,
     "tp": 0.27699349999999995,
-    "pnl": null,
-    "change_pct": -1.051,
-    "timestamp": "2026-06-08T15:28:39.941677Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T15:29:14.115004Z"
   },
   {
     "id": "BTW/USDT:USDT_1780932498",
