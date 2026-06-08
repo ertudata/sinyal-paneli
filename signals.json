@@ -1,5 +1,18 @@
 [
   {
+    "id": "POWER/USDT:USDT_1780936970",
+    "symbol": "POWER",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.0792,
+    "exit_price": null,
+    "sl": 0.0794376,
+    "tp": 0.07801200000000001,
+    "pnl": null,
+    "change_pct": 1.201,
+    "timestamp": "2026-06-08T16:42:50.912415Z"
+  },
+  {
     "id": "BLESS/USDT:USDT_1780936965",
     "symbol": "BLESS",
     "direction": "SHORT",
