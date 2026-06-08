@@ -1,5 +1,18 @@
 [
   {
+    "id": "BANK/USDT:USDT_1780928032",
+    "symbol": "BANK",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.04153,
+    "exit_price": null,
+    "sl": 0.04165458999999999,
+    "tp": 0.04090705,
+    "pnl": null,
+    "change_pct": 1.54,
+    "timestamp": "2026-06-08T14:13:52.740746Z"
+  },
+  {
     "id": "H/USDT:USDT_1780928014",
     "symbol": "H",
     "direction": "LONG",
