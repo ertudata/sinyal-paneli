@@ -55,14 +55,14 @@
     "id": "PIPPIN/USDT:USDT_1780935797",
     "symbol": "PIPPIN",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.02465,
-    "exit_price": null,
+    "exit_price": 0.025019749999999997,
     "sl": 0.02457605,
     "tp": 0.025019749999999997,
-    "pnl": null,
-    "change_pct": -1.439,
-    "timestamp": "2026-06-08T16:23:17.110148Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T16:24:42.797126Z"
   },
   {
     "id": "BROCCOLIF3B/USDT:USDT_1780935788",
