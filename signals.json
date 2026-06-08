@@ -289,14 +289,14 @@
     "id": "FIDA/USDT:USDT_1780934739",
     "symbol": "FIDA",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.02702,
-    "exit_price": null,
+    "exit_price": 0.026938939999999998,
     "sl": 0.026938939999999998,
     "tp": 0.027425299999999996,
-    "pnl": null,
-    "change_pct": -1.853,
-    "timestamp": "2026-06-08T16:05:39.572180Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:09:47.655755Z"
   },
   {
     "id": "币安人生/USDT:USDT_1780934736",
