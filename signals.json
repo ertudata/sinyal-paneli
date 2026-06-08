@@ -1,5 +1,18 @@
 [
   {
+    "id": "USTC/USDT:USDT_1780929146",
+    "symbol": "USTC",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.006582,
+    "exit_price": null,
+    "sl": 0.0066017459999999995,
+    "tp": 0.00648327,
+    "pnl": null,
+    "change_pct": 1.653,
+    "timestamp": "2026-06-08T14:32:26.794432Z"
+  },
+  {
     "id": "VELVET/USDT:USDT_1780929111",
     "symbol": "VELVET",
     "direction": "SHORT",
