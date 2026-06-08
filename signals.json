@@ -1,5 +1,18 @@
 [
   {
+    "id": "NOK/USDT:USDT_1780925614",
+    "symbol": "NOK",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 14.51,
+    "exit_price": null,
+    "sl": 14.46647,
+    "tp": 14.727649999999999,
+    "pnl": null,
+    "change_pct": -2.421,
+    "timestamp": "2026-06-08T13:33:34.253540Z"
+  },
+  {
     "id": "FHE/USDT:USDT_1780925611",
     "symbol": "FHE",
     "direction": "LONG",
