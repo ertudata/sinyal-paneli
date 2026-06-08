@@ -1,5 +1,18 @@
 [
   {
+    "id": "ON/USDT:USDT_1780935826",
+    "symbol": "ON",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.08264,
+    "exit_price": null,
+    "sl": 0.08239208,
+    "tp": 0.0838796,
+    "pnl": null,
+    "change_pct": -1.408,
+    "timestamp": "2026-06-08T16:23:46.364643Z"
+  },
+  {
     "id": "AKE/USDT:USDT_1780935819",
     "symbol": "AKE",
     "direction": "LONG",
