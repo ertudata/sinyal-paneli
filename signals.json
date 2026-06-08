@@ -55,14 +55,14 @@
     "id": "BSB/USDT:USDT_1780924483",
     "symbol": "BSB",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.29196,
-    "exit_price": null,
+    "exit_price": 0.2963394,
     "sl": 0.29108412,
     "tp": 0.2963394,
-    "pnl": null,
-    "change_pct": -2.037,
-    "timestamp": "2026-06-08T13:14:43.107576Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T13:17:03.902102Z"
   },
   {
     "id": "SKYAI/USDT:USDT_1780924464",
