@@ -3,14 +3,14 @@
     "id": "YB/USDT:USDT_1780926964",
     "symbol": "YB",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.0912,
-    "exit_price": null,
+    "exit_price": 0.09147359999999999,
     "sl": 0.09147359999999999,
     "tp": 0.089832,
-    "pnl": null,
-    "change_pct": 1.446,
-    "timestamp": "2026-06-08T13:56:04.933940Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T13:56:38.633882Z"
   },
   {
     "id": "STG/USDT:USDT_1780926946",
