@@ -42,14 +42,14 @@
     "id": "HIGH/USDT:USDT_1780925522",
     "symbol": "HIGH",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.0808,
-    "exit_price": null,
+    "exit_price": 0.0805576,
     "sl": 0.0805576,
     "tp": 0.08201199999999999,
-    "pnl": null,
-    "change_pct": -2.415,
-    "timestamp": "2026-06-08T13:32:02.810936Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T13:33:07.641849Z"
   },
   {
     "id": "USAR/USDT:USDT_1780925518",
