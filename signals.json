@@ -1,5 +1,18 @@
 [
   {
+    "id": "ARM/USDT:USDT_1780925888",
+    "symbol": "ARM",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 341.2,
+    "exit_price": null,
+    "sl": 340.1764,
+    "tp": 346.3179999999999,
+    "pnl": null,
+    "change_pct": -1.253,
+    "timestamp": "2026-06-08T13:38:08.254386Z"
+  },
+  {
     "id": "MRVL/USDT:USDT_1780925885",
     "symbol": "MRVL",
     "direction": "LONG",
