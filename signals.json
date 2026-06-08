@@ -237,14 +237,14 @@
     "id": "LAYER/USDT:USDT_1780931226",
     "symbol": "LAYER",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.06832,
-    "exit_price": null,
+    "exit_price": 0.06811504,
     "sl": 0.06811504,
     "tp": 0.0693448,
-    "pnl": null,
-    "change_pct": -1.114,
-    "timestamp": "2026-06-08T15:07:06.945900Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T15:16:44.244215Z"
   },
   {
     "id": "JCT/USDT:USDT_1780931223",
