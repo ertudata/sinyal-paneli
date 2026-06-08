@@ -510,14 +510,14 @@
     "id": "HOOD/USDT:USDT_1780925625",
     "symbol": "HOOD",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 83.63,
-    "exit_price": null,
+    "exit_price": 83.37911,
     "sl": 83.37911,
     "tp": 84.88444999999999,
-    "pnl": null,
-    "change_pct": -1.088,
-    "timestamp": "2026-06-08T13:33:45.830819Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T13:38:26.897999Z"
   },
   {
     "id": "COHR/USDT:USDT_1780925622",
