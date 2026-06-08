@@ -1,5 +1,18 @@
 [
   {
+    "id": "EPIC/USDT:USDT_1780928648",
+    "symbol": "EPIC",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.5001,
+    "exit_price": null,
+    "sl": 0.4985997,
+    "tp": 0.5076014999999999,
+    "pnl": null,
+    "change_pct": -2.685,
+    "timestamp": "2026-06-08T14:24:08.651183Z"
+  },
+  {
     "id": "VELVET/USDT:USDT_1780928644",
     "symbol": "VELVET",
     "direction": "LONG",
