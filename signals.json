@@ -3,14 +3,14 @@
     "id": "MYX/USDT:USDT_1780923864",
     "symbol": "MYX",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.2798,
-    "exit_price": null,
+    "exit_price": 0.2789606,
     "sl": 0.2789606,
     "tp": 0.28399699999999994,
-    "pnl": null,
-    "change_pct": -1.409,
-    "timestamp": "2026-06-08T13:04:24.839333Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T13:04:46.044588Z"
   },
   {
     "id": "INTC/USDT:USDT_1780923840",
