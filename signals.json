@@ -3,14 +3,14 @@
     "id": "EPIC/USDT:USDT_1780932041",
     "symbol": "EPIC",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.4605,
-    "exit_price": null,
+    "exit_price": 0.45911850000000004,
     "sl": 0.45911850000000004,
     "tp": 0.4674075,
-    "pnl": null,
-    "change_pct": -1.265,
-    "timestamp": "2026-06-08T15:20:41.434793Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T15:21:00.773751Z"
   },
   {
     "id": "币安人生/USDT:USDT_1780932019",
