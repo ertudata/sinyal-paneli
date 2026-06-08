@@ -1,5 +1,18 @@
 [
   {
+    "id": "EDU/USDT:USDT_1780950850",
+    "symbol": "EDU",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.03052,
+    "exit_price": null,
+    "sl": 0.030611559999999996,
+    "tp": 0.030062199999999997,
+    "pnl": null,
+    "change_pct": 1.127,
+    "timestamp": "2026-06-08T20:34:10.868492Z"
+  },
+  {
     "id": "BTW/USDT:USDT_1780950846",
     "symbol": "BTW",
     "direction": "SHORT",
