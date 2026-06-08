@@ -1,5 +1,18 @@
 [
   {
+    "id": "LAB/USDT:USDT_1780950871",
+    "symbol": "LAB",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 12.248,
+    "exit_price": null,
+    "sl": 12.211255999999999,
+    "tp": 12.431719999999999,
+    "pnl": null,
+    "change_pct": -5.973,
+    "timestamp": "2026-06-08T20:34:31.647275Z"
+  },
+  {
     "id": "MAGMA/USDT:USDT_1780950868",
     "symbol": "MAGMA",
     "direction": "LONG",
