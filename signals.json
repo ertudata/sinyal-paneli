@@ -1,5 +1,18 @@
 [
   {
+    "id": "PTB/USDT:USDT_1780922803",
+    "symbol": "PTB",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.0006146,
+    "exit_price": null,
+    "sl": 0.0006164437999999999,
+    "tp": 0.000605381,
+    "pnl": null,
+    "change_pct": 1.587,
+    "timestamp": "2026-06-08T12:46:43.540582Z"
+  },
+  {
     "id": "PORTAL/USDT:USDT_1780922801",
     "symbol": "PORTAL",
     "direction": "SHORT",
