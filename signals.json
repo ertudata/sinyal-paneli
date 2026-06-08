@@ -1,5 +1,18 @@
 [
   {
+    "id": "BROCCOLI714/USDT:USDT_1780950804",
+    "symbol": "BROCCOLI714",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.01285,
+    "exit_price": null,
+    "sl": 0.012888549999999999,
+    "tp": 0.01265725,
+    "pnl": null,
+    "change_pct": 2.8,
+    "timestamp": "2026-06-08T20:33:24.995539Z"
+  },
+  {
     "id": "CLO/USDT:USDT_1780950802",
     "symbol": "CLO",
     "direction": "LONG",
