@@ -107,14 +107,14 @@
     "id": "BERA/USDT:USDT_1780934824",
     "symbol": "BERA",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.2776,
-    "exit_price": null,
+    "exit_price": 0.273436,
     "sl": 0.2784328,
     "tp": 0.273436,
-    "pnl": null,
-    "change_pct": 1.984,
-    "timestamp": "2026-06-08T16:07:04.356621Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T16:08:58.877138Z"
   },
   {
     "id": "AVNT/USDT:USDT_1780934821",
