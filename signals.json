@@ -1,5 +1,18 @@
 [
   {
+    "id": "QNTX/USDT:USDT_1780925501",
+    "symbol": "QNTX",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 59.24,
+    "exit_price": null,
+    "sl": 59.417719999999996,
+    "tp": 58.3514,
+    "pnl": null,
+    "change_pct": 1.595,
+    "timestamp": "2026-06-08T13:31:41.269798Z"
+  },
+  {
     "id": "RKLB/USDT:USDT_1780925497",
     "symbol": "RKLB",
     "direction": "LONG",
