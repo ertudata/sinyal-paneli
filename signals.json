@@ -68,14 +68,14 @@
     "id": "HEI/USDT:USDT_1780929828",
     "symbol": "HEI",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.09794,
-    "exit_price": null,
+    "exit_price": 0.0964709,
     "sl": 0.09823381999999999,
     "tp": 0.0964709,
-    "pnl": null,
-    "change_pct": 1.377,
-    "timestamp": "2026-06-08T14:43:48.698018Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T14:46:50.786322Z"
   },
   {
     "id": "BIO/USDT:USDT_1780929752",
