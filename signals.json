@@ -1,5 +1,18 @@
 [
   {
+    "id": "1000RATS/USDT:USDT_1780950831",
+    "symbol": "1000RATS",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.03036,
+    "exit_price": null,
+    "sl": 0.03045108,
+    "tp": 0.0299046,
+    "pnl": null,
+    "change_pct": 8.817,
+    "timestamp": "2026-06-08T20:33:51.351465Z"
+  },
+  {
     "id": "SKYAI/USDT:USDT_1780950827",
     "symbol": "SKYAI",
     "direction": "SHORT",
