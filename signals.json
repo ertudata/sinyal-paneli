@@ -1,5 +1,18 @@
 [
   {
+    "id": "JCT/USDT:USDT_1780934803",
+    "symbol": "JCT",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.004669,
+    "exit_price": null,
+    "sl": 0.0046549930000000005,
+    "tp": 0.004739035,
+    "pnl": null,
+    "change_pct": -1.974,
+    "timestamp": "2026-06-08T16:06:43.981142Z"
+  },
+  {
     "id": "BLUAI/USDT:USDT_1780934753",
     "symbol": "BLUAI",
     "direction": "SHORT",
