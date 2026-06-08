@@ -1,5 +1,18 @@
 [
   {
+    "id": "IREN/USDT:USDT_1780925429",
+    "symbol": "IREN",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 55.73,
+    "exit_price": null,
+    "sl": 55.56281,
+    "tp": 56.565949999999994,
+    "pnl": null,
+    "change_pct": -1.502,
+    "timestamp": "2026-06-08T13:30:29.545147Z"
+  },
+  {
     "id": "IBM/USDT:USDT_1780925425",
     "symbol": "IBM",
     "direction": "SHORT",
