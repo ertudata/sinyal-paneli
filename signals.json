@@ -3,14 +3,14 @@
     "id": "POWER/USDT:USDT_1780949615",
     "symbol": "POWER",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.07928,
-    "exit_price": null,
+    "exit_price": 0.08046919999999999,
     "sl": 0.07904216,
     "tp": 0.08046919999999999,
-    "pnl": null,
-    "change_pct": -1.258,
-    "timestamp": "2026-06-08T20:13:35.847789Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T20:31:45.505863Z"
   },
   {
     "id": "龙虾/USDT:USDT_1780938813",
