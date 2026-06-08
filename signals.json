@@ -1706,14 +1706,14 @@
     "id": "STBL/USDT:USDT_1780924268",
     "symbol": "STBL",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.02592,
-    "exit_price": null,
+    "exit_price": 0.025531199999999997,
     "sl": 0.025997759999999995,
     "tp": 0.025531199999999997,
-    "pnl": null,
-    "change_pct": 1.329,
-    "timestamp": "2026-06-08T13:11:08.313636Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T13:57:15.728465Z"
   },
   {
     "id": "VELVET/USDT:USDT_1780924264",
