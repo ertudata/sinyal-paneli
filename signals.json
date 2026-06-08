@@ -861,14 +861,14 @@
     "id": "FF/USDT:USDT_1780950716",
     "symbol": "FF",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.0896,
-    "exit_price": null,
+    "exit_price": 0.0893312,
     "sl": 0.0893312,
     "tp": 0.090944,
-    "pnl": null,
-    "change_pct": -1.657,
-    "timestamp": "2026-06-08T20:31:56.812848Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T20:39:12.905751Z"
   },
   {
     "id": "SENT/USDT:USDT_1780950714",
