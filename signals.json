@@ -107,14 +107,14 @@
     "id": "ALLO/USDT:USDT_1780935910",
     "symbol": "ALLO",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.41749,
-    "exit_price": null,
+    "exit_price": 0.41623753,
     "sl": 0.41623753,
     "tp": 0.42375235,
-    "pnl": null,
-    "change_pct": -1.27,
-    "timestamp": "2026-06-08T16:25:10.858198Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:27:55.505431Z"
   },
   {
     "id": "STG/USDT:USDT_1780935901",
