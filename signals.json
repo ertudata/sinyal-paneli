@@ -29,14 +29,14 @@
     "id": "ON/USDT:USDT_1780934920",
     "symbol": "ON",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.08275,
-    "exit_price": null,
+    "exit_price": 0.08299825,
     "sl": 0.08299825,
     "tp": 0.08150875,
-    "pnl": null,
-    "change_pct": 1.397,
-    "timestamp": "2026-06-08T16:08:40.598171Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:09:29.340239Z"
   },
   {
     "id": "EPIC/USDT:USDT_1780934917",
