@@ -1,5 +1,18 @@
 [
   {
+    "id": "FLNC/USDT:USDT_1780935918",
+    "symbol": "FLNC",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 24.98,
+    "exit_price": null,
+    "sl": 24.90506,
+    "tp": 25.354699999999998,
+    "pnl": null,
+    "change_pct": -1.265,
+    "timestamp": "2026-06-08T16:25:18.293316Z"
+  },
+  {
     "id": "ALLO/USDT:USDT_1780935910",
     "symbol": "ALLO",
     "direction": "LONG",
