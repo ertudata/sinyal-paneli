@@ -2993,14 +2993,14 @@
     "id": "US/USDT:USDT_1780925258",
     "symbol": "US",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.012738,
-    "exit_price": null,
+    "exit_price": 0.012776213999999998,
     "sl": 0.012776213999999998,
     "tp": 0.01254693,
-    "pnl": null,
-    "change_pct": 2.018,
-    "timestamp": "2026-06-08T13:27:38.396877Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T15:09:25.848101Z"
   },
   {
     "id": "VELODROME/USDT:USDT_1780925255",
