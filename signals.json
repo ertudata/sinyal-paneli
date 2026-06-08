@@ -3,14 +3,14 @@
     "id": "ALLO/USDT:USDT_1780922031",
     "symbol": "ALLO",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.43508,
-    "exit_price": null,
+    "exit_price": 0.43377476000000004,
     "sl": 0.43377476000000004,
     "tp": 0.4416062,
-    "pnl": null,
-    "change_pct": -1.356,
-    "timestamp": "2026-06-08T12:33:51.137578Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T12:34:09.266396Z"
   },
   {
     "id": "币安人生/USDT:USDT_1780922013",
