@@ -406,14 +406,14 @@
     "id": "SNDK/USDT:USDT_1780925722",
     "symbol": "SNDK",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 1604.67,
-    "exit_price": null,
+    "exit_price": 1628.7400499999999,
     "sl": 1599.85599,
     "tp": 1628.7400499999999,
-    "pnl": null,
-    "change_pct": -1.126,
-    "timestamp": "2026-06-08T13:35:22.704505Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T13:41:26.092731Z"
   },
   {
     "id": "COHR/USDT:USDT_1780925719",
