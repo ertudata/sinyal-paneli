@@ -1,5 +1,18 @@
 [
   {
+    "id": "ALLO/USDT:USDT_1780927123",
+    "symbol": "ALLO",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.4791,
+    "exit_price": null,
+    "sl": 0.4805373,
+    "tp": 0.47191350000000004,
+    "pnl": null,
+    "change_pct": 1.431,
+    "timestamp": "2026-06-08T13:58:43.707807Z"
+  },
+  {
     "id": "SWARMS/USDT:USDT_1780927001",
     "symbol": "SWARMS",
     "direction": "SHORT",
