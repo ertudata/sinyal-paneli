@@ -1,5 +1,18 @@
 [
   {
+    "id": "MEGA/USDT:USDT_1780924237",
+    "symbol": "MEGA",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.051,
+    "exit_price": null,
+    "sl": 0.05115299999999999,
+    "tp": 0.050234999999999995,
+    "pnl": null,
+    "change_pct": 1.452,
+    "timestamp": "2026-06-08T13:10:37.961794Z"
+  },
+  {
     "id": "BTW/USDT:USDT_1780924212",
     "symbol": "BTW",
     "direction": "SHORT",
