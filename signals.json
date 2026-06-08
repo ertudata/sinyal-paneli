@@ -1,5 +1,18 @@
 [
   {
+    "id": "RAVE/USDT:USDT_1780934622",
+    "symbol": "RAVE",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.3722,
+    "exit_price": null,
+    "sl": 0.37331659999999994,
+    "tp": 0.36661699999999997,
+    "pnl": null,
+    "change_pct": 3.648,
+    "timestamp": "2026-06-08T16:03:42.832878Z"
+  },
+  {
     "id": "ROBO/USDT:USDT_1780934620",
     "symbol": "ROBO",
     "direction": "LONG",
