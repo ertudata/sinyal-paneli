@@ -1,5 +1,18 @@
 [
   {
+    "id": "ON/USDT:USDT_1780934818",
+    "symbol": "ON",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.08205,
+    "exit_price": null,
+    "sl": 0.08229614999999998,
+    "tp": 0.08081925,
+    "pnl": null,
+    "change_pct": 1.989,
+    "timestamp": "2026-06-08T16:06:58.627086Z"
+  },
+  {
     "id": "VELVET/USDT:USDT_1780934815",
     "symbol": "VELVET",
     "direction": "SHORT",
