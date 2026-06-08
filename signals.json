@@ -926,14 +926,14 @@
     "id": "HD/USDT:USDT_1780925634",
     "symbol": "HD",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 312.06,
-    "exit_price": null,
+    "exit_price": 312.99618,
     "sl": 312.99618,
     "tp": 307.3791,
-    "pnl": null,
-    "change_pct": 1.066,
-    "timestamp": "2026-06-08T13:33:54.572166Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T14:09:10.315431Z"
   },
   {
     "id": "CBRS/USDT:USDT_1780925631",
