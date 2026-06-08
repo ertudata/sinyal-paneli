@@ -3,14 +3,14 @@
     "id": "AAOI/USDT:USDT_1780925772",
     "symbol": "AAOI",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 178.25,
-    "exit_price": null,
+    "exit_price": 180.92374999999998,
     "sl": 177.71525,
     "tp": 180.92374999999998,
-    "pnl": null,
-    "change_pct": -2.001,
-    "timestamp": "2026-06-08T13:36:12.852709Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T13:36:42.991876Z"
   },
   {
     "id": "SIREN/USDT:USDT_1780925769",
