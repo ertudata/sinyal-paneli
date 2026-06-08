@@ -1,5 +1,18 @@
 [
   {
+    "id": "ALLO/USDT:USDT_1780919396",
+    "symbol": "ALLO",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.45413,
+    "exit_price": null,
+    "sl": 0.4554923899999999,
+    "tp": 0.44731804999999997,
+    "pnl": null,
+    "change_pct": 1.784,
+    "timestamp": "2026-06-08T11:49:56.463032Z"
+  },
+  {
     "id": "ESPORTS/USDT:USDT_1780919369",
     "symbol": "ESPORTS",
     "direction": "SHORT",
