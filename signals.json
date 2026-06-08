@@ -1,5 +1,18 @@
 [
   {
+    "id": "SENT/USDT:USDT_1780950714",
+    "symbol": "SENT",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.01388,
+    "exit_price": null,
+    "sl": 0.013921639999999999,
+    "tp": 0.0136718,
+    "pnl": null,
+    "change_pct": 1.536,
+    "timestamp": "2026-06-08T20:31:54.050552Z"
+  },
+  {
     "id": "IOTX/USDT:USDT_1780950711",
     "symbol": "IOTX",
     "direction": "LONG",
