@@ -1,5 +1,18 @@
 [
   {
+    "id": "ICNT/USDT:USDT_1780938600",
+    "symbol": "ICNT",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.2223,
+    "exit_price": null,
+    "sl": 0.22296689999999997,
+    "tp": 0.2189655,
+    "pnl": null,
+    "change_pct": 1.23,
+    "timestamp": "2026-06-08T17:10:00.147602Z"
+  },
+  {
     "id": "VELVET/USDT:USDT_1780938597",
     "symbol": "VELVET",
     "direction": "SHORT",
