@@ -16,14 +16,14 @@
     "id": "NIGHT/USDT:USDT_1780932726",
     "symbol": "NIGHT",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.03176,
-    "exit_price": null,
+    "exit_price": 0.03166471999999999,
     "sl": 0.03166471999999999,
     "tp": 0.03223639999999999,
-    "pnl": null,
-    "change_pct": -1.152,
-    "timestamp": "2026-06-08T15:32:06.030469Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:02:45.229290Z"
   },
   {
     "id": "SFP/USDT:USDT_1780932657",
