@@ -1,5 +1,18 @@
 [
   {
+    "id": "ESP/USDT:USDT_1780950807",
+    "symbol": "ESP",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.06529,
+    "exit_price": null,
+    "sl": 0.06509413,
+    "tp": 0.06626934999999999,
+    "pnl": null,
+    "change_pct": -2.494,
+    "timestamp": "2026-06-08T20:33:27.773381Z"
+  },
+  {
     "id": "BROCCOLI714/USDT:USDT_1780950804",
     "symbol": "BROCCOLI714",
     "direction": "SHORT",
