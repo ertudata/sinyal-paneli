@@ -211,14 +211,14 @@
     "id": "DELL/USDT:USDT_1780925605",
     "symbol": "DELL",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 390.4,
-    "exit_price": null,
+    "exit_price": 389.2288,
     "sl": 389.2288,
     "tp": 396.2559999999999,
-    "pnl": null,
-    "change_pct": -1.29,
-    "timestamp": "2026-06-08T13:33:25.289207Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T13:34:51.470948Z"
   },
   {
     "id": "ORCL/USDT:USDT_1780925602",
