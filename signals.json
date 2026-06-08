@@ -3,14 +3,14 @@
     "id": "ICNT/USDT:USDT_1780909270",
     "symbol": "ICNT",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.221,
-    "exit_price": null,
+    "exit_price": 0.22166299999999997,
     "sl": 0.22166299999999997,
     "tp": 0.217685,
-    "pnl": null,
-    "change_pct": 1.052,
-    "timestamp": "2026-06-08T09:01:10.484078Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T09:01:33.963274Z"
   },
   {
     "id": "SKYAI/USDT:USDT_1780909267",
