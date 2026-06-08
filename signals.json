@@ -120,14 +120,14 @@
     "id": "YB/USDT:USDT_1780931499",
     "symbol": "YB",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.0935,
-    "exit_price": null,
+    "exit_price": 0.0920975,
     "sl": 0.09378049999999999,
     "tp": 0.0920975,
-    "pnl": null,
-    "change_pct": 1.19,
-    "timestamp": "2026-06-08T15:11:39.904250Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T15:17:30.676312Z"
   },
   {
     "id": "SIREN/USDT:USDT_1780931444",
