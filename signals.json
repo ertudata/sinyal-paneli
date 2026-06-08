@@ -1,5 +1,18 @@
 [
   {
+    "id": "APR/USDT:USDT_1780920780",
+    "symbol": "APR",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.22097,
+    "exit_price": null,
+    "sl": 0.22163291,
+    "tp": 0.21765545,
+    "pnl": null,
+    "change_pct": 1.549,
+    "timestamp": "2026-06-08T12:13:00.693005Z"
+  },
+  {
     "id": "ALLO/USDT:USDT_1780920777",
     "symbol": "ALLO",
     "direction": "LONG",
