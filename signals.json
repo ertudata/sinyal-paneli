@@ -484,14 +484,14 @@
     "id": "BROCCOLI714/USDT:USDT_1780936837",
     "symbol": "BROCCOLI714",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.0125,
-    "exit_price": null,
+    "exit_price": 0.012462500000000001,
     "sl": 0.012462500000000001,
     "tp": 0.012687499999999999,
-    "pnl": null,
-    "change_pct": -1.264,
-    "timestamp": "2026-06-08T16:40:37.511217Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:54:17.228772Z"
   },
   {
     "id": "ALLO/USDT:USDT_1780936823",
