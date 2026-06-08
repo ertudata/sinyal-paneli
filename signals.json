@@ -107,14 +107,14 @@
     "id": "ALLO/USDT:USDT_1780921345",
     "symbol": "ALLO",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.40891,
-    "exit_price": null,
+    "exit_price": 0.41504364999999993,
     "sl": 0.40768327,
     "tp": 0.41504364999999993,
-    "pnl": null,
-    "change_pct": -1.139,
-    "timestamp": "2026-06-08T12:22:25.719435Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T12:25:09.864597Z"
   },
   {
     "id": "VELVET/USDT:USDT_1780921327",
