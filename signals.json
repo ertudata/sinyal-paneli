@@ -1,5 +1,18 @@
 [
   {
+    "id": "MBOX/USDT:USDT_1780925505",
+    "symbol": "MBOX",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.00723,
+    "exit_price": null,
+    "sl": 0.00720831,
+    "tp": 0.00733845,
+    "pnl": null,
+    "change_pct": -1.094,
+    "timestamp": "2026-06-08T13:31:45.628991Z"
+  },
+  {
     "id": "QNTX/USDT:USDT_1780925501",
     "symbol": "QNTX",
     "direction": "SHORT",
