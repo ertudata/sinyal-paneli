@@ -1,5 +1,18 @@
 [
   {
+    "id": "MORPHO/USDT:USDT_1780925991",
+    "symbol": "MORPHO",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 1.8983,
+    "exit_price": null,
+    "sl": 1.9039948999999998,
+    "tp": 1.8698255000000001,
+    "pnl": null,
+    "change_pct": 1.448,
+    "timestamp": "2026-06-08T13:39:51.067842Z"
+  },
+  {
     "id": "SOXL/USDT:USDT_1780925920",
     "symbol": "SOXL",
     "direction": "SHORT",
