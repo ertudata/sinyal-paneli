@@ -133,14 +133,14 @@
     "id": "CLO/USDT:USDT_1780918694",
     "symbol": "CLO",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.17512,
-    "exit_price": null,
+    "exit_price": 0.17249319999999999,
     "sl": 0.17564535999999997,
     "tp": 0.17249319999999999,
-    "pnl": null,
-    "change_pct": 1.431,
-    "timestamp": "2026-06-08T11:38:14.374213Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T11:43:48.968771Z"
   },
   {
     "id": "BSB/USDT:USDT_1780918660",
