@@ -55,14 +55,14 @@
     "id": "BLUAI/USDT:USDT_1780919538",
     "symbol": "BLUAI",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.014012,
-    "exit_price": null,
+    "exit_price": 0.013969964,
     "sl": 0.013969964,
     "tp": 0.01422218,
-    "pnl": null,
-    "change_pct": -1.115,
-    "timestamp": "2026-06-08T11:52:18.867219Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T11:55:18.768783Z"
   },
   {
     "id": "ALLO/USDT:USDT_1780919484",
