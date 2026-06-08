@@ -1,5 +1,18 @@
 [
   {
+    "id": "FOGO/USDT:USDT_1780950789",
+    "symbol": "FOGO",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.01139,
+    "exit_price": null,
+    "sl": 0.01135583,
+    "tp": 0.01156085,
+    "pnl": null,
+    "change_pct": -1.3,
+    "timestamp": "2026-06-08T20:33:09.519425Z"
+  },
+  {
     "id": "UB/USDT:USDT_1780950786",
     "symbol": "UB",
     "direction": "SHORT",
