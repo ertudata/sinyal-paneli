@@ -848,14 +848,14 @@
     "id": "CLO/USDT:USDT_1780934599",
     "symbol": "CLO",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.15113,
-    "exit_price": null,
+    "exit_price": 0.15339694999999998,
     "sl": 0.15067661,
     "tp": 0.15339694999999998,
-    "pnl": null,
-    "change_pct": -1.448,
-    "timestamp": "2026-06-08T16:03:19.182760Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T16:10:51.088055Z"
   },
   {
     "id": "龙虾/USDT:USDT_1780934595",
