@@ -1,5 +1,18 @@
 [
   {
+    "id": "ESPORTS/USDT:USDT_1780938140",
+    "symbol": "ESPORTS",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.06225,
+    "exit_price": null,
+    "sl": 0.06206325,
+    "tp": 0.06318375,
+    "pnl": null,
+    "change_pct": -4.889,
+    "timestamp": "2026-06-08T17:02:20.608063Z"
+  },
+  {
     "id": "币安人生/USDT:USDT_1780938107",
     "symbol": "币安人生",
     "direction": "SHORT",
