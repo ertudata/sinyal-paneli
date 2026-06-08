@@ -1,5 +1,18 @@
 [
   {
+    "id": "LAYER/USDT:USDT_1780938272",
+    "symbol": "LAYER",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.08131,
+    "exit_price": null,
+    "sl": 0.08106606999999999,
+    "tp": 0.08252964999999998,
+    "pnl": null,
+    "change_pct": -1.095,
+    "timestamp": "2026-06-08T17:04:32.149258Z"
+  },
+  {
     "id": "ESPORTS/USDT:USDT_1780938218",
     "symbol": "ESPORTS",
     "direction": "LONG",
