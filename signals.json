@@ -718,14 +718,14 @@
     "id": "STABLE/USDT:USDT_1780934573",
     "symbol": "STABLE",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.03434,
-    "exit_price": null,
+    "exit_price": 0.03444302,
     "sl": 0.03444302,
     "tp": 0.033824900000000005,
-    "pnl": null,
-    "change_pct": 5.112,
-    "timestamp": "2026-06-08T16:02:53.572999Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:06:12.681433Z"
   },
   {
     "id": "ONDS/USDT:USDT_1780934570",
