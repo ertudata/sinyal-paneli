@@ -367,14 +367,14 @@
     "id": "USAR/USDT:USDT_1780925728",
     "symbol": "USAR",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 22.53,
-    "exit_price": null,
+    "exit_price": 22.86795,
     "sl": 22.462410000000002,
     "tp": 22.86795,
-    "pnl": null,
-    "change_pct": -1.873,
-    "timestamp": "2026-06-08T13:35:28.736809Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T13:41:01.519521Z"
   },
   {
     "id": "NBIS/USDT:USDT_1780925725",
