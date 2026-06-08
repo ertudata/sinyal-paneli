@@ -1,5 +1,18 @@
 [
   {
+    "id": "BLESS/USDT:USDT_1780922187",
+    "symbol": "BLESS",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.0082,
+    "exit_price": null,
+    "sl": 0.0082246,
+    "tp": 0.008077,
+    "pnl": null,
+    "change_pct": 1.297,
+    "timestamp": "2026-06-08T12:36:27.244818Z"
+  },
+  {
     "id": "OPN/USDT:USDT_1780922159",
     "symbol": "OPN",
     "direction": "LONG",
