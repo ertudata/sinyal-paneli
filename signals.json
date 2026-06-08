@@ -1,5 +1,18 @@
 [
   {
+    "id": "BROCCOLIF3B/USDT:USDT_1780928579",
+    "symbol": "BROCCOLIF3B",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.005772,
+    "exit_price": null,
+    "sl": 0.005754684,
+    "tp": 0.0058585799999999995,
+    "pnl": null,
+    "change_pct": -1.367,
+    "timestamp": "2026-06-08T14:22:59.443262Z"
+  },
+  {
     "id": "FHE/USDT:USDT_1780928574",
     "symbol": "FHE",
     "direction": "LONG",
