@@ -16,14 +16,14 @@
     "id": "FLNC/USDT:USDT_1780925648",
     "symbol": "FLNC",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 23.19,
-    "exit_price": null,
+    "exit_price": 23.120430000000002,
     "sl": 23.120430000000002,
     "tp": 23.53785,
-    "pnl": null,
-    "change_pct": -2.028,
-    "timestamp": "2026-06-08T13:34:08.985063Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T13:35:13.973108Z"
   },
   {
     "id": "SNDK/USDT:USDT_1780925646",
