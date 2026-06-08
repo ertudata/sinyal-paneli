@@ -1,5 +1,18 @@
 [
   {
+    "id": "ALT/USDT:USDT_1780950816",
+    "symbol": "ALT",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.005851,
+    "exit_price": null,
+    "sl": 0.0058685529999999994,
+    "tp": 0.005763235,
+    "pnl": null,
+    "change_pct": 1.386,
+    "timestamp": "2026-06-08T20:33:36.863894Z"
+  },
+  {
     "id": "SAFE/USDT:USDT_1780950813",
     "symbol": "SAFE",
     "direction": "LONG",
