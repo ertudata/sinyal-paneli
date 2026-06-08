@@ -1,5 +1,18 @@
 [
   {
+    "id": "ALLO/USDT:USDT_1780921051",
+    "symbol": "ALLO",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.40551,
+    "exit_price": null,
+    "sl": 0.40429347,
+    "tp": 0.41159264999999995,
+    "pnl": null,
+    "change_pct": -3.782,
+    "timestamp": "2026-06-08T12:17:31.855862Z"
+  },
+  {
     "id": "GWEI/USDT:USDT_1780921048",
     "symbol": "GWEI",
     "direction": "SHORT",
