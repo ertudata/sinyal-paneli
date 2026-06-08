@@ -3,14 +3,14 @@
     "id": "MYX/USDT:USDT_1780918621",
     "symbol": "MYX",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.2896,
-    "exit_price": null,
+    "exit_price": 0.2887312,
     "sl": 0.2887312,
     "tp": 0.293944,
-    "pnl": null,
-    "change_pct": -1.697,
-    "timestamp": "2026-06-08T11:37:01.820678Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T11:37:19.932716Z"
   },
   {
     "id": "VELVET/USDT:USDT_1780918568",
