@@ -3,14 +3,14 @@
     "id": "QNTX/USDT:USDT_1780950977",
     "symbol": "QNTX",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 60.35,
-    "exit_price": null,
+    "exit_price": 60.53104999999999,
     "sl": 60.53104999999999,
     "tp": 59.44475,
-    "pnl": null,
-    "change_pct": 3.445,
-    "timestamp": "2026-06-08T20:36:17.704326Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T20:37:20.325222Z"
   },
   {
     "id": "GUA/USDT:USDT_1780950972",
