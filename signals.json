@@ -1,5 +1,18 @@
 [
   {
+    "id": "STG/USDT:USDT_1780919204",
+    "symbol": "STG",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.2533,
+    "exit_price": null,
+    "sl": 0.25254010000000005,
+    "tp": 0.2570995,
+    "pnl": null,
+    "change_pct": -1.093,
+    "timestamp": "2026-06-08T11:46:44.165073Z"
+  },
+  {
     "id": "ALLO/USDT:USDT_1780919180",
     "symbol": "ALLO",
     "direction": "LONG",
