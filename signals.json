@@ -159,14 +159,14 @@
     "id": "LITE/USDT:USDT_1780925734",
     "symbol": "LITE",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 843.55,
-    "exit_price": null,
+    "exit_price": 856.2032499999999,
     "sl": 841.0193499999999,
     "tp": 856.2032499999999,
-    "pnl": null,
-    "change_pct": -1.239,
-    "timestamp": "2026-06-08T13:35:34.359264Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T13:36:37.354124Z"
   },
   {
     "id": "GWEI/USDT:USDT_1780925731",
