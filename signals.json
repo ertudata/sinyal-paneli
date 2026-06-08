@@ -1,5 +1,18 @@
 [
   {
+    "id": "POWER/USDT:USDT_1780935926",
+    "symbol": "POWER",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.08024,
+    "exit_price": null,
+    "sl": 0.08048071999999999,
+    "tp": 0.0790364,
+    "pnl": null,
+    "change_pct": 1.3,
+    "timestamp": "2026-06-08T16:25:26.524257Z"
+  },
+  {
     "id": "FLNC/USDT:USDT_1780935918",
     "symbol": "FLNC",
     "direction": "LONG",
