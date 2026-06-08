@@ -952,14 +952,14 @@
     "id": "TUT/USDT:USDT_1780927840",
     "symbol": "TUT",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.01024,
-    "exit_price": null,
+    "exit_price": 0.010209280000000001,
     "sl": 0.010209280000000001,
     "tp": 0.0103936,
-    "pnl": null,
-    "change_pct": -1.349,
-    "timestamp": "2026-06-08T14:10:40.286160Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T14:43:09.678801Z"
   },
   {
     "id": "CLO/USDT:USDT_1780927837",
