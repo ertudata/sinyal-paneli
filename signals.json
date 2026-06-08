@@ -29,14 +29,14 @@
     "id": "POWER/USDT:USDT_1780938333",
     "symbol": "POWER",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.08095,
-    "exit_price": null,
+    "exit_price": 0.08119284999999998,
     "sl": 0.08119284999999998,
     "tp": 0.07973575,
-    "pnl": null,
-    "change_pct": 1.39,
-    "timestamp": "2026-06-08T17:05:33.050473Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T17:06:58.592359Z"
   },
   {
     "id": "LAYER/USDT:USDT_1780938272",
