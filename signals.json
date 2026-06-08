@@ -1,5 +1,18 @@
 [
   {
+    "id": "ALLO/USDT:USDT_1780909297",
+    "symbol": "ALLO",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.46,
+    "exit_price": null,
+    "sl": 0.46137999999999996,
+    "tp": 0.4531,
+    "pnl": null,
+    "change_pct": 1.687,
+    "timestamp": "2026-06-08T09:01:37.322634Z"
+  },
+  {
     "id": "ICNT/USDT:USDT_1780909270",
     "symbol": "ICNT",
     "direction": "SHORT",
