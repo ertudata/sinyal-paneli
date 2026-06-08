@@ -1,5 +1,18 @@
 [
   {
+    "id": "TST/USDT:USDT_1780920504",
+    "symbol": "TST",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.014947,
+    "exit_price": null,
+    "sl": 0.014902159,
+    "tp": 0.015171204999999998,
+    "pnl": null,
+    "change_pct": -1.794,
+    "timestamp": "2026-06-08T12:08:24.218910Z"
+  },
+  {
     "id": "ALLO/USDT:USDT_1780920480",
     "symbol": "ALLO",
     "direction": "LONG",
