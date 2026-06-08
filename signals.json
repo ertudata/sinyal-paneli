@@ -16,14 +16,14 @@
     "id": "BTW/USDT:USDT_1780923892",
     "symbol": "BTW",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.052501,
-    "exit_price": null,
+    "exit_price": 0.053288514999999995,
     "sl": 0.052343496999999996,
     "tp": 0.053288514999999995,
-    "pnl": null,
-    "change_pct": -1.331,
-    "timestamp": "2026-06-08T13:04:52.529679Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T13:05:35.816889Z"
   },
   {
     "id": "JELLYJELLY/USDT:USDT_1780923889",
