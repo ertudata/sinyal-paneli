@@ -1,5 +1,18 @@
 [
   {
+    "id": "OPG/USDT:USDT_1780936271",
+    "symbol": "OPG",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.1609,
+    "exit_price": null,
+    "sl": 0.16138269999999996,
+    "tp": 0.15848649999999997,
+    "pnl": null,
+    "change_pct": 1.259,
+    "timestamp": "2026-06-08T16:31:11.302543Z"
+  },
+  {
     "id": "LAYER/USDT:USDT_1780936240",
     "symbol": "LAYER",
     "direction": "SHORT",
