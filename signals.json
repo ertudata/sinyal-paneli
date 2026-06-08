@@ -1,5 +1,18 @@
 [
   {
+    "id": "GUA/USDT:USDT_1780950972",
+    "symbol": "GUA",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.7195,
+    "exit_price": null,
+    "sl": 0.7216585,
+    "tp": 0.7087075,
+    "pnl": null,
+    "change_pct": 1.124,
+    "timestamp": "2026-06-08T20:36:12.229511Z"
+  },
+  {
     "id": "HEI/USDT:USDT_1780950964",
     "symbol": "HEI",
     "direction": "SHORT",
