@@ -926,14 +926,14 @@
     "id": "ETHW/USDT:USDT_1780934683",
     "symbol": "ETHW",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.2378,
-    "exit_price": null,
+    "exit_price": 0.234233,
     "sl": 0.2385134,
     "tp": 0.234233,
-    "pnl": null,
-    "change_pct": 1.364,
-    "timestamp": "2026-06-08T16:04:43.866468Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T16:27:25.892365Z"
   },
   {
     "id": "VELODROME/USDT:USDT_1780934680",
