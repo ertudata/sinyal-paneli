@@ -289,14 +289,14 @@
     "id": "LIGHT/USDT:USDT_1780934677",
     "symbol": "LIGHT",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.1098,
-    "exit_price": null,
+    "exit_price": 0.11012939999999999,
     "sl": 0.11012939999999999,
     "tp": 0.108153,
-    "pnl": null,
-    "change_pct": 1.292,
-    "timestamp": "2026-06-08T16:04:37.111548Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:06:35.786129Z"
   },
   {
     "id": "BLESS/USDT:USDT_1780934673",
