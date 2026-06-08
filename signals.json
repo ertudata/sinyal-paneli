@@ -1,5 +1,18 @@
 [
   {
+    "id": "FHE/USDT:USDT_1780925611",
+    "symbol": "FHE",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.02164,
+    "exit_price": null,
+    "sl": 0.02157508,
+    "tp": 0.021964599999999997,
+    "pnl": null,
+    "change_pct": -1.052,
+    "timestamp": "2026-06-08T13:33:31.448073Z"
+  },
+  {
     "id": "AXTI/USDT:USDT_1780925608",
     "symbol": "AXTI",
     "direction": "LONG",
