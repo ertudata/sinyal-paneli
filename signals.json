@@ -1,5 +1,18 @@
 [
   {
+    "id": "ZBT/USDT:USDT_1780920270",
+    "symbol": "ZBT",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.13313,
+    "exit_price": null,
+    "sl": 0.13273061,
+    "tp": 0.13512695,
+    "pnl": null,
+    "change_pct": -1.122,
+    "timestamp": "2026-06-08T12:04:30.428981Z"
+  },
+  {
     "id": "ALLO/USDT:USDT_1780920267",
     "symbol": "ALLO",
     "direction": "SHORT",
