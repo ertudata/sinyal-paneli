@@ -1,5 +1,18 @@
 [
   {
+    "id": "IRYS/USDT:USDT_1780934579",
+    "symbol": "IRYS",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.0195,
+    "exit_price": null,
+    "sl": 0.0194415,
+    "tp": 0.019792499999999998,
+    "pnl": null,
+    "change_pct": -1.116,
+    "timestamp": "2026-06-08T16:02:59.324685Z"
+  },
+  {
     "id": "EPIC/USDT:USDT_1780934576",
     "symbol": "EPIC",
     "direction": "SHORT",
