@@ -107,14 +107,14 @@
     "id": "WLD/USDT:USDT_1780937000",
     "symbol": "WLD",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.5046,
-    "exit_price": null,
+    "exit_price": 0.5061138,
     "sl": 0.5061138,
     "tp": 0.49703100000000006,
-    "pnl": null,
-    "change_pct": 1.448,
-    "timestamp": "2026-06-08T16:43:20.376276Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:45:38.893750Z"
   },
   {
     "id": "TUT/USDT:USDT_1780936995",
