@@ -120,14 +120,14 @@
     "id": "SKYAI/USDT:USDT_1780909116",
     "symbol": "SKYAI",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.28521,
-    "exit_price": null,
+    "exit_price": 0.28435437,
     "sl": 0.28435437,
     "tp": 0.28948815,
-    "pnl": null,
-    "change_pct": -1.543,
-    "timestamp": "2026-06-08T08:58:36.547636Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T09:01:00.158713Z"
   },
   {
     "id": "PIPPIN/USDT:USDT_1780909110",
