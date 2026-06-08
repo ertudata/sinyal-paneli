@@ -3,14 +3,14 @@
     "id": "BEAT/USDT:USDT_1780927500",
     "symbol": "BEAT",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 4.183,
-    "exit_price": null,
+    "exit_price": 4.170451,
     "sl": 4.170451,
     "tp": 4.245744999999999,
-    "pnl": null,
-    "change_pct": -1.664,
-    "timestamp": "2026-06-08T14:05:00.196127Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T14:05:18.886393Z"
   },
   {
     "id": "PUMPBTC/USDT:USDT_1780927419",
