@@ -1,5 +1,18 @@
 [
   {
+    "id": "NVO/USDT:USDT_1780950839",
+    "symbol": "NVO",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 41.14,
+    "exit_price": null,
+    "sl": 41.01658,
+    "tp": 41.757099999999994,
+    "pnl": null,
+    "change_pct": -1.224,
+    "timestamp": "2026-06-08T20:33:59.200563Z"
+  },
+  {
     "id": "OPEN/USDT:USDT_1780950835",
     "symbol": "OPEN",
     "direction": "LONG",
