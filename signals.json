@@ -1,5 +1,18 @@
 [
   {
+    "id": "ASTS/USDT:USDT_1780925599",
+    "symbol": "ASTS",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 93.41,
+    "exit_price": null,
+    "sl": 93.12977,
+    "tp": 94.81114999999998,
+    "pnl": null,
+    "change_pct": -1.963,
+    "timestamp": "2026-06-08T13:33:19.096544Z"
+  },
+  {
     "id": "BSB/USDT:USDT_1780925596",
     "symbol": "BSB",
     "direction": "SHORT",
