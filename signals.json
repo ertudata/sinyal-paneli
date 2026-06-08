@@ -29,14 +29,14 @@
     "id": "JCT/USDT:USDT_1780937142",
     "symbol": "JCT",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.004642,
-    "exit_price": null,
+    "exit_price": 0.004628074,
     "sl": 0.004628074,
     "tp": 0.00471163,
-    "pnl": null,
-    "change_pct": -1.423,
-    "timestamp": "2026-06-08T16:45:42.335199Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:46:52.769518Z"
   },
   {
     "id": "PIPPIN/USDT:USDT_1780937068",
