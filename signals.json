@@ -1,5 +1,18 @@
 [
   {
+    "id": "NOW/USDT:USDT_1780925811",
+    "symbol": "NOW",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 113.61,
+    "exit_price": null,
+    "sl": 113.95082999999998,
+    "tp": 111.90585,
+    "pnl": null,
+    "change_pct": 1.628,
+    "timestamp": "2026-06-08T13:36:51.413490Z"
+  },
+  {
     "id": "AXTI/USDT:USDT_1780925808",
     "symbol": "AXTI",
     "direction": "SHORT",
