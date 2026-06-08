@@ -3,14 +3,14 @@
     "id": "BLUAI/USDT:USDT_1780934753",
     "symbol": "BLUAI",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.014191,
-    "exit_price": null,
+    "exit_price": 0.014233573,
     "sl": 0.014233573,
     "tp": 0.013978135000000001,
-    "pnl": null,
-    "change_pct": 1.227,
-    "timestamp": "2026-06-08T16:05:53.723767Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:06:41.132550Z"
   },
   {
     "id": "FF/USDT:USDT_1780934750",
