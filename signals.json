@@ -3,14 +3,14 @@
     "id": "EPIC/USDT:USDT_1780931949",
     "symbol": "EPIC",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.4759,
-    "exit_price": null,
+    "exit_price": 0.4744723,
     "sl": 0.4744723,
     "tp": 0.4830384999999999,
-    "pnl": null,
-    "change_pct": -3.075,
-    "timestamp": "2026-06-08T15:19:09.684315Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T15:19:34.404378Z"
   },
   {
     "id": "ESPORTS/USDT:USDT_1780931907",
