@@ -1,5 +1,18 @@
 [
   {
+    "id": "GENIUS/USDT:USDT_1780930470",
+    "symbol": "GENIUS",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.4389,
+    "exit_price": null,
+    "sl": 0.44021669999999996,
+    "tp": 0.4323165,
+    "pnl": null,
+    "change_pct": 1.574,
+    "timestamp": "2026-06-08T14:54:30.845893Z"
+  },
+  {
     "id": "ALLO/USDT:USDT_1780930399",
     "symbol": "ALLO",
     "direction": "SHORT",
