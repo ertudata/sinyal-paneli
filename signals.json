@@ -1,5 +1,18 @@
 [
   {
+    "id": "STABLE/USDT:USDT_1780934573",
+    "symbol": "STABLE",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.03434,
+    "exit_price": null,
+    "sl": 0.03444302,
+    "tp": 0.033824900000000005,
+    "pnl": null,
+    "change_pct": 5.112,
+    "timestamp": "2026-06-08T16:02:53.572999Z"
+  },
+  {
     "id": "ONDS/USDT:USDT_1780934570",
     "symbol": "ONDS",
     "direction": "LONG",
