@@ -614,14 +614,14 @@
     "id": "NIGHT/USDT:USDT_1780934667",
     "symbol": "NIGHT",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.03145,
-    "exit_price": null,
+    "exit_price": 0.03192175,
     "sl": 0.03135565,
     "tp": 0.03192175,
-    "pnl": null,
-    "change_pct": -1.225,
-    "timestamp": "2026-06-08T16:04:27.060239Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T16:17:03.244314Z"
   },
   {
     "id": "JTO/USDT:USDT_1780934663",
