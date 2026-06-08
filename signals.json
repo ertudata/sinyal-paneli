@@ -1,5 +1,18 @@
 [
   {
+    "id": "TRADOOR/USDT:USDT_1780950729",
+    "symbol": "TRADOOR",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.4015,
+    "exit_price": null,
+    "sl": 0.40270449999999997,
+    "tp": 0.39547750000000004,
+    "pnl": null,
+    "change_pct": 1.389,
+    "timestamp": "2026-06-08T20:32:09.210586Z"
+  },
+  {
     "id": "SSV/USDT:USDT_1780950726",
     "symbol": "SSV",
     "direction": "LONG",
