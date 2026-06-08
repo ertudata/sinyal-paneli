@@ -1,5 +1,18 @@
 [
   {
+    "id": "COAI/USDT:USDT_1780950753",
+    "symbol": "COAI",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.2483,
+    "exit_price": null,
+    "sl": 0.24904489999999996,
+    "tp": 0.2445755,
+    "pnl": null,
+    "change_pct": 1.554,
+    "timestamp": "2026-06-08T20:32:33.684117Z"
+  },
+  {
     "id": "IO/USDT:USDT_1780950750",
     "symbol": "IO",
     "direction": "SHORT",
