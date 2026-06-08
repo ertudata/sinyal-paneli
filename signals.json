@@ -1,5 +1,18 @@
 [
   {
+    "id": "MOVE/USDT:USDT_1780909124",
+    "symbol": "MOVE",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.01314,
+    "exit_price": null,
+    "sl": 0.01310058,
+    "tp": 0.0133371,
+    "pnl": null,
+    "change_pct": -2.086,
+    "timestamp": "2026-06-08T08:58:44.387548Z"
+  },
+  {
     "id": "ALLO/USDT:USDT_1780909120",
     "symbol": "ALLO",
     "direction": "LONG",
