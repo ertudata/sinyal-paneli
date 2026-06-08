@@ -1,5 +1,18 @@
 [
   {
+    "id": "ARM/USDT:USDT_1780925488",
+    "symbol": "ARM",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 349.19,
+    "exit_price": null,
+    "sl": 348.14243,
+    "tp": 354.42785,
+    "pnl": null,
+    "change_pct": -1.389,
+    "timestamp": "2026-06-08T13:31:28.912790Z"
+  },
+  {
     "id": "SIREN/USDT:USDT_1780925484",
     "symbol": "SIREN",
     "direction": "SHORT",
