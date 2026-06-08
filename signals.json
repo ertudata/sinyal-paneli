@@ -1,5 +1,18 @@
 [
   {
+    "id": "OPEN/USDT:USDT_1780950835",
+    "symbol": "OPEN",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.1959,
+    "exit_price": null,
+    "sl": 0.1953123,
+    "tp": 0.19883849999999997,
+    "pnl": null,
+    "change_pct": -1.16,
+    "timestamp": "2026-06-08T20:33:55.424577Z"
+  },
+  {
     "id": "1000RATS/USDT:USDT_1780950831",
     "symbol": "1000RATS",
     "direction": "SHORT",
