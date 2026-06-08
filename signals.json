@@ -1,5 +1,18 @@
 [
   {
+    "id": "ARIA/USDT:USDT_1780936810",
+    "symbol": "ARIA",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.03599,
+    "exit_price": null,
+    "sl": 0.03588203,
+    "tp": 0.036529849999999996,
+    "pnl": null,
+    "change_pct": -1.099,
+    "timestamp": "2026-06-08T16:40:10.320202Z"
+  },
+  {
     "id": "MELANIA/USDT:USDT_1780936799",
     "symbol": "MELANIA",
     "direction": "SHORT",
