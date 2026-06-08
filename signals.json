@@ -562,14 +562,14 @@
     "id": "UB/USDT:USDT_1780950786",
     "symbol": "UB",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.1279,
-    "exit_price": null,
+    "exit_price": 0.1282837,
     "sl": 0.1282837,
     "tp": 0.12598150000000002,
-    "pnl": null,
-    "change_pct": 4.639,
-    "timestamp": "2026-06-08T20:33:06.143645Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T20:38:40.296548Z"
   },
   {
     "id": "BLESS/USDT:USDT_1780950782",
