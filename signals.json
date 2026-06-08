@@ -367,14 +367,14 @@
     "id": "MBOX/USDT:USDT_1780921100",
     "symbol": "MBOX",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.00714,
-    "exit_price": null,
+    "exit_price": 0.007161419999999999,
     "sl": 0.007161419999999999,
     "tp": 0.0070329,
-    "pnl": null,
-    "change_pct": 1.133,
-    "timestamp": "2026-06-08T12:18:20.609182Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T12:29:52.047022Z"
   },
   {
     "id": "VELVET/USDT:USDT_1780921079",
