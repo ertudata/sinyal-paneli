@@ -1,5 +1,18 @@
 [
   {
+    "id": "ARM/USDT:USDT_1780925616",
+    "symbol": "ARM",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 343.98,
+    "exit_price": null,
+    "sl": 342.94806,
+    "tp": 349.1397,
+    "pnl": null,
+    "change_pct": -1.492,
+    "timestamp": "2026-06-08T13:33:36.975267Z"
+  },
+  {
     "id": "NOK/USDT:USDT_1780925614",
     "symbol": "NOK",
     "direction": "LONG",
