@@ -1,5 +1,18 @@
 [
   {
+    "id": "FLNC/USDT:USDT_1780925509",
+    "symbol": "FLNC",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 23.67,
+    "exit_price": null,
+    "sl": 23.59899,
+    "tp": 24.02505,
+    "pnl": null,
+    "change_pct": -1.334,
+    "timestamp": "2026-06-08T13:31:49.998698Z"
+  },
+  {
     "id": "MBOX/USDT:USDT_1780925505",
     "symbol": "MBOX",
     "direction": "LONG",
