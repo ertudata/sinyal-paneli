@@ -1,5 +1,18 @@
 [
   {
+    "id": "PORTAL/USDT:USDT_1780919446",
+    "symbol": "PORTAL",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.01769,
+    "exit_price": null,
+    "sl": 0.01774307,
+    "tp": 0.01742465,
+    "pnl": null,
+    "change_pct": 1.784,
+    "timestamp": "2026-06-08T11:50:46.948146Z"
+  },
+  {
     "id": "BEAT/USDT:USDT_1780919420",
     "symbol": "BEAT",
     "direction": "SHORT",
