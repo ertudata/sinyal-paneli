@@ -1,5 +1,18 @@
 [
   {
+    "id": "ALLO/USDT:USDT_1780919154",
+    "symbol": "ALLO",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.49505,
+    "exit_price": null,
+    "sl": 0.49356485,
+    "tp": 0.5024757499999999,
+    "pnl": null,
+    "change_pct": -1.649,
+    "timestamp": "2026-06-08T11:45:54.565888Z"
+  },
+  {
     "id": "币安人生/USDT:USDT_1780919152",
     "symbol": "币安人生",
     "direction": "LONG",
