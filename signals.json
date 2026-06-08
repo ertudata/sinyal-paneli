@@ -536,14 +536,14 @@
     "id": "TAKE/USDT:USDT_1780934616",
     "symbol": "TAKE",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.01779,
-    "exit_price": null,
+    "exit_price": 0.01773663,
     "sl": 0.01773663,
     "tp": 0.01805685,
-    "pnl": null,
-    "change_pct": -1.713,
-    "timestamp": "2026-06-08T16:03:36.896099Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:06:26.900964Z"
   },
   {
     "id": "CBRS/USDT:USDT_1780934614",
