@@ -757,14 +757,14 @@
     "id": "LAYER/USDT:USDT_1780950741",
     "symbol": "LAYER",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.07922,
-    "exit_price": null,
+    "exit_price": 0.08040829999999999,
     "sl": 0.07898234,
     "tp": 0.08040829999999999,
-    "pnl": null,
-    "change_pct": -1.136,
-    "timestamp": "2026-06-08T20:32:21.697735Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T20:39:43.554489Z"
   },
   {
     "id": "BAS/USDT:USDT_1780950738",
