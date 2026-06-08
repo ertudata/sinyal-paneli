@@ -29,14 +29,14 @@
     "id": "HIGH/USDT:USDT_1780925237",
     "symbol": "HIGH",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.0806,
-    "exit_price": null,
+    "exit_price": 0.08084179999999999,
     "sl": 0.08084179999999999,
     "tp": 0.079391,
-    "pnl": null,
-    "change_pct": 2.155,
-    "timestamp": "2026-06-08T13:27:17.282354Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T13:27:56.743216Z"
   },
   {
     "id": "VVV/USDT:USDT_1780925219",
