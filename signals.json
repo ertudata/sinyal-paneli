@@ -1,5 +1,18 @@
 [
   {
+    "id": "FLNC/USDT:USDT_1780927148",
+    "symbol": "FLNC",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 24.29,
+    "exit_price": null,
+    "sl": 24.217129999999997,
+    "tp": 24.654349999999997,
+    "pnl": null,
+    "change_pct": -1.22,
+    "timestamp": "2026-06-08T13:59:08.261853Z"
+  },
+  {
     "id": "SKHYNIX/USDT:USDT_1780927145",
     "symbol": "SKHYNIX",
     "direction": "LONG",
