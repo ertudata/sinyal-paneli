@@ -445,14 +445,14 @@
     "id": "IREN/USDT:USDT_1780925747",
     "symbol": "IREN",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 55.49,
-    "exit_price": null,
+    "exit_price": 56.32235,
     "sl": 55.323530000000005,
     "tp": 56.32235,
-    "pnl": null,
-    "change_pct": -1.087,
-    "timestamp": "2026-06-08T13:35:47.822838Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T13:50:13.972701Z"
   },
   {
     "id": "CRCL/USDT:USDT_1780925744",
