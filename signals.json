@@ -1,5 +1,18 @@
 [
   {
+    "id": "ZAMA/USDT:USDT_1780909752",
+    "symbol": "ZAMA",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.0316,
+    "exit_price": null,
+    "sl": 0.0316948,
+    "tp": 0.031126,
+    "pnl": null,
+    "change_pct": 1.837,
+    "timestamp": "2026-06-08T09:09:12.570097Z"
+  },
+  {
     "id": "AIOT/USDT:USDT_1780909734",
     "symbol": "AIOT",
     "direction": "SHORT",
