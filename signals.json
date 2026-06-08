@@ -601,14 +601,14 @@
     "id": "NEAR/USDT:USDT_1780934602",
     "symbol": "NEAR",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 2.225,
-    "exit_price": null,
+    "exit_price": 2.2316749999999996,
     "sl": 2.2316749999999996,
     "tp": 2.191625,
-    "pnl": null,
-    "change_pct": 2.629,
-    "timestamp": "2026-06-08T16:03:22.708097Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:06:21.041721Z"
   },
   {
     "id": "CLO/USDT:USDT_1780934599",
