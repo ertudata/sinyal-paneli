@@ -94,14 +94,14 @@
     "id": "COLLECT/USDT:USDT_1780931732",
     "symbol": "COLLECT",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.0443,
-    "exit_price": null,
+    "exit_price": 0.0449645,
     "sl": 0.0441671,
     "tp": 0.0449645,
-    "pnl": null,
-    "change_pct": -1.402,
-    "timestamp": "2026-06-08T15:15:32.169060Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T15:20:00.018646Z"
   },
   {
     "id": "EPIC/USDT:USDT_1780931728",
