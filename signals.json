@@ -133,14 +133,14 @@
     "id": "SKHYNIX/USDT:USDT_1780927145",
     "symbol": "SKHYNIX",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 1306.25,
-    "exit_price": null,
+    "exit_price": 1325.8437499999998,
     "sl": 1302.33125,
     "tp": 1325.8437499999998,
-    "pnl": null,
-    "change_pct": -1.215,
-    "timestamp": "2026-06-08T13:59:05.416894Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T14:08:33.439918Z"
   },
   {
     "id": "BLESS/USDT:USDT_1780927126",
