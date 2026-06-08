@@ -16,14 +16,14 @@
     "id": "BTW/USDT:USDT_1780920346",
     "symbol": "BTW",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.058308,
-    "exit_price": null,
+    "exit_price": 0.058133076,
     "sl": 0.058133076,
     "tp": 0.05918261999999999,
-    "pnl": null,
-    "change_pct": -1.275,
-    "timestamp": "2026-06-08T12:05:46.313644Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T12:06:22.838218Z"
   },
   {
     "id": "MOVE/USDT:USDT_1780920307",
