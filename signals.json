@@ -1,5 +1,18 @@
 [
   {
+    "id": "CLO/USDT:USDT_1780931061",
+    "symbol": "CLO",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.158,
+    "exit_price": null,
+    "sl": 0.15847399999999998,
+    "tp": 0.15563,
+    "pnl": null,
+    "change_pct": 1.114,
+    "timestamp": "2026-06-08T15:04:21.399747Z"
+  },
+  {
     "id": "EPIC/USDT:USDT_1780930935",
     "symbol": "EPIC",
     "direction": "LONG",
