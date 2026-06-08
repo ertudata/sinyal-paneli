@@ -16,14 +16,14 @@
     "id": "OPN/USDT:USDT_1780929577",
     "symbol": "OPN",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.1076,
-    "exit_price": null,
+    "exit_price": 0.10921399999999999,
     "sl": 0.1072772,
     "tp": 0.10921399999999999,
-    "pnl": null,
-    "change_pct": -1.735,
-    "timestamp": "2026-06-08T14:39:37.525895Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T14:40:32.457205Z"
   },
   {
     "id": "HEI/USDT:USDT_1780929539",
