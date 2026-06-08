@@ -42,14 +42,14 @@
     "id": "TON/USDT:USDT_1780935520",
     "symbol": "TON",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 1.7751,
-    "exit_price": null,
+    "exit_price": 1.7804252999999997,
     "sl": 1.7804252999999997,
     "tp": 1.7484734999999998,
-    "pnl": null,
-    "change_pct": 1.053,
-    "timestamp": "2026-06-08T16:18:40.167196Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:19:13.346020Z"
   },
   {
     "id": "我踏马来了/USDT:USDT_1780935453",
