@@ -1,5 +1,18 @@
 [
   {
+    "id": "龙虾/USDT:USDT_1780934595",
+    "symbol": "龙虾",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.009574,
+    "exit_price": null,
+    "sl": 0.009545277999999999,
+    "tp": 0.009717609999999998,
+    "pnl": null,
+    "change_pct": -3.76,
+    "timestamp": "2026-06-08T16:03:15.288886Z"
+  },
+  {
     "id": "BEAT/USDT:USDT_1780934591",
     "symbol": "BEAT",
     "direction": "SHORT",
