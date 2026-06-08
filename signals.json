@@ -185,14 +185,14 @@
     "id": "EDGE/USDT:USDT_1780934812",
     "symbol": "EDGE",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.4888,
-    "exit_price": null,
+    "exit_price": 0.481468,
     "sl": 0.49026639999999994,
     "tp": 0.481468,
-    "pnl": null,
-    "change_pct": 1.348,
-    "timestamp": "2026-06-08T16:06:52.789109Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T16:10:56.020658Z"
   },
   {
     "id": "NAORIS/USDT:USDT_1780934809",
