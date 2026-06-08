@@ -133,14 +133,14 @@
     "id": "LAYER/USDT:USDT_1780936664",
     "symbol": "LAYER",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.0823,
-    "exit_price": null,
+    "exit_price": 0.0810655,
     "sl": 0.08254689999999999,
     "tp": 0.0810655,
-    "pnl": null,
-    "change_pct": 4.508,
-    "timestamp": "2026-06-08T16:37:44.880742Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T16:41:55.524760Z"
   },
   {
     "id": "我踏马来了/USDT:USDT_1780936651",
