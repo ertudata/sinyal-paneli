@@ -42,14 +42,14 @@
     "id": "ALLO/USDT:USDT_1780927123",
     "symbol": "ALLO",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.4791,
-    "exit_price": null,
+    "exit_price": 0.4805373,
     "sl": 0.4805373,
     "tp": 0.47191350000000004,
-    "pnl": null,
-    "change_pct": 1.431,
-    "timestamp": "2026-06-08T13:58:43.707807Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T13:59:27.003581Z"
   },
   {
     "id": "SWARMS/USDT:USDT_1780927001",
