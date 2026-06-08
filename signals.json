@@ -1,5 +1,18 @@
 [
   {
+    "id": "QNTX/USDT:USDT_1780925819",
+    "symbol": "QNTX",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 58.59,
+    "exit_price": null,
+    "sl": 58.41423,
+    "tp": 59.468849999999996,
+    "pnl": null,
+    "change_pct": -1.247,
+    "timestamp": "2026-06-08T13:36:59.864737Z"
+  },
+  {
     "id": "ARIA/USDT:USDT_1780925817",
     "symbol": "ARIA",
     "direction": "SHORT",
