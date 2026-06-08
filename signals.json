@@ -1,5 +1,18 @@
 [
   {
+    "id": "币安人生/USDT:USDT_1780922013",
+    "symbol": "币安人生",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.72626,
+    "exit_price": null,
+    "sl": 0.72408122,
+    "tp": 0.7371538999999999,
+    "pnl": null,
+    "change_pct": -2.109,
+    "timestamp": "2026-06-08T12:33:33.057560Z"
+  },
+  {
     "id": "VELVET/USDT:USDT_1780921992",
     "symbol": "VELVET",
     "direction": "SHORT",
