@@ -692,14 +692,14 @@
     "id": "AGT/USDT:USDT_1780934711",
     "symbol": "AGT",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.016261,
-    "exit_price": null,
+    "exit_price": 0.016212217,
     "sl": 0.016212217,
     "tp": 0.016504915,
-    "pnl": null,
-    "change_pct": -1.221,
-    "timestamp": "2026-06-08T16:05:11.627250Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:24:15.848931Z"
   },
   {
     "id": "BSB/USDT:USDT_1780934708",
