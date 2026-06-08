@@ -29,14 +29,14 @@
     "id": "PIPPIN/USDT:USDT_1780935360",
     "symbol": "PIPPIN",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.02414,
-    "exit_price": null,
+    "exit_price": 0.02421242,
     "sl": 0.02421242,
     "tp": 0.0237779,
-    "pnl": null,
-    "change_pct": 1.728,
-    "timestamp": "2026-06-08T16:16:00.985939Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:18:35.436207Z"
   },
   {
     "id": "PIPPIN/USDT:USDT_1780935324",
