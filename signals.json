@@ -198,14 +198,14 @@
     "id": "H/USDT:USDT_1780909170",
     "symbol": "H",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.72545,
-    "exit_price": null,
+    "exit_price": 0.71456825,
     "sl": 0.72762635,
     "tp": 0.71456825,
-    "pnl": null,
-    "change_pct": 1.129,
-    "timestamp": "2026-06-08T08:59:30.673635Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T09:04:58.260828Z"
   },
   {
     "id": "ESPORTS/USDT:USDT_1780909166",
