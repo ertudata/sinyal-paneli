@@ -94,14 +94,14 @@
     "id": "AVNT/USDT:USDT_1780934821",
     "symbol": "AVNT",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.1044,
-    "exit_price": null,
+    "exit_price": 0.10471319999999999,
     "sl": 0.10471319999999999,
     "tp": 0.10283400000000001,
-    "pnl": null,
-    "change_pct": 1.359,
-    "timestamp": "2026-06-08T16:07:01.619594Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:08:28.824384Z"
   },
   {
     "id": "ON/USDT:USDT_1780934818",
