@@ -1,5 +1,18 @@
 [
   {
+    "id": "MELANIA/USDT:USDT_1780936799",
+    "symbol": "MELANIA",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.08123,
+    "exit_price": null,
+    "sl": 0.08147368999999999,
+    "tp": 0.08001155,
+    "pnl": null,
+    "change_pct": 3.11,
+    "timestamp": "2026-06-08T16:39:59.239727Z"
+  },
+  {
     "id": "MELANIA/USDT:USDT_1780936695",
     "symbol": "MELANIA",
     "direction": "SHORT",
