@@ -16,14 +16,14 @@
     "id": "AAOI/USDT:USDT_1780925822",
     "symbol": "AAOI",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 182.32,
-    "exit_price": null,
+    "exit_price": 182.86695999999998,
     "sl": 182.86695999999998,
     "tp": 179.5852,
-    "pnl": null,
-    "change_pct": 2.283,
-    "timestamp": "2026-06-08T13:37:02.841816Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T13:37:30.021117Z"
   },
   {
     "id": "QNTX/USDT:USDT_1780925819",
