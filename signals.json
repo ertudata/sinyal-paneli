@@ -42,14 +42,14 @@
     "id": "PIPPIN/USDT:USDT_1780937068",
     "symbol": "PIPPIN",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.02449,
-    "exit_price": null,
+    "exit_price": 0.02485735,
     "sl": 0.024416530000000002,
     "tp": 0.02485735,
-    "pnl": null,
-    "change_pct": -2.001,
-    "timestamp": "2026-06-08T16:44:28.327673Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T16:46:49.759051Z"
   },
   {
     "id": "ESPORTS/USDT:USDT_1780937064",
