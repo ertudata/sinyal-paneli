@@ -1,5 +1,18 @@
 [
   {
+    "id": "H/USDT:USDT_1780928014",
+    "symbol": "H",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.67464,
+    "exit_price": null,
+    "sl": 0.6726160800000001,
+    "tp": 0.6847595999999999,
+    "pnl": null,
+    "change_pct": -1.997,
+    "timestamp": "2026-06-08T14:13:34.575839Z"
+  },
+  {
     "id": "ROBO/USDT:USDT_1780927917",
     "symbol": "ROBO",
     "direction": "SHORT",
