@@ -3,14 +3,14 @@
     "id": "LAYER/USDT:USDT_1780937013",
     "symbol": "LAYER",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.07931,
-    "exit_price": null,
+    "exit_price": 0.08049964999999999,
     "sl": 0.07907207000000001,
     "tp": 0.08049964999999999,
-    "pnl": null,
-    "change_pct": -3.539,
-    "timestamp": "2026-06-08T16:43:33.442881Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T16:44:11.532027Z"
   },
   {
     "id": "PIPPIN/USDT:USDT_1780937009",
