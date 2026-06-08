@@ -146,14 +146,14 @@
     "id": "ESPORTS/USDT:USDT_1780923522",
     "symbol": "ESPORTS",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.05519,
-    "exit_price": null,
+    "exit_price": 0.055024430000000006,
     "sl": 0.055024430000000006,
     "tp": 0.05601785,
-    "pnl": null,
-    "change_pct": -1.657,
-    "timestamp": "2026-06-08T12:58:42.046193Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T13:03:10.012891Z"
   },
   {
     "id": "VELVET/USDT:USDT_1780923435",
