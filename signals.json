@@ -1,5 +1,18 @@
 [
   {
+    "id": "RONIN/USDT:USDT_1780950708",
+    "symbol": "RONIN",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.06284,
+    "exit_price": null,
+    "sl": 0.06265148,
+    "tp": 0.06378259999999998,
+    "pnl": null,
+    "change_pct": -1.427,
+    "timestamp": "2026-06-08T20:31:48.107969Z"
+  },
+  {
     "id": "POWER/USDT:USDT_1780949615",
     "symbol": "POWER",
     "direction": "LONG",
