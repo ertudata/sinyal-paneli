@@ -1,5 +1,18 @@
 [
   {
+    "id": "AAOI/USDT:USDT_1780925619",
+    "symbol": "AAOI",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 181.89,
+    "exit_price": null,
+    "sl": 181.34432999999999,
+    "tp": 184.61834999999996,
+    "pnl": null,
+    "change_pct": -2.294,
+    "timestamp": "2026-06-08T13:33:39.777592Z"
+  },
+  {
     "id": "ARM/USDT:USDT_1780925616",
     "symbol": "ARM",
     "direction": "LONG",
