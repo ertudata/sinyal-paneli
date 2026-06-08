@@ -1,5 +1,18 @@
 [
   {
+    "id": "HIGH/USDT:USDT_1780925805",
+    "symbol": "HIGH",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.0816,
+    "exit_price": null,
+    "sl": 0.0818448,
+    "tp": 0.080376,
+    "pnl": null,
+    "change_pct": 1.366,
+    "timestamp": "2026-06-08T13:36:45.804398Z"
+  },
+  {
     "id": "AAOI/USDT:USDT_1780925772",
     "symbol": "AAOI",
     "direction": "LONG",
