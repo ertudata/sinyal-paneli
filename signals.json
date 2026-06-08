@@ -16,14 +16,14 @@
     "id": "龙虾/USDT:USDT_1780925092",
     "symbol": "龙虾",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.01009,
-    "exit_price": null,
+    "exit_price": 0.00993865,
     "sl": 0.010120269999999999,
     "tp": 0.00993865,
-    "pnl": null,
-    "change_pct": 1.254,
-    "timestamp": "2026-06-08T13:24:52.216013Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T13:25:34.495454Z"
   },
   {
     "id": "DEXE/USDT:USDT_1780925068",
