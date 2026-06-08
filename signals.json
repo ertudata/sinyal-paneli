@@ -1,5 +1,18 @@
 [
   {
+    "id": "PIPPIN/USDT:USDT_1780935935",
+    "symbol": "PIPPIN",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.0251,
+    "exit_price": null,
+    "sl": 0.025175299999999998,
+    "tp": 0.0247235,
+    "pnl": null,
+    "change_pct": 1.826,
+    "timestamp": "2026-06-08T16:25:35.224478Z"
+  },
+  {
     "id": "POWER/USDT:USDT_1780935926",
     "symbol": "POWER",
     "direction": "SHORT",
