@@ -1,5 +1,18 @@
 [
   {
+    "id": "LAYER/USDT:USDT_1780937054",
+    "symbol": "LAYER",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.08087,
+    "exit_price": null,
+    "sl": 0.08111260999999999,
+    "tp": 0.07965694999999999,
+    "pnl": null,
+    "change_pct": 1.967,
+    "timestamp": "2026-06-08T16:44:14.917345Z"
+  },
+  {
     "id": "LAYER/USDT:USDT_1780937013",
     "symbol": "LAYER",
     "direction": "LONG",
