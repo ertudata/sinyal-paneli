@@ -68,14 +68,14 @@
     "id": "SOXL/USDT:USDT_1780926194",
     "symbol": "SOXL",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 212.4,
-    "exit_price": null,
+    "exit_price": 209.214,
     "sl": 213.03719999999998,
     "tp": 209.214,
-    "pnl": null,
-    "change_pct": 1.1,
-    "timestamp": "2026-06-08T13:43:14.684128Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T13:48:56.950774Z"
   },
   {
     "id": "VELVET/USDT:USDT_1780926176",
