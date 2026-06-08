@@ -1,5 +1,18 @@
 [
   {
+    "id": "4/USDT:USDT_1780936216",
+    "symbol": "4",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.010329,
+    "exit_price": null,
+    "sl": 0.010298013,
+    "tp": 0.010483934999999998,
+    "pnl": null,
+    "change_pct": -1.073,
+    "timestamp": "2026-06-08T16:30:16.688004Z"
+  },
+  {
     "id": "WLD/USDT:USDT_1780936189",
     "symbol": "WLD",
     "direction": "SHORT",
