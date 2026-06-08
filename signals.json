@@ -1,5 +1,18 @@
 [
   {
+    "id": "ZEC/USDT:USDT_1780921152",
+    "symbol": "ZEC",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 416.03,
+    "exit_price": null,
+    "sl": 414.78191,
+    "tp": 422.2704499999999,
+    "pnl": null,
+    "change_pct": -1.436,
+    "timestamp": "2026-06-08T12:19:12.413894Z"
+  },
+  {
     "id": "BLESS/USDT:USDT_1780921131",
     "symbol": "BLESS",
     "direction": "LONG",
