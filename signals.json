@@ -1,5 +1,18 @@
 [
   {
+    "id": "BROCCOLIF3B/USDT:USDT_1780924119",
+    "symbol": "BROCCOLIF3B",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.005753,
+    "exit_price": null,
+    "sl": 0.005770259,
+    "tp": 0.005666705,
+    "pnl": null,
+    "change_pct": 1.089,
+    "timestamp": "2026-06-08T13:08:39.128084Z"
+  },
+  {
     "id": "ESPORTS/USDT:USDT_1780924081",
     "symbol": "ESPORTS",
     "direction": "LONG",
