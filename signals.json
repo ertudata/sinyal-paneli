@@ -1,5 +1,18 @@
 [
   {
+    "id": "ORCL/USDT:USDT_1780925767",
+    "symbol": "ORCL",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 212.97,
+    "exit_price": null,
+    "sl": 212.33109,
+    "tp": 216.16455,
+    "pnl": null,
+    "change_pct": -1.229,
+    "timestamp": "2026-06-08T13:36:07.115428Z"
+  },
+  {
     "id": "NOW/USDT:USDT_1780925764",
     "symbol": "NOW",
     "direction": "LONG",
