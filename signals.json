@@ -1,5 +1,18 @@
 [
   {
+    "id": "BSB/USDT:USDT_1780934876",
+    "symbol": "BSB",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.31416,
+    "exit_price": null,
+    "sl": 0.31321751999999997,
+    "tp": 0.31887239999999994,
+    "pnl": null,
+    "change_pct": -2.523,
+    "timestamp": "2026-06-08T16:07:56.913201Z"
+  },
+  {
     "id": "TRUTH/USDT:USDT_1780934833",
     "symbol": "TRUTH",
     "direction": "SHORT",
