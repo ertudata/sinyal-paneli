@@ -224,14 +224,14 @@
     "id": "我踏马来了/USDT:USDT_1780935453",
     "symbol": "我踏马来了",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.009971,
-    "exit_price": null,
+    "exit_price": 0.009941087000000001,
     "sl": 0.009941087000000001,
     "tp": 0.010120565,
-    "pnl": null,
-    "change_pct": -1.287,
-    "timestamp": "2026-06-08T16:17:33.567065Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:24:23.055521Z"
   },
   {
     "id": "LAYER/USDT:USDT_1780935430",
