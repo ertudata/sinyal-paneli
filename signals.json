@@ -1,5 +1,18 @@
 [
   {
+    "id": "SAFE/USDT:USDT_1780950813",
+    "symbol": "SAFE",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.0947,
+    "exit_price": null,
+    "sl": 0.09441590000000001,
+    "tp": 0.0961205,
+    "pnl": null,
+    "change_pct": -1.661,
+    "timestamp": "2026-06-08T20:33:33.798260Z"
+  },
+  {
     "id": "EVAA/USDT:USDT_1780950810",
     "symbol": "EVAA",
     "direction": "LONG",
