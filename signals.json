@@ -1,5 +1,18 @@
 [
   {
+    "id": "US/USDT:USDT_1780925258",
+    "symbol": "US",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.012738,
+    "exit_price": null,
+    "sl": 0.012776213999999998,
+    "tp": 0.01254693,
+    "pnl": null,
+    "change_pct": 2.018,
+    "timestamp": "2026-06-08T13:27:38.396877Z"
+  },
+  {
     "id": "VELODROME/USDT:USDT_1780925255",
     "symbol": "VELODROME",
     "direction": "SHORT",
