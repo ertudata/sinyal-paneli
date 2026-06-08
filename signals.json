@@ -1,5 +1,18 @@
 [
   {
+    "id": "GWEI/USDT:USDT_1780921870",
+    "symbol": "GWEI",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.15187,
+    "exit_price": null,
+    "sl": 0.15232561,
+    "tp": 0.14959195,
+    "pnl": null,
+    "change_pct": 1.267,
+    "timestamp": "2026-06-08T12:31:10.850831Z"
+  },
+  {
     "id": "ESPORTS/USDT:USDT_1780921867",
     "symbol": "ESPORTS",
     "direction": "LONG",
