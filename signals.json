@@ -1,5 +1,18 @@
 [
   {
+    "id": "EDGE/USDT:USDT_1780932437",
+    "symbol": "EDGE",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.4906,
+    "exit_price": null,
+    "sl": 0.48912819999999996,
+    "tp": 0.49795899999999993,
+    "pnl": null,
+    "change_pct": -1.188,
+    "timestamp": "2026-06-08T15:27:17.873591Z"
+  },
+  {
     "id": "SFP/USDT:USDT_1780932385",
     "symbol": "SFP",
     "direction": "SHORT",
