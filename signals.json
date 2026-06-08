@@ -1,5 +1,18 @@
 [
   {
+    "id": "INTC/USDT:USDT_1780920123",
+    "symbol": "INTC",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 100.06,
+    "exit_price": null,
+    "sl": 99.75982,
+    "tp": 101.56089999999999,
+    "pnl": null,
+    "change_pct": -1.95,
+    "timestamp": "2026-06-08T12:02:03.597921Z"
+  },
+  {
     "id": "AMZN/USDT:USDT_1780920105",
     "symbol": "AMZN",
     "direction": "LONG",
