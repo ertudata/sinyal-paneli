@@ -1,5 +1,18 @@
 [
   {
+    "id": "JTO/USDT:USDT_1780934663",
+    "symbol": "JTO",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.6291,
+    "exit_price": null,
+    "sl": 0.6272127,
+    "tp": 0.6385365,
+    "pnl": null,
+    "change_pct": -1.488,
+    "timestamp": "2026-06-08T16:04:23.795350Z"
+  },
+  {
     "id": "FORM/USDT:USDT_1780934660",
     "symbol": "FORM",
     "direction": "LONG",
