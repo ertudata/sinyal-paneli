@@ -1,5 +1,18 @@
 [
   {
+    "id": "FOLKS/USDT:USDT_1780923150",
+    "symbol": "FOLKS",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 1.662,
+    "exit_price": null,
+    "sl": 1.6669859999999996,
+    "tp": 1.6370699999999998,
+    "pnl": null,
+    "change_pct": 1.095,
+    "timestamp": "2026-06-08T12:52:30.519569Z"
+  },
+  {
     "id": "BTW/USDT:USDT_1780923083",
     "symbol": "BTW",
     "direction": "LONG",
