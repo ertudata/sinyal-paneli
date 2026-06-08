@@ -1,5 +1,18 @@
 [
   {
+    "id": "MELANIA/USDT:USDT_1780950878",
+    "symbol": "MELANIA",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.07829,
+    "exit_price": null,
+    "sl": 0.07805513,
+    "tp": 0.07946434999999999,
+    "pnl": null,
+    "change_pct": -3.56,
+    "timestamp": "2026-06-08T20:34:38.211370Z"
+  },
+  {
     "id": "SAHARA/USDT:USDT_1780950875",
     "symbol": "SAHARA",
     "direction": "LONG",
