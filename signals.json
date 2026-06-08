@@ -1,5 +1,18 @@
 [
   {
+    "id": "BEAT/USDT:USDT_1780927581",
+    "symbol": "BEAT",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 4.2277,
+    "exit_price": null,
+    "sl": 4.240383099999999,
+    "tp": 4.1642845,
+    "pnl": null,
+    "change_pct": 1.642,
+    "timestamp": "2026-06-08T14:06:21.258883Z"
+  },
+  {
     "id": "BEAT/USDT:USDT_1780927559",
     "symbol": "BEAT",
     "direction": "SHORT",
