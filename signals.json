@@ -68,14 +68,14 @@
     "id": "BEAT/USDT:USDT_1780928191",
     "symbol": "BEAT",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 4.0459,
-    "exit_price": null,
+    "exit_price": 4.106588499999999,
     "sl": 4.033762299999999,
     "tp": 4.106588499999999,
-    "pnl": null,
-    "change_pct": -1.146,
-    "timestamp": "2026-06-08T14:16:31.426233Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T14:17:23.143981Z"
   },
   {
     "id": "ESPORTS/USDT:USDT_1780928188",
