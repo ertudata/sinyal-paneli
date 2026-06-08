@@ -42,14 +42,14 @@
     "id": "SKYAI/USDT:USDT_1780908953",
     "symbol": "SKYAI",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.28754,
-    "exit_price": null,
+    "exit_price": 0.28840262,
     "sl": 0.28840262,
     "tp": 0.2832269,
-    "pnl": null,
-    "change_pct": 1.111,
-    "timestamp": "2026-06-08T08:55:53.711348Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T08:56:58.168701Z"
   },
   {
     "id": "ESPORTS/USDT:USDT_1780908932",
