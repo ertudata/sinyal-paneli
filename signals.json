@@ -1,5 +1,18 @@
 [
   {
+    "id": "MOVE/USDT:USDT_1780908975",
+    "symbol": "MOVE",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.01311,
+    "exit_price": null,
+    "sl": 0.013149329999999999,
+    "tp": 0.01291335,
+    "pnl": null,
+    "change_pct": 1.786,
+    "timestamp": "2026-06-08T08:56:15.176765Z"
+  },
+  {
     "id": "SKYAI/USDT:USDT_1780908953",
     "symbol": "SKYAI",
     "direction": "SHORT",
