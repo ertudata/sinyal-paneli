@@ -1,5 +1,18 @@
 [
   {
+    "id": "INX/USDT:USDT_1780934585",
+    "symbol": "INX",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.007269,
+    "exit_price": null,
+    "sl": 0.007247193,
+    "tp": 0.007378035,
+    "pnl": null,
+    "change_pct": -1.571,
+    "timestamp": "2026-06-08T16:03:05.107304Z"
+  },
+  {
     "id": "ZEREBRO/USDT:USDT_1780934581",
     "symbol": "ZEREBRO",
     "direction": "LONG",
