@@ -1,5 +1,18 @@
 [
   {
+    "id": "IOTX/USDT:USDT_1780950711",
+    "symbol": "IOTX",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.003442,
+    "exit_price": null,
+    "sl": 0.003431674,
+    "tp": 0.0034936299999999997,
+    "pnl": null,
+    "change_pct": -1.12,
+    "timestamp": "2026-06-08T20:31:51.206150Z"
+  },
+  {
     "id": "RONIN/USDT:USDT_1780950708",
     "symbol": "RONIN",
     "direction": "LONG",
