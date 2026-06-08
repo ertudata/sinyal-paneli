@@ -1966,14 +1966,14 @@
     "id": "BR/USDT:USDT_1780934653",
     "symbol": "BR",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.11081,
-    "exit_price": null,
+    "exit_price": 0.11047757000000001,
     "sl": 0.11047757000000001,
     "tp": 0.11247214999999999,
-    "pnl": null,
-    "change_pct": -1.388,
-    "timestamp": "2026-06-08T16:04:13.861278Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:53:26.626063Z"
   },
   {
     "id": "BROCCOLI714/USDT:USDT_1780934650",
