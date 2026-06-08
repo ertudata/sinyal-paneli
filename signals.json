@@ -29,14 +29,14 @@
     "id": "AIOT/USDT:USDT_1780909734",
     "symbol": "AIOT",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.06246,
-    "exit_price": null,
+    "exit_price": 0.06264737999999999,
     "sl": 0.06264737999999999,
     "tp": 0.061523100000000004,
-    "pnl": null,
-    "change_pct": 1.66,
-    "timestamp": "2026-06-08T09:08:54.210978Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T09:10:18.819676Z"
   },
   {
     "id": "STG/USDT:USDT_1780909731",
