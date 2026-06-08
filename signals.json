@@ -29,14 +29,14 @@
     "id": "FHE/USDT:USDT_1780934827",
     "symbol": "FHE",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.02219,
-    "exit_price": null,
+    "exit_price": 0.02225657,
     "sl": 0.02225657,
     "tp": 0.021857150000000002,
-    "pnl": null,
-    "change_pct": 1.463,
-    "timestamp": "2026-06-08T16:07:07.106366Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:07:54.273979Z"
   },
   {
     "id": "BERA/USDT:USDT_1780934824",
