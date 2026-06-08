@@ -549,14 +549,14 @@
     "id": "CBRS/USDT:USDT_1780934614",
     "symbol": "CBRS",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 237.51,
-    "exit_price": null,
+    "exit_price": 238.22252999999998,
     "sl": 238.22252999999998,
     "tp": 233.94735,
-    "pnl": null,
-    "change_pct": 1.206,
-    "timestamp": "2026-06-08T16:03:34.127447Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:06:24.132109Z"
   },
   {
     "id": "C/USDT:USDT_1780934611",
