@@ -42,14 +42,14 @@
     "id": "STG/USDT:USDT_1780918746",
     "symbol": "STG",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.2561,
-    "exit_price": null,
+    "exit_price": 0.2568683,
     "sl": 0.2568683,
     "tp": 0.2522585,
-    "pnl": null,
-    "change_pct": 1.225,
-    "timestamp": "2026-06-08T11:39:06.173621Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T11:40:28.146684Z"
   },
   {
     "id": "ALLO/USDT:USDT_1780918712",
