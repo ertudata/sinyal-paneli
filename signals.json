@@ -2057,14 +2057,14 @@
     "id": "SQD/USDT:USDT_1780934632",
     "symbol": "SQD",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.03212,
-    "exit_price": null,
+    "exit_price": 0.032023640000000006,
     "sl": 0.032023640000000006,
     "tp": 0.0326018,
-    "pnl": null,
-    "change_pct": -1.23,
-    "timestamp": "2026-06-08T16:03:52.255752Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:53:22.277356Z"
   },
   {
     "id": "GTC/USDT:USDT_1780934629",
