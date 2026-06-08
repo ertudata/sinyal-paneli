@@ -3,14 +3,14 @@
     "id": "ROBO/USDT:USDT_1780927917",
     "symbol": "ROBO",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.01968,
-    "exit_price": null,
+    "exit_price": 0.019739039999999996,
     "sl": 0.019739039999999996,
     "tp": 0.0193848,
-    "pnl": null,
-    "change_pct": 1.496,
-    "timestamp": "2026-06-08T14:11:57.497364Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T14:12:22.743168Z"
   },
   {
     "id": "EPIC/USDT:USDT_1780927914",
