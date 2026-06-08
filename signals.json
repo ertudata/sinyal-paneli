@@ -1,5 +1,18 @@
 [
   {
+    "id": "AIGENSYN/USDT:USDT_1780950865",
+    "symbol": "AIGENSYN",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.02239,
+    "exit_price": null,
+    "sl": 0.022322830000000002,
+    "tp": 0.02272585,
+    "pnl": null,
+    "change_pct": -1.841,
+    "timestamp": "2026-06-08T20:34:25.502275Z"
+  },
+  {
     "id": "NXPC/USDT:USDT_1780950862",
     "symbol": "NXPC",
     "direction": "SHORT",
