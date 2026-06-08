@@ -1,5 +1,18 @@
 [
   {
+    "id": "EPIC/USDT:USDT_1780934879",
+    "symbol": "EPIC",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.4667,
+    "exit_price": null,
+    "sl": 0.4652999,
+    "tp": 0.47370049999999997,
+    "pnl": null,
+    "change_pct": -1.499,
+    "timestamp": "2026-06-08T16:07:59.520922Z"
+  },
+  {
     "id": "BSB/USDT:USDT_1780934876",
     "symbol": "BSB",
     "direction": "LONG",
