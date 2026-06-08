@@ -1,5 +1,18 @@
 [
   {
+    "id": "CHIP/USDT:USDT_1780934690",
+    "symbol": "CHIP",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.03274,
+    "exit_price": null,
+    "sl": 0.032641779999999995,
+    "tp": 0.03323109999999999,
+    "pnl": null,
+    "change_pct": -2.035,
+    "timestamp": "2026-06-08T16:04:50.657720Z"
+  },
+  {
     "id": "我踏马来了/USDT:USDT_1780934687",
     "symbol": "我踏马来了",
     "direction": "SHORT",
