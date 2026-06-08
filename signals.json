@@ -81,14 +81,14 @@
     "id": "OPN/USDT:USDT_1780922902",
     "symbol": "OPN",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.1105,
-    "exit_price": null,
+    "exit_price": 0.1121575,
     "sl": 0.1101685,
     "tp": 0.1121575,
-    "pnl": null,
-    "change_pct": -1.163,
-    "timestamp": "2026-06-08T12:48:22.836249Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T12:52:12.286703Z"
   },
   {
     "id": "BSB/USDT:USDT_1780922869",
