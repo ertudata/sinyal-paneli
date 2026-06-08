@@ -94,14 +94,14 @@
     "id": "BANK/USDT:USDT_1780923628",
     "symbol": "BANK",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.04132,
-    "exit_price": null,
+    "exit_price": 0.0407002,
     "sl": 0.041443959999999995,
     "tp": 0.0407002,
-    "pnl": null,
-    "change_pct": 1.175,
-    "timestamp": "2026-06-08T13:00:28.781662Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T13:03:12.859166Z"
   },
   {
     "id": "PUMP/USDT:USDT_1780923610",
