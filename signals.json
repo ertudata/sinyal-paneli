@@ -16,14 +16,14 @@
     "id": "VELVET/USDT:USDT_1780921327",
     "symbol": "VELVET",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.31006,
-    "exit_price": null,
+    "exit_price": 0.30912982,
     "sl": 0.30912982,
     "tp": 0.31471089999999996,
-    "pnl": null,
-    "change_pct": -1.286,
-    "timestamp": "2026-06-08T12:22:07.200863Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T12:22:46.615334Z"
   },
   {
     "id": "VELVET/USDT:USDT_1780921287",
