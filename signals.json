@@ -42,14 +42,14 @@
     "id": "VELVET/USDT:USDT_1780938663",
     "symbol": "VELVET",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.39319,
-    "exit_price": null,
+    "exit_price": 0.38729215,
     "sl": 0.39436956999999995,
     "tp": 0.38729215,
-    "pnl": null,
-    "change_pct": 1.563,
-    "timestamp": "2026-06-08T17:11:03.451537Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T17:13:27.361716Z"
   },
   {
     "id": "BROCCOLIF3B/USDT:USDT_1780938660",
