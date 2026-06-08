@@ -133,14 +133,14 @@
     "id": "AKE/USDT:USDT_1780925852",
     "symbol": "AKE",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.000304,
-    "exit_price": null,
+    "exit_price": 0.000303088,
     "sl": 0.000303088,
     "tp": 0.00030856,
-    "pnl": null,
-    "change_pct": -1.745,
-    "timestamp": "2026-06-08T13:37:32.723975Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T13:44:12.312716Z"
   },
   {
     "id": "BIO/USDT:USDT_1780925825",
