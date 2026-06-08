@@ -1,5 +1,18 @@
 [
   {
+    "id": "ONDS/USDT:USDT_1780925740",
+    "symbol": "ONDS",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 10.45,
+    "exit_price": null,
+    "sl": 10.41865,
+    "tp": 10.606749999999998,
+    "pnl": null,
+    "change_pct": -1.508,
+    "timestamp": "2026-06-08T13:35:40.800282Z"
+  },
+  {
     "id": "DRAM/USDT:USDT_1780925737",
     "symbol": "DRAM",
     "direction": "LONG",
