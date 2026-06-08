@@ -1,5 +1,18 @@
 [
   {
+    "id": "STAR/USDT:USDT_1780934605",
+    "symbol": "STAR",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.15674,
+    "exit_price": null,
+    "sl": 0.15721021999999998,
+    "tp": 0.1543889,
+    "pnl": null,
+    "change_pct": 1.09,
+    "timestamp": "2026-06-08T16:03:25.507283Z"
+  },
+  {
     "id": "NEAR/USDT:USDT_1780934602",
     "symbol": "NEAR",
     "direction": "SHORT",
