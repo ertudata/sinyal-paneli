@@ -1,5 +1,18 @@
 [
   {
+    "id": "FIDA/USDT:USDT_1780950858",
+    "symbol": "FIDA",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.02417,
+    "exit_price": null,
+    "sl": 0.02409749,
+    "tp": 0.024532549999999997,
+    "pnl": null,
+    "change_pct": -7.288,
+    "timestamp": "2026-06-08T20:34:18.646895Z"
+  },
+  {
     "id": "PUMP/USDT:USDT_1780950854",
     "symbol": "PUMP",
     "direction": "SHORT",
