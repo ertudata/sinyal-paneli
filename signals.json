@@ -1,5 +1,18 @@
 [
   {
+    "id": "D/USDT:USDT_1780950766",
+    "symbol": "D",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.005662,
+    "exit_price": null,
+    "sl": 0.005645014,
+    "tp": 0.00574693,
+    "pnl": null,
+    "change_pct": -1.307,
+    "timestamp": "2026-06-08T20:32:46.890186Z"
+  },
+  {
     "id": "INIT/USDT:USDT_1780950763",
     "symbol": "INIT",
     "direction": "LONG",
