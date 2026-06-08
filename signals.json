@@ -1,5 +1,18 @@
 [
   {
+    "id": "PUMPBTC/USDT:USDT_1780927419",
+    "symbol": "PUMPBTC",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.0106,
+    "exit_price": null,
+    "sl": 0.010631799999999999,
+    "tp": 0.010441,
+    "pnl": null,
+    "change_pct": 1.338,
+    "timestamp": "2026-06-08T14:03:39.943807Z"
+  },
+  {
     "id": "ICNT/USDT:USDT_1780927365",
     "symbol": "ICNT",
     "direction": "SHORT",
