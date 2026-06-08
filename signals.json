@@ -16,14 +16,14 @@
     "id": "BEAT/USDT:USDT_1780922255",
     "symbol": "BEAT",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 4.3667,
-    "exit_price": null,
+    "exit_price": 4.3798001,
     "sl": 4.3798001,
     "tp": 4.3011995,
-    "pnl": null,
-    "change_pct": 1.224,
-    "timestamp": "2026-06-08T12:37:35.165922Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T12:37:59.603743Z"
   },
   {
     "id": "ALLO/USDT:USDT_1780922218",
