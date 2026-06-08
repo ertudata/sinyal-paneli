@@ -1,5 +1,18 @@
 [
   {
+    "id": "NBIS/USDT:USDT_1780925531",
+    "symbol": "NBIS",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 235.6,
+    "exit_price": null,
+    "sl": 234.8932,
+    "tp": 239.13399999999996,
+    "pnl": null,
+    "change_pct": -1.137,
+    "timestamp": "2026-06-08T13:32:11.821702Z"
+  },
+  {
     "id": "CRCL/USDT:USDT_1780925527",
     "symbol": "CRCL",
     "direction": "LONG",
