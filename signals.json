@@ -68,14 +68,14 @@
     "id": "ESPORTS/USDT:USDT_1780936991",
     "symbol": "ESPORTS",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.05968,
-    "exit_price": null,
+    "exit_price": 0.05985903999999999,
     "sl": 0.05985903999999999,
     "tp": 0.0587848,
-    "pnl": null,
-    "change_pct": 4.427,
-    "timestamp": "2026-06-08T16:43:11.235143Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:44:03.061958Z"
   },
   {
     "id": "MELANIA/USDT:USDT_1780936985",
