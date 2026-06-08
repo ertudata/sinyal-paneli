@@ -42,14 +42,14 @@
     "id": "NOW/USDT:USDT_1780925764",
     "symbol": "NOW",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 111.79,
-    "exit_price": null,
+    "exit_price": 113.46685,
     "sl": 111.45463000000001,
     "tp": 113.46685,
-    "pnl": null,
-    "change_pct": -1.524,
-    "timestamp": "2026-06-08T13:36:04.249969Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T13:36:40.174178Z"
   },
   {
     "id": "CRWV/USDT:USDT_1780925760",
