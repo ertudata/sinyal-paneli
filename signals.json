@@ -42,14 +42,14 @@
     "id": "LUNA2/USDT:USDT_1780927753",
     "symbol": "LUNA2",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.05337,
-    "exit_price": null,
+    "exit_price": 0.05353010999999999,
     "sl": 0.05353010999999999,
     "tp": 0.05256945,
-    "pnl": null,
-    "change_pct": 1.677,
-    "timestamp": "2026-06-08T14:09:13.565270Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T14:09:49.704339Z"
   },
   {
     "id": "BLESS/USDT:USDT_1780927732",
