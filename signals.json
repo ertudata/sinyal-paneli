@@ -315,14 +315,14 @@
     "id": "INTC/USDT:USDT_1780920123",
     "symbol": "INTC",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 100.06,
-    "exit_price": null,
+    "exit_price": 101.56089999999999,
     "sl": 99.75982,
     "tp": 101.56089999999999,
-    "pnl": null,
-    "change_pct": -1.95,
-    "timestamp": "2026-06-08T12:02:03.597921Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T12:10:51.686909Z"
   },
   {
     "id": "AMZN/USDT:USDT_1780920105",
