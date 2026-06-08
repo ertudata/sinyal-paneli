@@ -2005,14 +2005,14 @@
     "id": "CRCL/USDT:USDT_1780925744",
     "symbol": "CRCL",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 81.68,
-    "exit_price": null,
+    "exit_price": 82.9052,
     "sl": 81.43496,
     "tp": 82.9052,
-    "pnl": null,
-    "change_pct": -1.186,
-    "timestamp": "2026-06-08T13:35:44.363387Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T14:57:11.495079Z"
   },
   {
     "id": "ONDS/USDT:USDT_1780925740",
