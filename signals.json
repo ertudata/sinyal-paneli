@@ -1,5 +1,18 @@
 [
   {
+    "id": "GWEI/USDT:USDT_1780950842",
+    "symbol": "GWEI",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.16965,
+    "exit_price": null,
+    "sl": 0.17015894999999998,
+    "tp": 0.16710524999999998,
+    "pnl": null,
+    "change_pct": 4.658,
+    "timestamp": "2026-06-08T20:34:02.957201Z"
+  },
+  {
     "id": "NVO/USDT:USDT_1780950839",
     "symbol": "NVO",
     "direction": "LONG",
