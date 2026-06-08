@@ -1,5 +1,18 @@
 [
   {
+    "id": "ONDS/USDT:USDT_1780934570",
+    "symbol": "ONDS",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 10.56,
+    "exit_price": null,
+    "sl": 10.52832,
+    "tp": 10.718399999999999,
+    "pnl": null,
+    "change_pct": -1.308,
+    "timestamp": "2026-06-08T16:02:50.848018Z"
+  },
+  {
     "id": "BTW/USDT:USDT_1780932747",
     "symbol": "BTW",
     "direction": "LONG",
