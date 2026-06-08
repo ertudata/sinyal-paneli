@@ -29,14 +29,14 @@
     "id": "BTW/USDT:USDT_1780909664",
     "symbol": "BTW",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.047669,
-    "exit_price": null,
+    "exit_price": 0.046953965,
     "sl": 0.047812007,
     "tp": 0.046953965,
-    "pnl": null,
-    "change_pct": 1.178,
-    "timestamp": "2026-06-08T09:07:44.313972Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T09:08:26.816555Z"
   },
   {
     "id": "ESPORTS/USDT:USDT_1780909661",
