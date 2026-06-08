@@ -653,14 +653,14 @@
     "id": "YB/USDT:USDT_1780934587",
     "symbol": "YB",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.093,
-    "exit_price": null,
+    "exit_price": 0.09327899999999999,
     "sl": 0.09327899999999999,
     "tp": 0.09160499999999999,
-    "pnl": null,
-    "change_pct": 1.528,
-    "timestamp": "2026-06-08T16:03:07.914830Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:06:18.193029Z"
   },
   {
     "id": "INX/USDT:USDT_1780934585",
