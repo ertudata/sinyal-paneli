@@ -16,14 +16,14 @@
     "id": "LAYER/USDT:USDT_1780935651",
     "symbol": "LAYER",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.07323,
-    "exit_price": null,
+    "exit_price": 0.07344969,
     "sl": 0.07344969,
     "tp": 0.07213155,
-    "pnl": null,
-    "change_pct": 2.42,
-    "timestamp": "2026-06-08T16:20:51.107063Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:22:43.323814Z"
   },
   {
     "id": "VELVET/USDT:USDT_1780935643",
