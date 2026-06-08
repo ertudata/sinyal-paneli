@@ -1,5 +1,18 @@
 [
   {
+    "id": "SWARMS/USDT:USDT_1780927001",
+    "symbol": "SWARMS",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.006671,
+    "exit_price": null,
+    "sl": 0.006691012999999999,
+    "tp": 0.006570935,
+    "pnl": null,
+    "change_pct": 2.081,
+    "timestamp": "2026-06-08T13:56:41.443271Z"
+  },
+  {
     "id": "YB/USDT:USDT_1780926964",
     "symbol": "YB",
     "direction": "SHORT",
