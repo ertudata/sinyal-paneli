@@ -1,5 +1,18 @@
 [
   {
+    "id": "CBRS/USDT:USDT_1780950756",
+    "symbol": "CBRS",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 239.74,
+    "exit_price": null,
+    "sl": 239.02078,
+    "tp": 243.3361,
+    "pnl": null,
+    "change_pct": -1.939,
+    "timestamp": "2026-06-08T20:32:36.862556Z"
+  },
+  {
     "id": "COAI/USDT:USDT_1780950753",
     "symbol": "COAI",
     "direction": "SHORT",
