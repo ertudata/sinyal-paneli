@@ -172,14 +172,14 @@
     "id": "SKYAI/USDT:USDT_1780909576",
     "symbol": "SKYAI",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.28822,
-    "exit_price": null,
+    "exit_price": 0.28389669999999995,
     "sl": 0.28908465999999994,
     "tp": 0.28389669999999995,
-    "pnl": null,
-    "change_pct": 1.311,
-    "timestamp": "2026-06-08T09:06:16.150044Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T09:09:30.791308Z"
   },
   {
     "id": "COS/USDT:USDT_1780909551",
