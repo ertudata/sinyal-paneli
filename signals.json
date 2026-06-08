@@ -1,5 +1,18 @@
 [
   {
+    "id": "OPN/USDT:USDT_1780936948",
+    "symbol": "OPN",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.1096,
+    "exit_price": null,
+    "sl": 0.1099288,
+    "tp": 0.107956,
+    "pnl": null,
+    "change_pct": 1.859,
+    "timestamp": "2026-06-08T16:42:28.709984Z"
+  },
+  {
     "id": "POWER/USDT:USDT_1780936879",
     "symbol": "POWER",
     "direction": "SHORT",
