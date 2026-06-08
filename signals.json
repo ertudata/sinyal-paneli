@@ -3,14 +3,14 @@
     "id": "币安人生/USDT:USDT_1780931234",
     "symbol": "币安人生",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.72955,
-    "exit_price": null,
+    "exit_price": 0.72736135,
     "sl": 0.72736135,
     "tp": 0.74049325,
-    "pnl": null,
-    "change_pct": -1.312,
-    "timestamp": "2026-06-08T15:07:14.486566Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T15:07:33.595652Z"
   },
   {
     "id": "BSB/USDT:USDT_1780931230",
