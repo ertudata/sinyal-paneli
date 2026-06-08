@@ -3,14 +3,14 @@
     "id": "VELVET/USDT:USDT_1780920230",
     "symbol": "VELVET",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.33544,
-    "exit_price": null,
+    "exit_price": 0.3404716,
     "sl": 0.33443368,
     "tp": 0.3404716,
-    "pnl": null,
-    "change_pct": -1.48,
-    "timestamp": "2026-06-08T12:03:50.734817Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T12:04:24.632706Z"
   },
   {
     "id": "PIPPIN/USDT:USDT_1780920196",
