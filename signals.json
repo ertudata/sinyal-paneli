@@ -3,14 +3,14 @@
     "id": "H/USDT:USDT_1780951133",
     "symbol": "H",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.18548,
-    "exit_price": null,
+    "exit_price": 0.1882622,
     "sl": 0.18492356000000001,
     "tp": 0.1882622,
-    "pnl": null,
-    "change_pct": -1.267,
-    "timestamp": "2026-06-08T20:38:53.705821Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T20:39:49.857978Z"
   },
   {
     "id": "H/USDT:USDT_1780951096",
