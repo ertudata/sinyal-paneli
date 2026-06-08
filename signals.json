@@ -1,5 +1,18 @@
 [
   {
+    "id": "WLD/USDT:USDT_1780937000",
+    "symbol": "WLD",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.5046,
+    "exit_price": null,
+    "sl": 0.5061138,
+    "tp": 0.49703100000000006,
+    "pnl": null,
+    "change_pct": 1.448,
+    "timestamp": "2026-06-08T16:43:20.376276Z"
+  },
+  {
     "id": "TUT/USDT:USDT_1780936995",
     "symbol": "TUT",
     "direction": "SHORT",
