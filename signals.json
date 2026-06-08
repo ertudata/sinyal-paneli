@@ -81,14 +81,14 @@
     "id": "币安人生/USDT:USDT_1780932019",
     "symbol": "币安人生",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.71841,
-    "exit_price": null,
+    "exit_price": 0.71625477,
     "sl": 0.71625477,
     "tp": 0.72918615,
-    "pnl": null,
-    "change_pct": -1.497,
-    "timestamp": "2026-06-08T15:20:19.360613Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T15:25:39.037980Z"
   },
   {
     "id": "EPIC/USDT:USDT_1780931978",
