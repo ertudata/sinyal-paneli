@@ -1,5 +1,18 @@
 [
   {
+    "id": "EVAA/USDT:USDT_1780950810",
+    "symbol": "EVAA",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.3555,
+    "exit_price": null,
+    "sl": 0.35443349999999996,
+    "tp": 0.36083249999999994,
+    "pnl": null,
+    "change_pct": -2.922,
+    "timestamp": "2026-06-08T20:33:30.645821Z"
+  },
+  {
     "id": "ESP/USDT:USDT_1780950807",
     "symbol": "ESP",
     "direction": "LONG",
