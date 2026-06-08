@@ -16,14 +16,14 @@
     "id": "FLNC/USDT:USDT_1780926697",
     "symbol": "FLNC",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 24.47,
-    "exit_price": null,
+    "exit_price": 24.543409999999998,
     "sl": 24.543409999999998,
     "tp": 24.10295,
-    "pnl": null,
-    "change_pct": 1.241,
-    "timestamp": "2026-06-08T13:51:37.776752Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T13:53:16.330284Z"
   },
   {
     "id": "EPIC/USDT:USDT_1780926594",
