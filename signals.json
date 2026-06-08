@@ -16,14 +16,14 @@
     "id": "ICNT/USDT:USDT_1780938099",
     "symbol": "ICNT",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.2192,
-    "exit_price": null,
+    "exit_price": 0.2198576,
     "sl": 0.2198576,
     "tp": 0.215912,
-    "pnl": null,
-    "change_pct": 1.154,
-    "timestamp": "2026-06-08T17:01:39.073035Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T17:02:12.425457Z"
   },
   {
     "id": "ESPORTS/USDT:USDT_1780937865",
