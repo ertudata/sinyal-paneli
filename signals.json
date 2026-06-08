@@ -16,14 +16,14 @@
     "id": "4/USDT:USDT_1780920477",
     "symbol": "4",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.009251,
-    "exit_price": null,
+    "exit_price": 0.009278752999999999,
     "sl": 0.009278752999999999,
     "tp": 0.009112235,
-    "pnl": null,
-    "change_pct": 1.537,
-    "timestamp": "2026-06-08T12:07:57.189228Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T12:08:18.126859Z"
   },
   {
     "id": "ALLO/USDT:USDT_1780920449",
