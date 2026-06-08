@@ -3,14 +3,14 @@
     "id": "STBL/USDT:USDT_1780919737",
     "symbol": "STBL",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.02605,
-    "exit_price": null,
+    "exit_price": 0.026128149999999996,
     "sl": 0.026128149999999996,
     "tp": 0.02565925,
-    "pnl": null,
-    "change_pct": 1.322,
-    "timestamp": "2026-06-08T11:55:37.314945Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T11:55:55.966288Z"
   },
   {
     "id": "ALLO/USDT:USDT_1780919629",
