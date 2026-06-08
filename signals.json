@@ -29,14 +29,14 @@
     "id": "1000LUNC/USDT:USDT_1780927756",
     "symbol": "1000LUNC",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.07154,
-    "exit_price": null,
+    "exit_price": 0.07175462,
     "sl": 0.07175462,
     "tp": 0.0704669,
-    "pnl": null,
-    "change_pct": 1.36,
-    "timestamp": "2026-06-08T14:09:16.527740Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T14:09:52.409034Z"
   },
   {
     "id": "LUNA2/USDT:USDT_1780927753",
