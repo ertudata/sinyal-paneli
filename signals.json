@@ -1,5 +1,18 @@
 [
   {
+    "id": "STG/USDT:USDT_1780935528",
+    "symbol": "STG",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.2608,
+    "exit_price": null,
+    "sl": 0.26158239999999994,
+    "tp": 0.25688799999999995,
+    "pnl": null,
+    "change_pct": 1.164,
+    "timestamp": "2026-06-08T16:18:48.184438Z"
+  },
+  {
     "id": "PIPPIN/USDT:USDT_1780935524",
     "symbol": "PIPPIN",
     "direction": "SHORT",
