@@ -29,14 +29,14 @@
     "id": "HEI/USDT:USDT_1780950964",
     "symbol": "HEI",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.09367,
-    "exit_price": null,
+    "exit_price": 0.09395100999999999,
     "sl": 0.09395100999999999,
     "tp": 0.09226495,
-    "pnl": null,
-    "change_pct": 1.539,
-    "timestamp": "2026-06-08T20:36:04.838264Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T20:37:09.896536Z"
   },
   {
     "id": "QNT/USDT:USDT_1780950955",
