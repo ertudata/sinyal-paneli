@@ -1,5 +1,18 @@
 [
   {
+    "id": "CLO/USDT:USDT_1780950802",
+    "symbol": "CLO",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.13767,
+    "exit_price": null,
+    "sl": 0.13725699,
+    "tp": 0.13973504999999997,
+    "pnl": null,
+    "change_pct": -8.912,
+    "timestamp": "2026-06-08T20:33:22.242406Z"
+  },
+  {
     "id": "PHA/USDT:USDT_1780950799",
     "symbol": "PHA",
     "direction": "LONG",
