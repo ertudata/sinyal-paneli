@@ -1,5 +1,18 @@
 [
   {
+    "id": "CRM/USDT:USDT_1780925753",
+    "symbol": "CRM",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 182.66,
+    "exit_price": null,
+    "sl": 182.11202,
+    "tp": 185.39989999999997,
+    "pnl": null,
+    "change_pct": -1.056,
+    "timestamp": "2026-06-08T13:35:53.530449Z"
+  },
+  {
     "id": "VVV/USDT:USDT_1780925750",
     "symbol": "VVV",
     "direction": "LONG",
