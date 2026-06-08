@@ -1,5 +1,18 @@
 [
   {
+    "id": "ALLO/USDT:USDT_1780934721",
+    "symbol": "ALLO",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.43969,
+    "exit_price": null,
+    "sl": 0.44100907,
+    "tp": 0.43309465,
+    "pnl": null,
+    "change_pct": 1.475,
+    "timestamp": "2026-06-08T16:05:21.962809Z"
+  },
+  {
     "id": "NBIS/USDT:USDT_1780934718",
     "symbol": "NBIS",
     "direction": "LONG",
