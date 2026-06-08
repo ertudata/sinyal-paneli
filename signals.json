@@ -1,5 +1,18 @@
 [
   {
+    "id": "BTW/USDT:USDT_1780926928",
+    "symbol": "BTW",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.061798,
+    "exit_price": null,
+    "sl": 0.06198339399999999,
+    "tp": 0.06087103,
+    "pnl": null,
+    "change_pct": 1.088,
+    "timestamp": "2026-06-08T13:55:28.370542Z"
+  },
+  {
     "id": "EPIC/USDT:USDT_1780926762",
     "symbol": "EPIC",
     "direction": "LONG",
