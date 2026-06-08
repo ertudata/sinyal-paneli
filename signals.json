@@ -1,5 +1,18 @@
 [
   {
+    "id": "BABY/USDT:USDT_1780934670",
+    "symbol": "BABY",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.01588,
+    "exit_price": null,
+    "sl": 0.015832359999999997,
+    "tp": 0.016118199999999996,
+    "pnl": null,
+    "change_pct": -1.059,
+    "timestamp": "2026-06-08T16:04:30.256596Z"
+  },
+  {
     "id": "NIGHT/USDT:USDT_1780934667",
     "symbol": "NIGHT",
     "direction": "LONG",
