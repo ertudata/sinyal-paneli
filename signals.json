@@ -1,5 +1,18 @@
 [
   {
+    "id": "ALGO/USDT:USDT_1780934647",
+    "symbol": "ALGO",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.0937,
+    "exit_price": null,
+    "sl": 0.0934189,
+    "tp": 0.0951055,
+    "pnl": null,
+    "change_pct": -1.056,
+    "timestamp": "2026-06-08T16:04:07.619291Z"
+  },
+  {
     "id": "IDOL/USDT:USDT_1780934644",
     "symbol": "IDOL",
     "direction": "LONG",
