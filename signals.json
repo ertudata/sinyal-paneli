@@ -3,14 +3,14 @@
     "id": "JCT/USDT:USDT_1780931326",
     "symbol": "JCT",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.004903,
-    "exit_price": null,
+    "exit_price": 0.004917709,
     "sl": 0.004917709,
     "tp": 0.004829455,
-    "pnl": null,
-    "change_pct": 1.385,
-    "timestamp": "2026-06-08T15:08:46.921287Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T15:09:34.540901Z"
   },
   {
     "id": "JCT/USDT:USDT_1780931293",
