@@ -3,14 +3,14 @@
     "id": "BULLA/USDT:USDT_1780935120",
     "symbol": "BULLA",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.005423,
-    "exit_price": null,
+    "exit_price": 0.005341655,
     "sl": 0.005439268999999999,
     "tp": 0.005341655,
-    "pnl": null,
-    "change_pct": 1.516,
-    "timestamp": "2026-06-08T16:12:00.990506Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T16:15:01.011036Z"
   },
   {
     "id": "4/USDT:USDT_1780934950",
