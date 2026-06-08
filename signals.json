@@ -120,14 +120,14 @@
     "id": "QNTX/USDT:USDT_1780923732",
     "symbol": "QNTX",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 58.04,
-    "exit_price": null,
+    "exit_price": 58.214119999999994,
     "sl": 58.214119999999994,
     "tp": 57.169399999999996,
-    "pnl": null,
-    "change_pct": 2.004,
-    "timestamp": "2026-06-08T13:02:12.610602Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T13:05:10.915939Z"
   },
   {
     "id": "BTW/USDT:USDT_1780923696",
