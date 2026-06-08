@@ -1,5 +1,18 @@
 [
   {
+    "id": "POWER/USDT:USDT_1780950747",
+    "symbol": "POWER",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.08262,
+    "exit_price": null,
+    "sl": 0.08286785999999999,
+    "tp": 0.0813807,
+    "pnl": null,
+    "change_pct": 4.213,
+    "timestamp": "2026-06-08T20:32:27.399082Z"
+  },
+  {
     "id": "AGLD/USDT:USDT_1780950744",
     "symbol": "AGLD",
     "direction": "LONG",
