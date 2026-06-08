@@ -29,14 +29,14 @@
     "id": "JCT/USDT:USDT_1780928218",
     "symbol": "JCT",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.004802,
-    "exit_price": null,
+    "exit_price": 0.004816406,
     "sl": 0.004816406,
     "tp": 0.00472997,
-    "pnl": null,
-    "change_pct": 1.759,
-    "timestamp": "2026-06-08T14:16:58.863873Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T14:17:26.048366Z"
   },
   {
     "id": "1000LUNC/USDT:USDT_1780928215",
