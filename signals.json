@@ -16,14 +16,14 @@
     "id": "BLESS/USDT:USDT_1780921131",
     "symbol": "BLESS",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.008505,
-    "exit_price": null,
+    "exit_price": 0.008479485,
     "sl": 0.008479485,
     "tp": 0.008632575,
-    "pnl": null,
-    "change_pct": -1.597,
-    "timestamp": "2026-06-08T12:18:51.002779Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T12:19:33.442951Z"
   },
   {
     "id": "VELVET/USDT:USDT_1780921128",
