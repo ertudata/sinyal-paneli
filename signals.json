@@ -1,5 +1,18 @@
 [
   {
+    "id": "ALLO/USDT:USDT_1780909120",
+    "symbol": "ALLO",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.45839,
+    "exit_price": null,
+    "sl": 0.45701483000000004,
+    "tp": 0.46526585,
+    "pnl": null,
+    "change_pct": -1.149,
+    "timestamp": "2026-06-08T08:58:40.457127Z"
+  },
+  {
     "id": "SKYAI/USDT:USDT_1780909116",
     "symbol": "SKYAI",
     "direction": "LONG",
