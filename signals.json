@@ -1,5 +1,18 @@
 [
   {
+    "id": "USAR/USDT:USDT_1780925518",
+    "symbol": "USAR",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 23.16,
+    "exit_price": null,
+    "sl": 23.09052,
+    "tp": 23.507399999999997,
+    "pnl": null,
+    "change_pct": -1.698,
+    "timestamp": "2026-06-08T13:31:58.934543Z"
+  },
+  {
     "id": "BLESS/USDT:USDT_1780925514",
     "symbol": "BLESS",
     "direction": "LONG",
