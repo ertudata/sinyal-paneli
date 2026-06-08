@@ -1,5 +1,18 @@
 [
   {
+    "id": "WLD/USDT:USDT_1780937422",
+    "symbol": "WLD",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.5004,
+    "exit_price": null,
+    "sl": 0.5019011999999999,
+    "tp": 0.49289399999999994,
+    "pnl": null,
+    "change_pct": 1.398,
+    "timestamp": "2026-06-08T16:50:22.175206Z"
+  },
+  {
     "id": "ESPORTS/USDT:USDT_1780937403",
     "symbol": "ESPORTS",
     "direction": "LONG",
