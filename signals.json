@@ -1,5 +1,18 @@
 [
   {
+    "id": "SFP/USDT:USDT_1780932477",
+    "symbol": "SFP",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.2501,
+    "exit_price": null,
+    "sl": 0.25085029999999997,
+    "tp": 0.2463485,
+    "pnl": null,
+    "change_pct": 1.337,
+    "timestamp": "2026-06-08T15:27:57.547747Z"
+  },
+  {
     "id": "SIREN/USDT:USDT_1780932474",
     "symbol": "SIREN",
     "direction": "LONG",
