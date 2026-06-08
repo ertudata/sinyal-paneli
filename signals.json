@@ -1,5 +1,18 @@
 [
   {
+    "id": "JCT/USDT:USDT_1780931223",
+    "symbol": "JCT",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.004744,
+    "exit_price": null,
+    "sl": 0.004729768,
+    "tp": 0.00481516,
+    "pnl": null,
+    "change_pct": -2.327,
+    "timestamp": "2026-06-08T15:07:03.261502Z"
+  },
+  {
     "id": "EVAA/USDT:USDT_1780931193",
     "symbol": "EVAA",
     "direction": "LONG",
