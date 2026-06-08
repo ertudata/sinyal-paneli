@@ -1,5 +1,18 @@
 [
   {
+    "id": "AXTI/USDT:USDT_1780925808",
+    "symbol": "AXTI",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 92.18,
+    "exit_price": null,
+    "sl": 92.45654,
+    "tp": 90.7973,
+    "pnl": null,
+    "change_pct": 1.8,
+    "timestamp": "2026-06-08T13:36:48.508763Z"
+  },
+  {
     "id": "HIGH/USDT:USDT_1780925805",
     "symbol": "HIGH",
     "direction": "SHORT",
