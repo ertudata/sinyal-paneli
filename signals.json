@@ -3,14 +3,14 @@
     "id": "EDGE/USDT:USDT_1780931680",
     "symbol": "EDGE",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.4871,
-    "exit_price": null,
+    "exit_price": 0.4885612999999999,
     "sl": 0.4885612999999999,
     "tp": 0.4797935,
-    "pnl": null,
-    "change_pct": 1.142,
-    "timestamp": "2026-06-08T15:14:40.733942Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T15:14:59.335680Z"
   },
   {
     "id": "BSB/USDT:USDT_1780931657",
