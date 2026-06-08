@@ -185,14 +185,14 @@
     "id": "BLUAI/USDT:USDT_1780921546",
     "symbol": "BLUAI",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.013631,
-    "exit_price": null,
+    "exit_price": 0.013835465,
     "sl": 0.013590107,
     "tp": 0.013835465,
-    "pnl": null,
-    "change_pct": -1.067,
-    "timestamp": "2026-06-08T12:25:46.858994Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T12:31:28.936617Z"
   },
   {
     "id": "VELVET/USDT:USDT_1780921524",
