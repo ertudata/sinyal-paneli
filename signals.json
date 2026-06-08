@@ -1,5 +1,18 @@
 [
   {
+    "id": "HOME/USDT:USDT_1780910002",
+    "symbol": "HOME",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.03453,
+    "exit_price": null,
+    "sl": 0.03463358999999999,
+    "tp": 0.034012049999999995,
+    "pnl": null,
+    "change_pct": 1.291,
+    "timestamp": "2026-06-08T09:13:22.084452Z"
+  },
+  {
     "id": "BAS/USDT:USDT_1780909983",
     "symbol": "BAS",
     "direction": "SHORT",
