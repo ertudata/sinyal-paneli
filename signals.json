@@ -874,14 +874,14 @@
     "id": "BEAT/USDT:USDT_1780934591",
     "symbol": "BEAT",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 4.4602,
-    "exit_price": null,
+    "exit_price": 4.3932970000000005,
     "sl": 4.4735806,
     "tp": 4.3932970000000005,
-    "pnl": null,
-    "change_pct": 4.261,
-    "timestamp": "2026-06-08T16:03:11.019397Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T16:10:43.163531Z"
   },
   {
     "id": "YB/USDT:USDT_1780934587",
