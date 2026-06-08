@@ -1,5 +1,18 @@
 [
   {
+    "id": "SNDK/USDT:USDT_1780925646",
+    "symbol": "SNDK",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 1622.95,
+    "exit_price": null,
+    "sl": 1618.08115,
+    "tp": 1647.29425,
+    "pnl": null,
+    "change_pct": -1.457,
+    "timestamp": "2026-06-08T13:34:06.216728Z"
+  },
+  {
     "id": "META/USDT:USDT_1780925643",
     "symbol": "META",
     "direction": "LONG",
