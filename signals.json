@@ -1,5 +1,18 @@
 [
   {
+    "id": "SKYAI/USDT:USDT_1780919994",
+    "symbol": "SKYAI",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.27233,
+    "exit_price": null,
+    "sl": 0.27314699,
+    "tp": 0.26824505,
+    "pnl": null,
+    "change_pct": 1.133,
+    "timestamp": "2026-06-08T11:59:54.335289Z"
+  },
+  {
     "id": "VELVET/USDT:USDT_1780919860",
     "symbol": "VELVET",
     "direction": "LONG",
