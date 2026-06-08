@@ -237,14 +237,14 @@
     "id": "JELLYJELLY/USDT:USDT_1780923889",
     "symbol": "JELLYJELLY",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.06074,
-    "exit_price": null,
+    "exit_price": 0.059828900000000004,
     "sl": 0.06092222,
     "tp": 0.059828900000000004,
-    "pnl": null,
-    "change_pct": 3.089,
-    "timestamp": "2026-06-08T13:04:49.327724Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T13:11:00.902899Z"
   },
   {
     "id": "MYX/USDT:USDT_1780923864",
