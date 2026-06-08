@@ -3,14 +3,14 @@
     "id": "USTC/USDT:USDT_1780928491",
     "symbol": "USTC",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.006336,
-    "exit_price": null,
+    "exit_price": 0.006355007999999999,
     "sl": 0.006355007999999999,
     "tp": 0.006240959999999999,
-    "pnl": null,
-    "change_pct": 1.279,
-    "timestamp": "2026-06-08T14:21:31.351865Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T14:21:51.622692Z"
   },
   {
     "id": "JCT/USDT:USDT_1780928440",
