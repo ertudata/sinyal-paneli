@@ -172,14 +172,14 @@
     "id": "CTR/USDT:USDT_1780920654",
     "symbol": "CTR",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.01504,
-    "exit_price": null,
+    "exit_price": 0.0148144,
     "sl": 0.015085119999999999,
     "tp": 0.0148144,
-    "pnl": null,
-    "change_pct": 1.348,
-    "timestamp": "2026-06-08T12:10:54.639601Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T12:17:50.181320Z"
   },
   {
     "id": "ALLO/USDT:USDT_1780920596",
