@@ -1,5 +1,18 @@
 [
   {
+    "id": "LITE/USDT:USDT_1780925814",
+    "symbol": "LITE",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 864.28,
+    "exit_price": null,
+    "sl": 866.8728399999999,
+    "tp": 851.3158,
+    "pnl": null,
+    "change_pct": 2.457,
+    "timestamp": "2026-06-08T13:36:54.124334Z"
+  },
+  {
     "id": "NOW/USDT:USDT_1780925811",
     "symbol": "NOW",
     "direction": "SHORT",
