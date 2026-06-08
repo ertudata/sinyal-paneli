@@ -3,14 +3,14 @@
     "id": "CLO/USDT:USDT_1780909505",
     "symbol": "CLO",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.17385,
-    "exit_price": null,
+    "exit_price": 0.17437155,
     "sl": 0.17437155,
     "tp": 0.17124225,
-    "pnl": null,
-    "change_pct": 1.542,
-    "timestamp": "2026-06-08T09:05:05.402981Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T09:05:24.402826Z"
   },
   {
     "id": "POWER/USDT:USDT_1780909479",
