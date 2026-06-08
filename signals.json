@@ -1,5 +1,18 @@
 [
   {
+    "id": "ALLO/USDT:USDT_1780921551",
+    "symbol": "ALLO",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.4314,
+    "exit_price": null,
+    "sl": 0.4326942,
+    "tp": 0.424929,
+    "pnl": null,
+    "change_pct": 2.16,
+    "timestamp": "2026-06-08T12:25:51.156640Z"
+  },
+  {
     "id": "BLUAI/USDT:USDT_1780921546",
     "symbol": "BLUAI",
     "direction": "LONG",
