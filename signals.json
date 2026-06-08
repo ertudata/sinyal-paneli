@@ -1,5 +1,18 @@
 [
   {
+    "id": "龙虾/USDT:USDT_1780925137",
+    "symbol": "龙虾",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.009915,
+    "exit_price": null,
+    "sl": 0.009885255,
+    "tp": 0.010063724999999999,
+    "pnl": null,
+    "change_pct": -1.353,
+    "timestamp": "2026-06-08T13:25:37.409913Z"
+  },
+  {
     "id": "PAYP/USDT:USDT_1780925113",
     "symbol": "PAYP",
     "direction": "LONG",
