@@ -1,5 +1,18 @@
 [
   {
+    "id": "PUMP/USDT:USDT_1780923610",
+    "symbol": "PUMP",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.001648,
+    "exit_price": null,
+    "sl": 0.0016529439999999997,
+    "tp": 0.00162328,
+    "pnl": null,
+    "change_pct": 1.104,
+    "timestamp": "2026-06-08T13:00:10.158894Z"
+  },
+  {
     "id": "BTW/USDT:USDT_1780923591",
     "symbol": "BTW",
     "direction": "LONG",
