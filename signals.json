@@ -1,5 +1,18 @@
 [
   {
+    "id": "IDOL/USDT:USDT_1780934644",
+    "symbol": "IDOL",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.02768,
+    "exit_price": null,
+    "sl": 0.02759696,
+    "tp": 0.028095199999999997,
+    "pnl": null,
+    "change_pct": -1.739,
+    "timestamp": "2026-06-08T16:04:04.546860Z"
+  },
+  {
     "id": "HIGH/USDT:USDT_1780934641",
     "symbol": "HIGH",
     "direction": "LONG",
