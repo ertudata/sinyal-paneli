@@ -1,5 +1,18 @@
 [
   {
+    "id": "PIPPIN/USDT:USDT_1780909110",
+    "symbol": "PIPPIN",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.01835,
+    "exit_price": null,
+    "sl": 0.01829495,
+    "tp": 0.01862525,
+    "pnl": null,
+    "change_pct": -4.873,
+    "timestamp": "2026-06-08T08:58:30.926146Z"
+  },
+  {
     "id": "ALLO/USDT:USDT_1780909083",
     "symbol": "ALLO",
     "direction": "LONG",
