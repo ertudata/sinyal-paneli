@@ -1,5 +1,18 @@
 [
   {
+    "id": "INIT/USDT:USDT_1780950763",
+    "symbol": "INIT",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.05428,
+    "exit_price": null,
+    "sl": 0.054117160000000004,
+    "tp": 0.055094199999999996,
+    "pnl": null,
+    "change_pct": -1.129,
+    "timestamp": "2026-06-08T20:32:43.818483Z"
+  },
+  {
     "id": "C/USDT:USDT_1780950760",
     "symbol": "C",
     "direction": "SHORT",
