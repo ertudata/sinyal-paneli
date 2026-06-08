@@ -861,14 +861,14 @@
     "id": "IBM/USDT:USDT_1780925425",
     "symbol": "IBM",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 288.67,
-    "exit_price": null,
+    "exit_price": 284.33995,
     "sl": 289.53601,
     "tp": 284.33995,
-    "pnl": null,
-    "change_pct": 1.135,
-    "timestamp": "2026-06-08T13:30:25.632409Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T13:37:24.384160Z"
   },
   {
     "id": "COHR/USDT:USDT_1780925421",
