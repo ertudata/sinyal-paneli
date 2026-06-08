@@ -653,14 +653,14 @@
     "id": "OPN/USDT:USDT_1780934742",
     "symbol": "OPN",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.109,
-    "exit_price": null,
+    "exit_price": 0.108673,
     "sl": 0.108673,
     "tp": 0.11063499999999998,
-    "pnl": null,
-    "change_pct": -1.802,
-    "timestamp": "2026-06-08T16:05:42.962170Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:26:15.709896Z"
   },
   {
     "id": "FIDA/USDT:USDT_1780934739",
