@@ -1576,14 +1576,14 @@
     "id": "ICNT/USDT:USDT_1780924919",
     "symbol": "ICNT",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.2186,
-    "exit_price": null,
+    "exit_price": 0.21925579999999997,
     "sl": 0.21925579999999997,
     "tp": 0.21532099999999998,
-    "pnl": null,
-    "change_pct": 1.063,
-    "timestamp": "2026-06-08T13:21:59.430968Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T14:02:42.566663Z"
   },
   {
     "id": "SIREN/USDT:USDT_1780924854",
