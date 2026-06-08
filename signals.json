@@ -120,14 +120,14 @@
     "id": "RKLB/USDT:USDT_1780925497",
     "symbol": "RKLB",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 112.61,
-    "exit_price": null,
+    "exit_price": 112.27217,
     "sl": 112.27217,
     "tp": 114.29914999999998,
-    "pnl": null,
-    "change_pct": -1.513,
-    "timestamp": "2026-06-08T13:31:37.001401Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T13:32:53.443221Z"
   },
   {
     "id": "NOW/USDT:USDT_1780925493",
