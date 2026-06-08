@@ -159,14 +159,14 @@
     "id": "BTW/USDT:USDT_1780927273",
     "symbol": "BTW",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.060502,
-    "exit_price": null,
+    "exit_price": 0.060320494,
     "sl": 0.060320494,
     "tp": 0.06140953,
-    "pnl": null,
-    "change_pct": -1.203,
-    "timestamp": "2026-06-08T14:01:13.165146Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T14:09:41.444979Z"
   },
   {
     "id": "PUMPBTC/USDT:USDT_1780927254",
