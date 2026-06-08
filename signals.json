@@ -1,5 +1,18 @@
 [
   {
+    "id": "ALLO/USDT:USDT_1780920956",
+    "symbol": "ALLO",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.42318,
+    "exit_price": null,
+    "sl": 0.42444953999999996,
+    "tp": 0.4168323,
+    "pnl": null,
+    "change_pct": 1.058,
+    "timestamp": "2026-06-08T12:15:56.565741Z"
+  },
+  {
     "id": "龙虾/USDT:USDT_1780920901",
     "symbol": "龙虾",
     "direction": "LONG",
