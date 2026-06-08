@@ -1277,14 +1277,14 @@
     "id": "APR/USDT:USDT_1780934694",
     "symbol": "APR",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.20122,
-    "exit_price": null,
+    "exit_price": 0.20061634,
     "sl": 0.20061634,
     "tp": 0.20423829999999998,
-    "pnl": null,
-    "change_pct": -1.372,
-    "timestamp": "2026-06-08T16:04:54.108883Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:38:56.963123Z"
   },
   {
     "id": "CHIP/USDT:USDT_1780934690",
