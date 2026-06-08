@@ -458,14 +458,14 @@
     "id": "ALLO/USDT:USDT_1780925140",
     "symbol": "ALLO",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.43391,
-    "exit_price": null,
+    "exit_price": 0.44041864999999997,
     "sl": 0.43260827,
     "tp": 0.44041864999999997,
-    "pnl": null,
-    "change_pct": -1.514,
-    "timestamp": "2026-06-08T13:25:40.142213Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T13:32:35.737415Z"
   },
   {
     "id": "龙虾/USDT:USDT_1780925137",
