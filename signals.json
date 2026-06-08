@@ -16,14 +16,14 @@
     "id": "BSB/USDT:USDT_1780922869",
     "symbol": "BSB",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.29389,
-    "exit_price": null,
+    "exit_price": 0.29829834999999993,
     "sl": 0.29300833,
     "tp": 0.29829834999999993,
-    "pnl": null,
-    "change_pct": -8.136,
-    "timestamp": "2026-06-08T12:47:49.052198Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T12:48:43.891651Z"
   },
   {
     "id": "BSB/USDT:USDT_1780922845",
