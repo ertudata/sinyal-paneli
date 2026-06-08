@@ -1,5 +1,18 @@
 [
   {
+    "id": "BSB/USDT:USDT_1780931230",
+    "symbol": "BSB",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.33518,
+    "exit_price": null,
+    "sl": 0.33417445999999995,
+    "tp": 0.34020769999999995,
+    "pnl": null,
+    "change_pct": -1.29,
+    "timestamp": "2026-06-08T15:07:10.744260Z"
+  },
+  {
     "id": "LAYER/USDT:USDT_1780931226",
     "symbol": "LAYER",
     "direction": "LONG",
