@@ -380,14 +380,14 @@
     "id": "JCT/USDT:USDT_1780928440",
     "symbol": "JCT",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.004862,
-    "exit_price": null,
+    "exit_price": 0.004847414,
     "sl": 0.004847414,
     "tp": 0.00493493,
-    "pnl": null,
-    "change_pct": -1.119,
-    "timestamp": "2026-06-08T14:20:40.113757Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T14:29:42.204150Z"
   },
   {
     "id": "BEAT/USDT:USDT_1780928394",
