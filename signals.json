@@ -16,14 +16,14 @@
     "id": "PUMPBTC/USDT:USDT_1780927254",
     "symbol": "PUMPBTC",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.01046,
-    "exit_price": null,
+    "exit_price": 0.01049138,
     "sl": 0.01049138,
     "tp": 0.0103031,
-    "pnl": null,
-    "change_pct": 1.455,
-    "timestamp": "2026-06-08T14:00:54.425513Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T14:02:24.062470Z"
   },
   {
     "id": "FLNC/USDT:USDT_1780927148",
