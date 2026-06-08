@@ -55,14 +55,14 @@
     "id": "CLO/USDT:USDT_1780927837",
     "symbol": "CLO",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.15931,
-    "exit_price": null,
+    "exit_price": 0.15883207000000002,
     "sl": 0.15883207000000002,
     "tp": 0.16169965,
-    "pnl": null,
-    "change_pct": -1.123,
-    "timestamp": "2026-06-08T14:10:37.419708Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T14:11:48.273765Z"
   },
   {
     "id": "BEAT/USDT:USDT_1780927834",
