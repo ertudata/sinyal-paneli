@@ -1,5 +1,18 @@
 [
   {
+    "id": "龙虾/USDT:USDT_1780925049",
+    "symbol": "龙虾",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.009994,
+    "exit_price": null,
+    "sl": 0.010023981999999999,
+    "tp": 0.00984409,
+    "pnl": null,
+    "change_pct": 1.123,
+    "timestamp": "2026-06-08T13:24:09.971124Z"
+  },
+  {
     "id": "VELVET/USDT:USDT_1780925025",
     "symbol": "VELVET",
     "direction": "LONG",
