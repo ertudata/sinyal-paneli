@@ -120,14 +120,14 @@
     "id": "HOME/USDT:USDT_1780934806",
     "symbol": "HOME",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.0317,
-    "exit_price": null,
+    "exit_price": 0.03179509999999999,
     "sl": 0.03179509999999999,
     "tp": 0.0312245,
-    "pnl": null,
-    "change_pct": 1.57,
-    "timestamp": "2026-06-08T16:06:46.955610Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:07:46.045153Z"
   },
   {
     "id": "JCT/USDT:USDT_1780934803",
