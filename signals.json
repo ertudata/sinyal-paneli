@@ -81,14 +81,14 @@
     "id": "PORTAL/USDT:USDT_1780920173",
     "symbol": "PORTAL",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.01704,
-    "exit_price": null,
+    "exit_price": 0.016784399999999998,
     "sl": 0.017091119999999998,
     "tp": 0.016784399999999998,
-    "pnl": null,
-    "change_pct": 1.188,
-    "timestamp": "2026-06-08T12:02:53.466794Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T12:05:25.628819Z"
   },
   {
     "id": "VELVET/USDT:USDT_1780920149",
