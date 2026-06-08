@@ -1,5 +1,18 @@
 [
   {
+    "id": "HEI/USDT:USDT_1780931086",
+    "symbol": "HEI",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.09638,
+    "exit_price": null,
+    "sl": 0.09609085999999999,
+    "tp": 0.09782569999999999,
+    "pnl": null,
+    "change_pct": -1.088,
+    "timestamp": "2026-06-08T15:04:46.643019Z"
+  },
+  {
     "id": "CLO/USDT:USDT_1780931061",
     "symbol": "CLO",
     "direction": "SHORT",
