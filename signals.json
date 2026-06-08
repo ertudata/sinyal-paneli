@@ -107,14 +107,14 @@
     "id": "GUA/USDT:USDT_1780936365",
     "symbol": "GUA",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.6966,
-    "exit_price": null,
+    "exit_price": 0.686151,
     "sl": 0.6986897999999999,
     "tp": 0.686151,
-    "pnl": null,
-    "change_pct": 1.427,
-    "timestamp": "2026-06-08T16:32:45.115567Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T16:36:32.861058Z"
   },
   {
     "id": "AAOI/USDT:USDT_1780936361",
