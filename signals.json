@@ -1,5 +1,18 @@
 [
   {
+    "id": "SFP/USDT:USDT_1780934697",
+    "symbol": "SFP",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.2362,
+    "exit_price": null,
+    "sl": 0.2354914,
+    "tp": 0.23974299999999998,
+    "pnl": null,
+    "change_pct": -1.337,
+    "timestamp": "2026-06-08T16:04:57.695052Z"
+  },
+  {
     "id": "APR/USDT:USDT_1780934694",
     "symbol": "APR",
     "direction": "LONG",
