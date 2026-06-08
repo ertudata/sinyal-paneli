@@ -1,5 +1,18 @@
 [
   {
+    "id": "EPIC/USDT:USDT_1780934917",
+    "symbol": "EPIC",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.4578,
+    "exit_price": null,
+    "sl": 0.45642659999999996,
+    "tp": 0.46466699999999994,
+    "pnl": null,
+    "change_pct": -1.907,
+    "timestamp": "2026-06-08T16:08:37.749917Z"
+  },
+  {
     "id": "PIPPIN/USDT:USDT_1780934882",
     "symbol": "PIPPIN",
     "direction": "SHORT",
