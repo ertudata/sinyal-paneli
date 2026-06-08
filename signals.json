@@ -1,5 +1,18 @@
 [
   {
+    "id": "AXTI/USDT:USDT_1780925608",
+    "symbol": "AXTI",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 90.18,
+    "exit_price": null,
+    "sl": 89.90946000000001,
+    "tp": 91.53269999999999,
+    "pnl": null,
+    "change_pct": -4.622,
+    "timestamp": "2026-06-08T13:33:28.297020Z"
+  },
+  {
     "id": "DELL/USDT:USDT_1780925605",
     "symbol": "DELL",
     "direction": "LONG",
