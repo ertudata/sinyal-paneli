@@ -55,14 +55,14 @@
     "id": "B/USDT:USDT_1780930280",
     "symbol": "B",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.2875,
-    "exit_price": null,
+    "exit_price": 0.28836249999999997,
     "sl": 0.28836249999999997,
     "tp": 0.2831875,
-    "pnl": null,
-    "change_pct": 1.626,
-    "timestamp": "2026-06-08T14:51:20.159063Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T14:55:51.372951Z"
   },
   {
     "id": "BEAT/USDT:USDT_1780930258",
