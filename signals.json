@@ -1,5 +1,18 @@
 [
   {
+    "id": "CHZ/USDT:USDT_1780936004",
+    "symbol": "CHZ",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.02591,
+    "exit_price": null,
+    "sl": 0.025987729999999997,
+    "tp": 0.025521349999999998,
+    "pnl": null,
+    "change_pct": 1.449,
+    "timestamp": "2026-06-08T16:26:44.769623Z"
+  },
+  {
     "id": "ARIA/USDT:USDT_1780936000",
     "symbol": "ARIA",
     "direction": "SHORT",
