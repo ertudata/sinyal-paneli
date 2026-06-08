@@ -2434,14 +2434,14 @@
     "id": "GTC/USDT:USDT_1780934629",
     "symbol": "GTC",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.07736,
-    "exit_price": null,
+    "exit_price": 0.07712792,
     "sl": 0.07712792,
     "tp": 0.07852039999999999,
-    "pnl": null,
-    "change_pct": -1.502,
-    "timestamp": "2026-06-08T16:03:49.083309Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T20:31:13.008252Z"
   },
   {
     "id": "HMSTR/USDT:USDT_1780934626",
