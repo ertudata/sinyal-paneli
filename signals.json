@@ -16,14 +16,14 @@
     "id": "GWEI/USDT:USDT_1780921048",
     "symbol": "GWEI",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.14716,
-    "exit_price": null,
+    "exit_price": 0.14760148,
     "sl": 0.14760148,
     "tp": 0.14495260000000001,
-    "pnl": null,
-    "change_pct": 1.273,
-    "timestamp": "2026-06-08T12:17:28.876725Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T12:17:56.222998Z"
   },
   {
     "id": "VELVET/USDT:USDT_1780921045",
