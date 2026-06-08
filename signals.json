@@ -250,14 +250,14 @@
     "id": "CBRS/USDT:USDT_1780925756",
     "symbol": "CBRS",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 205.46,
-    "exit_price": null,
+    "exit_price": 208.5419,
     "sl": 204.84362000000002,
     "tp": 208.5419,
-    "pnl": null,
-    "change_pct": -1.145,
-    "timestamp": "2026-06-08T13:35:56.774151Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T13:40:43.308519Z"
   },
   {
     "id": "CRM/USDT:USDT_1780925753",
