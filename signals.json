@@ -1225,14 +1225,14 @@
     "id": "CRWV/USDT:USDT_1780925760",
     "symbol": "CRWV",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 99.13,
-    "exit_price": null,
+    "exit_price": 98.83260999999999,
     "sl": 98.83260999999999,
     "tp": 100.61694999999999,
-    "pnl": null,
-    "change_pct": -1.383,
-    "timestamp": "2026-06-08T13:36:00.883897Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T14:22:46.327522Z"
   },
   {
     "id": "CBRS/USDT:USDT_1780925756",
