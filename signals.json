@@ -1,5 +1,18 @@
 [
   {
+    "id": "NXPC/USDT:USDT_1780950862",
+    "symbol": "NXPC",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.3597,
+    "exit_price": null,
+    "sl": 0.36077909999999996,
+    "tp": 0.3543045,
+    "pnl": null,
+    "change_pct": 3.095,
+    "timestamp": "2026-06-08T20:34:22.130498Z"
+  },
+  {
     "id": "FIDA/USDT:USDT_1780950858",
     "symbol": "FIDA",
     "direction": "LONG",
