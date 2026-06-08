@@ -1,5 +1,18 @@
 [
   {
+    "id": "INTC/USDT:USDT_1780923648",
+    "symbol": "INTC",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 106.86,
+    "exit_price": null,
+    "sl": 107.18057999999999,
+    "tp": 105.2571,
+    "pnl": null,
+    "change_pct": 3.077,
+    "timestamp": "2026-06-08T13:00:48.004161Z"
+  },
+  {
     "id": "BANK/USDT:USDT_1780923628",
     "symbol": "BANK",
     "direction": "SHORT",
