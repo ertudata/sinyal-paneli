@@ -1,5 +1,18 @@
 [
   {
+    "id": "BEAT/USDT:USDT_1780928668",
+    "symbol": "BEAT",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 4.1095,
+    "exit_price": null,
+    "sl": 4.0971715,
+    "tp": 4.171142499999999,
+    "pnl": null,
+    "change_pct": -1.288,
+    "timestamp": "2026-06-08T14:24:28.136865Z"
+  },
+  {
     "id": "EPIC/USDT:USDT_1780928648",
     "symbol": "EPIC",
     "direction": "LONG",
