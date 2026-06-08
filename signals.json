@@ -1,5 +1,18 @@
 [
   {
+    "id": "CLO/USDT:USDT_1780932557",
+    "symbol": "CLO",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.15438,
+    "exit_price": null,
+    "sl": 0.15391686,
+    "tp": 0.15669569999999997,
+    "pnl": null,
+    "change_pct": -2.167,
+    "timestamp": "2026-06-08T15:29:17.099251Z"
+  },
+  {
     "id": "BERA/USDT:USDT_1780932519",
     "symbol": "BERA",
     "direction": "LONG",
