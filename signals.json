@@ -1,5 +1,18 @@
 [
   {
+    "id": "COS/USDT:USDT_1780927762",
+    "symbol": "COS",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.000685,
+    "exit_price": null,
+    "sl": 0.0006829449999999999,
+    "tp": 0.0006952749999999999,
+    "pnl": null,
+    "change_pct": -1.722,
+    "timestamp": "2026-06-08T14:09:22.373073Z"
+  },
+  {
     "id": "USTC/USDT:USDT_1780927759",
     "symbol": "USTC",
     "direction": "SHORT",
