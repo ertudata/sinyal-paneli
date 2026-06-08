@@ -1,5 +1,18 @@
 [
   {
+    "id": "USTC/USDT:USDT_1780927800",
+    "symbol": "USTC",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.006286,
+    "exit_price": null,
+    "sl": 0.006304857999999999,
+    "tp": 0.00619171,
+    "pnl": null,
+    "change_pct": 3.015,
+    "timestamp": "2026-06-08T14:10:00.483762Z"
+  },
+  {
     "id": "BTW/USDT:USDT_1780927797",
     "symbol": "BTW",
     "direction": "LONG",
