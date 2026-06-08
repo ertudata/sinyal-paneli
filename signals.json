@@ -1,5 +1,18 @@
 [
   {
+    "id": "ATOM/USDT:USDT_1780950881",
+    "symbol": "ATOM",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 1.792,
+    "exit_price": null,
+    "sl": 1.7973759999999999,
+    "tp": 1.76512,
+    "pnl": null,
+    "change_pct": 1.934,
+    "timestamp": "2026-06-08T20:34:41.063044Z"
+  },
+  {
     "id": "MELANIA/USDT:USDT_1780950878",
     "symbol": "MELANIA",
     "direction": "LONG",
