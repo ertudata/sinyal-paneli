@@ -1290,14 +1290,14 @@
     "id": "ICNT/USDT:USDT_1780927365",
     "symbol": "ICNT",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.2248,
-    "exit_price": null,
+    "exit_price": 0.22142799999999999,
     "sl": 0.22547439999999996,
     "tp": 0.22142799999999999,
-    "pnl": null,
-    "change_pct": 3.025,
-    "timestamp": "2026-06-08T14:02:45.386828Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T14:50:52.900116Z"
   },
   {
     "id": "BTW/USDT:USDT_1780927273",
