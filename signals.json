@@ -1,5 +1,18 @@
 [
   {
+    "id": "ALLO/USDT:USDT_1780918788",
+    "symbol": "ALLO",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.52725,
+    "exit_price": null,
+    "sl": 0.52566825,
+    "tp": 0.5351587499999999,
+    "pnl": null,
+    "change_pct": -1.262,
+    "timestamp": "2026-06-08T11:39:48.387327Z"
+  },
+  {
     "id": "BTW/USDT:USDT_1780918767",
     "symbol": "BTW",
     "direction": "SHORT",
