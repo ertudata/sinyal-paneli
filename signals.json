@@ -107,14 +107,14 @@
     "id": "HIGH/USDT:USDT_1780925805",
     "symbol": "HIGH",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 0.0816,
-    "exit_price": null,
+    "exit_price": 0.080376,
     "sl": 0.0818448,
     "tp": 0.080376,
-    "pnl": null,
-    "change_pct": 1.366,
-    "timestamp": "2026-06-08T13:36:45.804398Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T13:37:59.369530Z"
   },
   {
     "id": "AAOI/USDT:USDT_1780925772",
