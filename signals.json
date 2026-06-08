@@ -81,14 +81,14 @@
     "id": "GIGGLE/USDT:USDT_1780934830",
     "symbol": "GIGGLE",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 30.21,
-    "exit_price": null,
+    "exit_price": 30.300629999999998,
     "sl": 30.300629999999998,
     "tp": 29.75685,
-    "pnl": null,
-    "change_pct": 1.24,
-    "timestamp": "2026-06-08T16:07:10.603448Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:09:01.913675Z"
   },
   {
     "id": "FHE/USDT:USDT_1780934827",
