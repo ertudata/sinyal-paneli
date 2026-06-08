@@ -29,14 +29,14 @@
     "id": "BLESS/USDT:USDT_1780924174",
     "symbol": "BLESS",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.008982,
-    "exit_price": null,
+    "exit_price": 0.009008945999999999,
     "sl": 0.009008945999999999,
     "tp": 0.00884727,
-    "pnl": null,
-    "change_pct": 1.331,
-    "timestamp": "2026-06-08T13:09:34.852716Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T13:10:03.084833Z"
   },
   {
     "id": "ESPORTS/USDT:USDT_1780924147",
