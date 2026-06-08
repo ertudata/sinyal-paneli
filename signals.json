@@ -1,5 +1,18 @@
 [
   {
+    "id": "BSB/USDT:USDT_1780928583",
+    "symbol": "BSB",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.31617,
+    "exit_price": null,
+    "sl": 0.31522149,
+    "tp": 0.32091254999999996,
+    "pnl": null,
+    "change_pct": -1.382,
+    "timestamp": "2026-06-08T14:23:03.542995Z"
+  },
+  {
     "id": "BROCCOLIF3B/USDT:USDT_1780928579",
     "symbol": "BROCCOLIF3B",
     "direction": "LONG",
