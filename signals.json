@@ -1,5 +1,18 @@
 [
   {
+    "id": "ON/USDT:USDT_1780935304",
+    "symbol": "ON",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.084,
+    "exit_price": null,
+    "sl": 0.084252,
+    "tp": 0.08274000000000001,
+    "pnl": null,
+    "change_pct": 2.09,
+    "timestamp": "2026-06-08T16:15:04.546305Z"
+  },
+  {
     "id": "BULLA/USDT:USDT_1780935120",
     "symbol": "BULLA",
     "direction": "SHORT",
