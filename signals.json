@@ -484,14 +484,14 @@
     "id": "MU/USDT:USDT_1780925433",
     "symbol": "MU",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 948.48,
-    "exit_price": null,
+    "exit_price": 934.2528,
     "sl": 951.32544,
     "tp": 934.2528,
-    "pnl": null,
-    "change_pct": 1.16,
-    "timestamp": "2026-06-08T13:30:33.098351Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T13:34:33.346585Z"
   },
   {
     "id": "IREN/USDT:USDT_1780925429",
