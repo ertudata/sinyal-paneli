@@ -1,5 +1,18 @@
 [
   {
+    "id": "PUMP/USDT:USDT_1780950854",
+    "symbol": "PUMP",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.001633,
+    "exit_price": null,
+    "sl": 0.0016378989999999997,
+    "tp": 0.0016085049999999999,
+    "pnl": null,
+    "change_pct": 1.366,
+    "timestamp": "2026-06-08T20:34:14.860859Z"
+  },
+  {
     "id": "EDU/USDT:USDT_1780950850",
     "symbol": "EDU",
     "direction": "SHORT",
