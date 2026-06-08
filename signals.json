@@ -1,5 +1,18 @@
 [
   {
+    "id": "WDC/USDT:USDT_1780925452",
+    "symbol": "WDC",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 529.16,
+    "exit_price": null,
+    "sl": 527.5725199999999,
+    "tp": 537.0973999999999,
+    "pnl": null,
+    "change_pct": -1.807,
+    "timestamp": "2026-06-08T13:30:52.064645Z"
+  },
+  {
     "id": "AXTI/USDT:USDT_1780925447",
     "symbol": "AXTI",
     "direction": "SHORT",
