@@ -1,5 +1,18 @@
 [
   {
+    "id": "PIPPIN/USDT:USDT_1780935590",
+    "symbol": "PIPPIN",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.02492,
+    "exit_price": null,
+    "sl": 0.024994759999999998,
+    "tp": 0.0245462,
+    "pnl": null,
+    "change_pct": 1.548,
+    "timestamp": "2026-06-08T16:19:50.977667Z"
+  },
+  {
     "id": "BLESS/USDT:USDT_1780935582",
     "symbol": "BLESS",
     "direction": "SHORT",
