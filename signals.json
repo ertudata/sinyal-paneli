@@ -1,5 +1,18 @@
 [
   {
+    "id": "MAGMA/USDT:USDT_1780950868",
+    "symbol": "MAGMA",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.43696,
+    "exit_price": null,
+    "sl": 0.43564912,
+    "tp": 0.4435144,
+    "pnl": null,
+    "change_pct": -3.372,
+    "timestamp": "2026-06-08T20:34:28.390165Z"
+  },
+  {
     "id": "AIGENSYN/USDT:USDT_1780950865",
     "symbol": "AIGENSYN",
     "direction": "LONG",
