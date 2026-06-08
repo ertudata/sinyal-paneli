@@ -1,5 +1,18 @@
 [
   {
+    "id": "CBRS/USDT:USDT_1780925536",
+    "symbol": "CBRS",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 211.12,
+    "exit_price": null,
+    "sl": 210.48664,
+    "tp": 214.28679999999997,
+    "pnl": null,
+    "change_pct": -1.433,
+    "timestamp": "2026-06-08T13:32:16.016426Z"
+  },
+  {
     "id": "NBIS/USDT:USDT_1780925531",
     "symbol": "NBIS",
     "direction": "LONG",
