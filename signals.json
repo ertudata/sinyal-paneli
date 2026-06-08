@@ -1,5 +1,18 @@
 [
   {
+    "id": "BIO/USDT:USDT_1780929752",
+    "symbol": "BIO",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.03242,
+    "exit_price": null,
+    "sl": 0.032322739999999996,
+    "tp": 0.03290629999999999,
+    "pnl": null,
+    "change_pct": -1.369,
+    "timestamp": "2026-06-08T14:42:32.166846Z"
+  },
+  {
     "id": "BROCCOLIF3B/USDT:USDT_1780929637",
     "symbol": "BROCCOLIF3B",
     "direction": "SHORT",
