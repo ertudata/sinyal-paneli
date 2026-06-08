@@ -1,5 +1,18 @@
 [
   {
+    "id": "HOME/USDT:USDT_1780925279",
+    "symbol": "HOME",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.03104,
+    "exit_price": null,
+    "sl": 0.030946880000000003,
+    "tp": 0.0315056,
+    "pnl": null,
+    "change_pct": -1.71,
+    "timestamp": "2026-06-08T13:27:59.593752Z"
+  },
+  {
     "id": "US/USDT:USDT_1780925258",
     "symbol": "US",
     "direction": "SHORT",
