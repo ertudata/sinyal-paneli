@@ -1,5 +1,18 @@
 [
   {
+    "id": "INTC/USDT:USDT_1780923769",
+    "symbol": "INTC",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 109.05,
+    "exit_price": null,
+    "sl": 109.37714999999999,
+    "tp": 107.41425,
+    "pnl": null,
+    "change_pct": 1.612,
+    "timestamp": "2026-06-08T13:02:49.215797Z"
+  },
+  {
     "id": "QNTX/USDT:USDT_1780923732",
     "symbol": "QNTX",
     "direction": "SHORT",
