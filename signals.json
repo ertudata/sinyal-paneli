@@ -484,14 +484,14 @@
     "id": "MU/USDT:USDT_1780925716",
     "symbol": "MU",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "TP",
     "entry_price": 934.09,
-    "exit_price": null,
+    "exit_price": 948.1013499999999,
     "sl": 931.28773,
     "tp": 948.1013499999999,
-    "pnl": null,
-    "change_pct": -1.654,
-    "timestamp": "2026-06-08T13:35:16.682830Z"
+    "pnl": 15.0,
+    "change_pct": 1.5,
+    "timestamp": "2026-06-08T13:43:35.742259Z"
   },
   {
     "id": "BIO/USDT:USDT_1780925651",
