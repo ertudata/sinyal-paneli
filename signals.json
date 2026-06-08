@@ -1615,14 +1615,14 @@
     "id": "KGEN/USDT:USDT_1780934746",
     "symbol": "KGEN",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.19573,
-    "exit_price": null,
+    "exit_price": 0.19514281,
     "sl": 0.19514281,
     "tp": 0.19866594999999998,
-    "pnl": null,
-    "change_pct": -3.166,
-    "timestamp": "2026-06-08T16:05:46.965241Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T16:53:34.152762Z"
   },
   {
     "id": "OPN/USDT:USDT_1780934742",
