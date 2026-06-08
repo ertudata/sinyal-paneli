@@ -1,5 +1,18 @@
 [
   {
+    "id": "CRCL/USDT:USDT_1780925527",
+    "symbol": "CRCL",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 82.73,
+    "exit_price": null,
+    "sl": 82.48181000000001,
+    "tp": 83.97095,
+    "pnl": null,
+    "change_pct": -1.582,
+    "timestamp": "2026-06-08T13:32:07.104897Z"
+  },
+  {
     "id": "HIGH/USDT:USDT_1780925522",
     "symbol": "HIGH",
     "direction": "LONG",
