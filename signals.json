@@ -1,5 +1,18 @@
 [
   {
+    "id": "USTC/USDT:USDT_1780929365",
+    "symbol": "USTC",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.006511,
+    "exit_price": null,
+    "sl": 0.006530533,
+    "tp": 0.006413335,
+    "pnl": null,
+    "change_pct": 1.118,
+    "timestamp": "2026-06-08T14:36:05.011078Z"
+  },
+  {
     "id": "AKT/USDT:USDT_1780929304",
     "symbol": "AKT",
     "direction": "SHORT",
