@@ -1680,14 +1680,14 @@
     "id": "SYN/USDT:USDT_1780918854",
     "symbol": "SYN",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.0402,
-    "exit_price": null,
+    "exit_price": 0.0403206,
     "sl": 0.0403206,
     "tp": 0.039597,
-    "pnl": null,
-    "change_pct": 1.107,
-    "timestamp": "2026-06-08T11:40:54.289327Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T12:32:43.462246Z"
   },
   {
     "id": "SYN/USDT:USDT_1780918809",
