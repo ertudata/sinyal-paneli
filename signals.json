@@ -16,14 +16,14 @@
     "id": "HIGH/USDT:USDT_1780925391",
     "symbol": "HIGH",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.0838,
-    "exit_price": null,
+    "exit_price": 0.0835486,
     "sl": 0.0835486,
     "tp": 0.085057,
-    "pnl": null,
-    "change_pct": -1.528,
-    "timestamp": "2026-06-08T13:29:51.129159Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T13:30:18.140175Z"
   },
   {
     "id": "HIGH/USDT:USDT_1780925365",
