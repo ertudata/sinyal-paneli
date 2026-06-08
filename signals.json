@@ -1,5 +1,18 @@
 [
   {
+    "id": "VELVET/USDT:USDT_1780931812",
+    "symbol": "VELVET",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.36761,
+    "exit_price": null,
+    "sl": 0.36650717,
+    "tp": 0.37312414999999993,
+    "pnl": null,
+    "change_pct": -2.413,
+    "timestamp": "2026-06-08T15:16:52.054448Z"
+  },
+  {
     "id": "BLESS/USDT:USDT_1780931784",
     "symbol": "BLESS",
     "direction": "SHORT",
