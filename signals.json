@@ -1,5 +1,18 @@
 [
   {
+    "id": "SAPIEN/USDT:USDT_1780919321",
+    "symbol": "SAPIEN",
+    "direction": "SHORT",
+    "status": "OPEN",
+    "entry_price": 0.08115,
+    "exit_price": null,
+    "sl": 0.08139344999999999,
+    "tp": 0.07993275,
+    "pnl": null,
+    "change_pct": 1.109,
+    "timestamp": "2026-06-08T11:48:41.827042Z"
+  },
+  {
     "id": "ALLO/USDT:USDT_1780919318",
     "symbol": "ALLO",
     "direction": "LONG",
