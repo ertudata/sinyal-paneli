@@ -133,14 +133,14 @@
     "id": "ARIA/USDT:USDT_1780928166",
     "symbol": "ARIA",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.03491,
-    "exit_price": null,
+    "exit_price": 0.035014729999999994,
     "sl": 0.035014729999999994,
     "tp": 0.034386349999999996,
-    "pnl": null,
-    "change_pct": 3.131,
-    "timestamp": "2026-06-08T14:16:06.530742Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T14:17:53.512360Z"
   },
   {
     "id": "JCT/USDT:USDT_1780928142",
