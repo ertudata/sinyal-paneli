@@ -1,5 +1,18 @@
 [
   {
+    "id": "PORTAL/USDT:USDT_1780919399",
+    "symbol": "PORTAL",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 0.01742,
+    "exit_price": null,
+    "sl": 0.017367740000000003,
+    "tp": 0.0176813,
+    "pnl": null,
+    "change_pct": -1.079,
+    "timestamp": "2026-06-08T11:49:59.123862Z"
+  },
+  {
     "id": "ALLO/USDT:USDT_1780919396",
     "symbol": "ALLO",
     "direction": "SHORT",
