@@ -3,14 +3,14 @@
     "id": "ARIA/USDT:USDT_1780931565",
     "symbol": "ARIA",
     "direction": "SHORT",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.03557,
-    "exit_price": null,
+    "exit_price": 0.03567670999999999,
     "sl": 0.03567670999999999,
     "tp": 0.03503645,
-    "pnl": null,
-    "change_pct": 1.339,
-    "timestamp": "2026-06-08T15:12:45.918059Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T15:13:56.041468Z"
   },
   {
     "id": "YB/USDT:USDT_1780931499",
