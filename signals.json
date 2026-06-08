@@ -1,5 +1,18 @@
 [
   {
+    "id": "BEAT/USDT:USDT_1780919209",
+    "symbol": "BEAT",
+    "direction": "LONG",
+    "status": "OPEN",
+    "entry_price": 4.3753,
+    "exit_price": null,
+    "sl": 4.3621741,
+    "tp": 4.4409295,
+    "pnl": null,
+    "change_pct": -2.033,
+    "timestamp": "2026-06-08T11:46:49.574596Z"
+  },
+  {
     "id": "MYX/USDT:USDT_1780919206",
     "symbol": "MYX",
     "direction": "LONG",
