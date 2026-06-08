@@ -81,14 +81,14 @@
     "id": "VELODROME/USDT:USDT_1780921442",
     "symbol": "VELODROME",
     "direction": "LONG",
-    "status": "OPEN",
+    "status": "SL",
     "entry_price": 0.01353,
-    "exit_price": null,
+    "exit_price": 0.01348941,
     "sl": 0.01348941,
     "tp": 0.013732949999999999,
-    "pnl": null,
-    "change_pct": -1.672,
-    "timestamp": "2026-06-08T12:24:02.770347Z"
+    "pnl": -3.0,
+    "change_pct": -0.3,
+    "timestamp": "2026-06-08T12:26:10.471133Z"
   },
   {
     "id": "4/USDT:USDT_1780921439",
